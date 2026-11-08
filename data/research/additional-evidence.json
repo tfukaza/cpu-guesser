@@ -1,0 +1,2996 @@
+{
+  "retrievedAt": "2026-11-07",
+  "items": [
+    {
+      "id": "hp_pa7100",
+      "kind": "recovered-original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HP-HP9000-PARISC-PA7100-CPU-Chip.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/HP-HP9000-PARISC-PA7100-CPU-Chip.jpg",
+      "licenseEvidence": "data/research/commons-batches.json",
+      "sha256": "5e5301e95e81cb6d024e3001c1960aed50c3f775d2a73d1c1781517befd822db"
+    },
+    {
+      "id": "hp_pa7100lc",
+      "kind": "recovered-original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HP_PA-7100LC_die.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HP_PA-7100LC_die.JPG",
+      "licenseEvidence": "data/research/commons-batches.json",
+      "sha256": "bdb08fa3942ebcf3c2ad95a92d98a96071fa536b5f372bd7b1193539bae8a0f1"
+    },
+    {
+      "id": "idt_r4600",
+      "kind": "recovered-original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IDT_R4600_die.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/IDT_R4600_die.jpg",
+      "licenseEvidence": "data/research/commons-batches.json",
+      "sha256": "606017bedfb9b508204218b7a225157f6326876c57266b5c2d091f5b2d7a112e"
+    },
+    {
+      "id": "ti_microsparc2",
+      "kind": "recovered-original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_microSPARC_II_die2.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sun_microSPARC_II_die2.jpg",
+      "licenseEvidence": "data/research/commons-batches.json",
+      "sha256": "55e95e90f440afb3daa656391ca25188c45b293b781019dfd063a2030ce4ea1a"
+    },
+    {
+      "id": "dec_21164_ev5",
+      "kind": "recovered-original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alpha_EV5_die.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Alpha_EV5_die.JPG",
+      "licenseEvidence": "data/research/commons-batches.json",
+      "sha256": "5693b00ddf635848f82804897d1c4676f2bb787fd6ad6c5aa4212fff249b6978"
+    },
+    {
+      "id": "hp_pa7300lc",
+      "kind": "recovered-original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HP_PA-7300LC_die.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/HP_PA-7300LC_die.JPG",
+      "licenseEvidence": "data/research/commons-batches.json",
+      "sha256": "6928bf3f743307b3f596b170d42d217f04475fcd3bfeadc982976df68ad94b2d"
+    },
+    {
+      "id": "mips_r5000",
+      "kind": "recovered-original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NEC_VR5000_die.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/NEC_VR5000_die.JPG",
+      "licenseEvidence": "data/research/commons-batches.json",
+      "sha256": "f16baec7057334546f4efd1cc5bf7152423abb0ab7cbc298a8ca16168436d4a5"
+    },
+    {
+      "id": "hp_pa8500",
+      "kind": "recovered-original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HP_PA-8500_DSC00523_(35119492890).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/HP_PA-8500_DSC00523_%2835119492890%29.jpg",
+      "licenseEvidence": "data/research/commons-batches.json",
+      "sha256": "0b8deb01089bf1748e916400db726e6f9a2c05a9346692b8989f1a68b2701ea2"
+    },
+    {
+      "id": "qed_rm7000",
+      "kind": "recovered-original",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:QED_RM7000_die.JPG",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/QED_RM7000_die.JPG",
+      "licenseEvidence": "data/research/commons-batches.json",
+      "sha256": "a08bebd652c0ccd11e6046f0f52c93e6728f73070ebc07d5a99b778bbd871821"
+    },
+    {
+      "id": "amd_k6_littlefoot",
+      "sourceUrl": "https://www.flickr.com/photos/130561288@N04/48010599568/",
+      "photoModel": {
+        "_flickrModelRegistry": "photo-models",
+        "title": "AMD@250nm@K6@Model7(Little_Foot)_-_(cpuid570)@AMD-K6-266AFR@2.2V_CORE_A_9815MPM_1997_AMD___DSCx6_polysilicon@5x",
+        "description": "AMD-K6-266AFR\n(K6 &quot;Little Foot&quot; Model 7 | 1998)\n(6071AW --&gt; 5071AM)\n\n(polysilicon | microscope 5x with brightfield)\n\ndie-size: 10,25mm x 6,60mm (67,65mm²) (22770 dpi)\n\nMicroscope: Leitz SECOLUX 6x6\nObjectiv: Leitz NPL Fluotar 5x/0.09 oo/-\nOcular: Periplan GF 10x/18 M\nCamera: Sony NEX-5T (16.1MP APS-C sensor) @ 4MP\nObjectiv: Pentax 40mm F2.8 Pancake",
+        "license": 9,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_t.jpg",
+                "width": 100,
+                "height": 64,
+                "url": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_m.jpg",
+                "width": 240,
+                "height": 154,
+                "url": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_n.jpg",
+                "width": 320,
+                "height": 206,
+                "url": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_w.jpg",
+                "width": 400,
+                "height": 257,
+                "url": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7.jpg",
+                "width": 500,
+                "height": 321,
+                "url": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_z.jpg",
+                "width": 640,
+                "height": 411,
+                "url": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_c.jpg",
+                "width": 800,
+                "height": 514,
+                "url": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_b.jpg",
+                "width": 1024,
+                "height": 658,
+                "url": "//live.staticflickr.com/65535/48010599568_ce1d9e44a7_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_00bcaee50f_h.jpg",
+                "width": 1600,
+                "height": 1028,
+                "url": "//live.staticflickr.com/65535/48010599568_00bcaee50f_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_cf7a4897e5_k.jpg",
+                "width": 2048,
+                "height": 1316,
+                "url": "//live.staticflickr.com/65535/48010599568_cf7a4897e5_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "3k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_312c59ccd9_3k.jpg",
+                "width": 3072,
+                "height": 1974,
+                "url": "//live.staticflickr.com/65535/48010599568_312c59ccd9_3k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "4k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_9727a61183_4k.jpg",
+                "width": 4096,
+                "height": 2632,
+                "url": "//live.staticflickr.com/65535/48010599568_9727a61183_4k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "5k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_d4157831f1_5k.jpg",
+                "width": 5120,
+                "height": 3290,
+                "url": "//live.staticflickr.com/65535/48010599568_d4157831f1_5k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "6k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_32075d0d36_6k.jpg",
+                "width": 6144,
+                "height": 3948,
+                "url": "//live.staticflickr.com/65535/48010599568_32075d0d36_6k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/48010599568_d96db81470_o.jpg",
+                "width": 9191,
+                "height": 5906,
+                "url": "//live.staticflickr.com/65535/48010599568_d96db81470_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "canComment": false,
+        "canPublicComment": true,
+        "rotation": 0,
+        "owner": {
+          "data": {
+            "_flickrModelRegistry": "person-models",
+            "username": "FritzchensFritz",
+            "realname": "Fritzchens Fritz",
+            "buddyicon": {
+              "data": {
+                "retina": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_r.jpg?1614369109#130561288@N04",
+                "large": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_l.jpg?1614369109#130561288@N04",
+                "medium": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_m.jpg?1614369109#130561288@N04",
+                "small": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_s.jpg?1614369109#130561288@N04",
+                "default": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04.jpg?1614369109#130561288@N04"
+              },
+              "exportMetaType": "pojo"
+            },
+            "isPro": true,
+            "proBadge": "standard",
+            "isAdFree": false,
+            "dateCreated": {
+              "data": "1423900809",
+              "exportMetaType": "serializeFunction"
+            },
+            "location": "Berlin",
+            "subscription": {
+              "data": {
+                "isPastDue": false,
+                "isPro": false,
+                "isClosed": false
+              },
+              "exportMetaType": "pojo"
+            },
+            "segments": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "isEligibleForGifts": true,
+            "eligibleGifts": {
+              "data": [
+                "year",
+                "month",
+                "week"
+              ],
+              "exportMetaType": "array"
+            },
+            "newFlow": true,
+            "id": "130561288@N04"
+          },
+          "exportMetaType": "model"
+        },
+        "engagement": {
+          "data": {
+            "_flickrModelRegistry": "photo-engagement-models",
+            "ownerNsid": "130561288@N04",
+            "faveCount": 2,
+            "canShare": true,
+            "canDownload": true,
+            "viewCount": 9181,
+            "reactions": {
+              "data": {
+                "like": {
+                  "data": {
+                    "id": "like",
+                    "count": 5,
+                    "didViewerReact": true,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                },
+                "someOtherReaction": {
+                  "data": {
+                    "id": "someOtherReaction",
+                    "count": 3,
+                    "didViewerReact": false,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                }
+              },
+              "exportMetaType": "pojo"
+            },
+            "id": "48010599568"
+          },
+          "exportMetaType": "model"
+        },
+        "secret": "ce1d9e44a7",
+        "adEligibility": {
+          "data": {
+            "isAdEligible": false,
+            "labels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "highScoreLabels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "lane": 1
+          },
+          "exportMetaType": "pojo"
+        },
+        "canAddMeta": false,
+        "oWidth": 9191,
+        "oHeight": 5906,
+        "safetyLevel": 0,
+        "upgradeSizes": {
+          "data": [],
+          "exportMetaType": "array"
+        },
+        "id": "48010599568"
+      },
+      "licenseUrls": [
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "downloadedSize": {
+        "displayUrl": "//live.staticflickr.com/65535/48010599568_9727a61183_4k.jpg",
+        "width": 4096,
+        "height": 2632,
+        "url": "//live.staticflickr.com/65535/48010599568_9727a61183_4k.jpg"
+      }
+    },
+    {
+      "id": "intel_skylake_sp_xcc",
+      "sourceUrl": "https://www.flickr.com/photos/130561288@N04/50129523578/",
+      "photoModel": {
+        "_flickrModelRegistry": "photo-models",
+        "title": "Intel@14nm@Skylake@Skylake-SP(XCC)@Xeon(ES)@QJW5___DSCx10@5x",
+        "description": "Xeon ES QJW5\n(Skylake-SP | XCC)\n\n(Polysilicon | 5x | external light)\n(31,80mm x 21,32mm (677,98mm²) | 22220 dpi)",
+        "license": 9,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_t.jpg",
+                "width": 100,
+                "height": 67,
+                "url": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_m.jpg",
+                "width": 240,
+                "height": 161,
+                "url": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_n.jpg",
+                "width": 320,
+                "height": 214,
+                "url": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_w.jpg",
+                "width": 400,
+                "height": 268,
+                "url": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b.jpg",
+                "width": 500,
+                "height": 335,
+                "url": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_z.jpg",
+                "width": 640,
+                "height": 428,
+                "url": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_c.jpg",
+                "width": 800,
+                "height": 536,
+                "url": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_b.jpg",
+                "width": 1024,
+                "height": 685,
+                "url": "//live.staticflickr.com/65535/50129523578_e7f31c1c7b_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_f372c97ec8_h.jpg",
+                "width": 1600,
+                "height": 1071,
+                "url": "//live.staticflickr.com/65535/50129523578_f372c97ec8_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_47218738e6_k.jpg",
+                "width": 2048,
+                "height": 1371,
+                "url": "//live.staticflickr.com/65535/50129523578_47218738e6_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "3k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_bf46df39d4_3k.jpg",
+                "width": 3072,
+                "height": 2056,
+                "url": "//live.staticflickr.com/65535/50129523578_bf46df39d4_3k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "4k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_95a1d630a6_4k.jpg",
+                "width": 4096,
+                "height": 2742,
+                "url": "//live.staticflickr.com/65535/50129523578_95a1d630a6_4k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "5k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_80a9aacb96_5k.jpg",
+                "width": 5120,
+                "height": 3427,
+                "url": "//live.staticflickr.com/65535/50129523578_80a9aacb96_5k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "6k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_6357a06bdc_6k.jpg",
+                "width": 6144,
+                "height": 4113,
+                "url": "//live.staticflickr.com/65535/50129523578_6357a06bdc_6k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50129523578_118545888b_o.jpg",
+                "width": 27819,
+                "height": 18622,
+                "url": "//live.staticflickr.com/65535/50129523578_118545888b_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "canComment": false,
+        "canPublicComment": true,
+        "rotation": 0,
+        "owner": {
+          "data": {
+            "_flickrModelRegistry": "person-models",
+            "username": "FritzchensFritz",
+            "realname": "Fritzchens Fritz",
+            "buddyicon": {
+              "data": {
+                "retina": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_r.jpg?1614369109#130561288@N04",
+                "large": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_l.jpg?1614369109#130561288@N04",
+                "medium": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_m.jpg?1614369109#130561288@N04",
+                "small": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_s.jpg?1614369109#130561288@N04",
+                "default": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04.jpg?1614369109#130561288@N04"
+              },
+              "exportMetaType": "pojo"
+            },
+            "isPro": true,
+            "proBadge": "standard",
+            "isAdFree": false,
+            "dateCreated": {
+              "data": "1423900809",
+              "exportMetaType": "serializeFunction"
+            },
+            "location": "Berlin",
+            "subscription": {
+              "data": {
+                "isPastDue": false,
+                "isPro": false,
+                "isClosed": false
+              },
+              "exportMetaType": "pojo"
+            },
+            "segments": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "isEligibleForGifts": true,
+            "eligibleGifts": {
+              "data": [
+                "year",
+                "month",
+                "week"
+              ],
+              "exportMetaType": "array"
+            },
+            "newFlow": true,
+            "id": "130561288@N04"
+          },
+          "exportMetaType": "model"
+        },
+        "engagement": {
+          "data": {
+            "_flickrModelRegistry": "photo-engagement-models",
+            "ownerNsid": "130561288@N04",
+            "faveCount": 13,
+            "commentCount": 3,
+            "canShare": true,
+            "canDownload": true,
+            "viewCount": 13503,
+            "reactions": {
+              "data": {
+                "like": {
+                  "data": {
+                    "id": "like",
+                    "count": 5,
+                    "didViewerReact": true,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                },
+                "someOtherReaction": {
+                  "data": {
+                    "id": "someOtherReaction",
+                    "count": 3,
+                    "didViewerReact": false,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                }
+              },
+              "exportMetaType": "pojo"
+            },
+            "id": "50129523578"
+          },
+          "exportMetaType": "model"
+        },
+        "secret": "e7f31c1c7b",
+        "adEligibility": {
+          "data": {
+            "isAdEligible": false,
+            "labels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "highScoreLabels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "lane": 1
+          },
+          "exportMetaType": "pojo"
+        },
+        "canAddMeta": false,
+        "oWidth": 27819,
+        "oHeight": 18622,
+        "safetyLevel": 0,
+        "upgradeSizes": {
+          "data": [],
+          "exportMetaType": "array"
+        },
+        "id": "50129523578"
+      },
+      "licenseUrls": [
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "downloadedSize": {
+        "displayUrl": "//live.staticflickr.com/65535/50129523578_bf46df39d4_3k.jpg",
+        "width": 3072,
+        "height": 2056,
+        "url": "//live.staticflickr.com/65535/50129523578_bf46df39d4_3k.jpg"
+      }
+    },
+    {
+      "id": "intel_cannonlake",
+      "sourceUrl": "https://www.flickr.com/photos/130561288@N04/52464622122/",
+      "photoModel": {
+        "_flickrModelRegistry": "photo-models",
+        "title": "Intel@10nm@CannonLake@PalmCoveCores_-_GT2-Gen10_IGP_RadeonRX540@Core i3-8121U@NUC8I3CYSM___DSCx12_poly@5xDIC",
+        "description": "Cannon Lake | Core i3-8121U\n(NUC8I3CYSM)\n\nIntels first 10nm CPU with Palm Cove Cores,\ndeactivated GT2 Gen10 IGP\n\n\nCannon Lake (CPU)\n(Polysilicon | 5x | DIC)\n(8,239 x 8,617 [70,995mm²] | 22030 dpi)",
+        "license": 9,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_c3862734d6_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/65535/52464622122_c3862734d6_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_c3862734d6_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/65535/52464622122_c3862734d6_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_c3862734d6_t.jpg",
+                "width": 96,
+                "height": 100,
+                "url": "//live.staticflickr.com/65535/52464622122_c3862734d6_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_c3862734d6_m.jpg",
+                "width": 230,
+                "height": 240,
+                "url": "//live.staticflickr.com/65535/52464622122_c3862734d6_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_c3862734d6_n.jpg",
+                "width": 306,
+                "height": 320,
+                "url": "//live.staticflickr.com/65535/52464622122_c3862734d6_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_c3862734d6_w.jpg",
+                "width": 383,
+                "height": 400,
+                "url": "//live.staticflickr.com/65535/52464622122_c3862734d6_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_c3862734d6.jpg",
+                "width": 478,
+                "height": 500,
+                "url": "//live.staticflickr.com/65535/52464622122_c3862734d6.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_c3862734d6_z.jpg",
+                "width": 612,
+                "height": 640,
+                "url": "//live.staticflickr.com/65535/52464622122_c3862734d6_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_c3862734d6_c.jpg",
+                "width": 765,
+                "height": 800,
+                "url": "//live.staticflickr.com/65535/52464622122_c3862734d6_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_c3862734d6_b.jpg",
+                "width": 979,
+                "height": 1024,
+                "url": "//live.staticflickr.com/65535/52464622122_c3862734d6_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_4428401aef_h.jpg",
+                "width": 1530,
+                "height": 1600,
+                "url": "//live.staticflickr.com/65535/52464622122_4428401aef_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_f2af68647f_k.jpg",
+                "width": 1959,
+                "height": 2048,
+                "url": "//live.staticflickr.com/65535/52464622122_f2af68647f_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "3k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_296aa28b69_3k.jpg",
+                "width": 2938,
+                "height": 3072,
+                "url": "//live.staticflickr.com/65535/52464622122_296aa28b69_3k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "4k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_758dfa2988_4k.jpg",
+                "width": 3917,
+                "height": 4096,
+                "url": "//live.staticflickr.com/65535/52464622122_758dfa2988_4k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "5k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_0e9ee8c5db_5k.jpg",
+                "width": 4897,
+                "height": 5120,
+                "url": "//live.staticflickr.com/65535/52464622122_0e9ee8c5db_5k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "6k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_388b431fd3_6k.jpg",
+                "width": 5876,
+                "height": 6144,
+                "url": "//live.staticflickr.com/65535/52464622122_388b431fd3_6k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/52464622122_f51e492ea9_o.jpg",
+                "width": 7153,
+                "height": 7479,
+                "url": "//live.staticflickr.com/65535/52464622122_f51e492ea9_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "canComment": false,
+        "canPublicComment": true,
+        "rotation": 0,
+        "owner": {
+          "data": {
+            "_flickrModelRegistry": "person-models",
+            "username": "FritzchensFritz",
+            "realname": "Fritzchens Fritz",
+            "buddyicon": {
+              "data": {
+                "retina": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_r.jpg?1614369109#130561288@N04",
+                "large": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_l.jpg?1614369109#130561288@N04",
+                "medium": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_m.jpg?1614369109#130561288@N04",
+                "small": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_s.jpg?1614369109#130561288@N04",
+                "default": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04.jpg?1614369109#130561288@N04"
+              },
+              "exportMetaType": "pojo"
+            },
+            "isPro": true,
+            "proBadge": "standard",
+            "isAdFree": false,
+            "dateCreated": {
+              "data": "1423900809",
+              "exportMetaType": "serializeFunction"
+            },
+            "location": "Berlin",
+            "subscription": {
+              "data": {
+                "isPastDue": false,
+                "isPro": false,
+                "isClosed": false
+              },
+              "exportMetaType": "pojo"
+            },
+            "segments": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "isEligibleForGifts": true,
+            "eligibleGifts": {
+              "data": [
+                "year",
+                "month",
+                "week"
+              ],
+              "exportMetaType": "array"
+            },
+            "newFlow": true,
+            "id": "130561288@N04"
+          },
+          "exportMetaType": "model"
+        },
+        "engagement": {
+          "data": {
+            "_flickrModelRegistry": "photo-engagement-models",
+            "ownerNsid": "130561288@N04",
+            "faveCount": 1,
+            "canShare": true,
+            "canDownload": true,
+            "viewCount": 7161,
+            "reactions": {
+              "data": {
+                "like": {
+                  "data": {
+                    "id": "like",
+                    "count": 5,
+                    "didViewerReact": true,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                },
+                "someOtherReaction": {
+                  "data": {
+                    "id": "someOtherReaction",
+                    "count": 3,
+                    "didViewerReact": false,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                }
+              },
+              "exportMetaType": "pojo"
+            },
+            "id": "52464622122"
+          },
+          "exportMetaType": "model"
+        },
+        "secret": "c3862734d6",
+        "adEligibility": {
+          "data": {
+            "isAdEligible": false,
+            "labels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "highScoreLabels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "lane": 1
+          },
+          "exportMetaType": "pojo"
+        },
+        "canAddMeta": false,
+        "oWidth": 7153,
+        "oHeight": 7479,
+        "safetyLevel": 0,
+        "upgradeSizes": {
+          "data": [],
+          "exportMetaType": "array"
+        },
+        "id": "52464622122"
+      },
+      "licenseUrls": [
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "downloadedSize": {
+        "displayUrl": "//live.staticflickr.com/65535/52464622122_296aa28b69_3k.jpg",
+        "width": 2938,
+        "height": 3072,
+        "url": "//live.staticflickr.com/65535/52464622122_296aa28b69_3k.jpg"
+      }
+    },
+    {
+      "id": "amd_raven_ridge",
+      "sourceUrl": "https://www.flickr.com/photos/130561288@N04/39716562275/",
+      "photoModel": {
+        "_flickrModelRegistry": "photo-models",
+        "title": "AMD@14nm@Zen(Zeppelin)@Raven_Ridge@Ryzen_3_2200G@YD2200C5M4MFB_AN_1750SUT_9HA7534X70147___DSCx2_polysilicon_microscope_stitched@5x",
+        "description": "AMD Ryzen 2200G\n\n(ZEN &amp; VEGA based APU)\n\nDie-Shot\n\nEtched to polysilicon layer\n\n\nMicroscope: Leitz SECOLUX 6x6 (objektiv: Leitz NPL Fluotar 5x/0.09 oo/-)\nCamera: Sony NEX-5T (16.1MP APS-C sensor)\n(resize to 50%)\n\ndie-size 19,16mm x 10,90mm (208,84mm²) (13850 dpi)",
+        "license": 9,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_c0f841aba4_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/4722/39716562275_c0f841aba4_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_c0f841aba4_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/4722/39716562275_c0f841aba4_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_c0f841aba4_t.jpg",
+                "width": 100,
+                "height": 57,
+                "url": "//live.staticflickr.com/4722/39716562275_c0f841aba4_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_c0f841aba4_m.jpg",
+                "width": 240,
+                "height": 136,
+                "url": "//live.staticflickr.com/4722/39716562275_c0f841aba4_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_c0f841aba4_n.jpg",
+                "width": 320,
+                "height": 182,
+                "url": "//live.staticflickr.com/4722/39716562275_c0f841aba4_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_c0f841aba4_w.jpg",
+                "width": 400,
+                "height": 227,
+                "url": "//live.staticflickr.com/4722/39716562275_c0f841aba4_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_c0f841aba4.jpg",
+                "width": 500,
+                "height": 284,
+                "url": "//live.staticflickr.com/4722/39716562275_c0f841aba4.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_c0f841aba4_z.jpg",
+                "width": 640,
+                "height": 364,
+                "url": "//live.staticflickr.com/4722/39716562275_c0f841aba4_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_c0f841aba4_c.jpg",
+                "width": 800,
+                "height": 455,
+                "url": "//live.staticflickr.com/4722/39716562275_c0f841aba4_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_c0f841aba4_b.jpg",
+                "width": 1024,
+                "height": 582,
+                "url": "//live.staticflickr.com/4722/39716562275_c0f841aba4_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_b7b5bcbeb6_h.jpg",
+                "width": 1600,
+                "height": 909,
+                "url": "//live.staticflickr.com/4722/39716562275_b7b5bcbeb6_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_6dba4b53e2_k.jpg",
+                "width": 2048,
+                "height": 1164,
+                "url": "//live.staticflickr.com/4722/39716562275_6dba4b53e2_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "3k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_e26678c571_3k.jpg",
+                "width": 3072,
+                "height": 1746,
+                "url": "//live.staticflickr.com/4722/39716562275_e26678c571_3k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "4k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_ed2f08eba6_4k.jpg",
+                "width": 4096,
+                "height": 2328,
+                "url": "//live.staticflickr.com/4722/39716562275_ed2f08eba6_4k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "5k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_3ae49dbc67_5k.jpg",
+                "width": 5120,
+                "height": 2910,
+                "url": "//live.staticflickr.com/4722/39716562275_3ae49dbc67_5k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "6k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_91749bc0f9_6k.jpg",
+                "width": 6144,
+                "height": 3492,
+                "url": "//live.staticflickr.com/4722/39716562275_91749bc0f9_6k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4722/39716562275_256ff8911d_o.jpg",
+                "width": 10461,
+                "height": 5945,
+                "url": "//live.staticflickr.com/4722/39716562275_256ff8911d_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "canComment": false,
+        "canPublicComment": true,
+        "rotation": 0,
+        "owner": {
+          "data": {
+            "_flickrModelRegistry": "person-models",
+            "username": "FritzchensFritz",
+            "realname": "Fritzchens Fritz",
+            "buddyicon": {
+              "data": {
+                "retina": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_r.jpg?1614369109#130561288@N04",
+                "large": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_l.jpg?1614369109#130561288@N04",
+                "medium": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_m.jpg?1614369109#130561288@N04",
+                "small": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_s.jpg?1614369109#130561288@N04",
+                "default": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04.jpg?1614369109#130561288@N04"
+              },
+              "exportMetaType": "pojo"
+            },
+            "isPro": true,
+            "proBadge": "standard",
+            "isAdFree": false,
+            "dateCreated": {
+              "data": "1423900809",
+              "exportMetaType": "serializeFunction"
+            },
+            "location": "Berlin",
+            "subscription": {
+              "data": {
+                "isPastDue": false,
+                "isPro": false,
+                "isClosed": false
+              },
+              "exportMetaType": "pojo"
+            },
+            "segments": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "isEligibleForGifts": true,
+            "eligibleGifts": {
+              "data": [
+                "year",
+                "month",
+                "week"
+              ],
+              "exportMetaType": "array"
+            },
+            "newFlow": true,
+            "id": "130561288@N04"
+          },
+          "exportMetaType": "model"
+        },
+        "engagement": {
+          "data": {
+            "_flickrModelRegistry": "photo-engagement-models",
+            "ownerNsid": "130561288@N04",
+            "faveCount": 11,
+            "canShare": true,
+            "canDownload": true,
+            "viewCount": 13501,
+            "reactions": {
+              "data": {
+                "like": {
+                  "data": {
+                    "id": "like",
+                    "count": 5,
+                    "didViewerReact": true,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                },
+                "someOtherReaction": {
+                  "data": {
+                    "id": "someOtherReaction",
+                    "count": 3,
+                    "didViewerReact": false,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                }
+              },
+              "exportMetaType": "pojo"
+            },
+            "id": "39716562275"
+          },
+          "exportMetaType": "model"
+        },
+        "secret": "c0f841aba4",
+        "adEligibility": {
+          "data": {
+            "isAdEligible": false,
+            "labels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "highScoreLabels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "lane": 1
+          },
+          "exportMetaType": "pojo"
+        },
+        "canAddMeta": false,
+        "oWidth": 10461,
+        "oHeight": 5945,
+        "safetyLevel": 0,
+        "upgradeSizes": {
+          "data": [],
+          "exportMetaType": "array"
+        },
+        "id": "39716562275"
+      },
+      "licenseUrls": [
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "downloadedSize": {
+        "displayUrl": "//live.staticflickr.com/4722/39716562275_ed2f08eba6_4k.jpg",
+        "width": 4096,
+        "height": 2328,
+        "url": "//live.staticflickr.com/4722/39716562275_ed2f08eba6_4k.jpg"
+      }
+    },
+    {
+      "id": "amd_vangogh",
+      "sourceUrl": "https://www.flickr.com/photos/130561288@N04/53420912468/",
+      "photoModel": {
+        "_flickrModelRegistry": "photo-models",
+        "title": "AMD@7nmTSMC@DAPU_VanGogh@Zen2_RDNA2@Valve_Steamdeck_LCD@100-000000405_2242SSY_9KP1485V20241___DSCx14_poly@5xEXT",
+        "description": "Valve Steamdeck LCD\nAMD APU (Van Gogh)\n\n(Polysilicon | 5x | ExternalLight | 22060 dpi)\n\n(13.210 x 12.171 [160.779mm²][physical die-size])\n(~13.071 x ~12.097 [158.120mm²][w/o scribe lines])",
+        "license": 9,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_t.jpg",
+                "width": 100,
+                "height": 91,
+                "url": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_m.jpg",
+                "width": 240,
+                "height": 219,
+                "url": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_n.jpg",
+                "width": 320,
+                "height": 292,
+                "url": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_w.jpg",
+                "width": 400,
+                "height": 365,
+                "url": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d91e5df4a7.jpg",
+                "width": 500,
+                "height": 456,
+                "url": "//live.staticflickr.com/65535/53420912468_d91e5df4a7.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_z.jpg",
+                "width": 640,
+                "height": 584,
+                "url": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_c.jpg",
+                "width": 800,
+                "height": 730,
+                "url": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_b.jpg",
+                "width": 1024,
+                "height": 935,
+                "url": "//live.staticflickr.com/65535/53420912468_d91e5df4a7_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_4e6e583f94_h.jpg",
+                "width": 1600,
+                "height": 1461,
+                "url": "//live.staticflickr.com/65535/53420912468_4e6e583f94_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_3fac52e9c5_k.jpg",
+                "width": 2048,
+                "height": 1870,
+                "url": "//live.staticflickr.com/65535/53420912468_3fac52e9c5_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "3k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_d22a7faab3_3k.jpg",
+                "width": 3072,
+                "height": 2805,
+                "url": "//live.staticflickr.com/65535/53420912468_d22a7faab3_3k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "4k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_32233ce6c7_4k.jpg",
+                "width": 4096,
+                "height": 3739,
+                "url": "//live.staticflickr.com/65535/53420912468_32233ce6c7_4k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "5k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_c52d174fe5_5k.jpg",
+                "width": 5120,
+                "height": 4674,
+                "url": "//live.staticflickr.com/65535/53420912468_c52d174fe5_5k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "6k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_c817d29fd4_6k.jpg",
+                "width": 6144,
+                "height": 5609,
+                "url": "//live.staticflickr.com/65535/53420912468_c817d29fd4_6k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53420912468_4c0bd32783_o.jpg",
+                "width": 11579,
+                "height": 10571,
+                "url": "//live.staticflickr.com/65535/53420912468_4c0bd32783_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "canComment": false,
+        "canPublicComment": true,
+        "rotation": 0,
+        "owner": {
+          "data": {
+            "_flickrModelRegistry": "person-models",
+            "username": "FritzchensFritz",
+            "realname": "Fritzchens Fritz",
+            "buddyicon": {
+              "data": {
+                "retina": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_r.jpg?1614369109#130561288@N04",
+                "large": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_l.jpg?1614369109#130561288@N04",
+                "medium": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_m.jpg?1614369109#130561288@N04",
+                "small": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_s.jpg?1614369109#130561288@N04",
+                "default": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04.jpg?1614369109#130561288@N04"
+              },
+              "exportMetaType": "pojo"
+            },
+            "isPro": true,
+            "proBadge": "standard",
+            "isAdFree": false,
+            "dateCreated": {
+              "data": "1423900809",
+              "exportMetaType": "serializeFunction"
+            },
+            "location": "Berlin",
+            "subscription": {
+              "data": {
+                "isPastDue": false,
+                "isPro": false,
+                "isClosed": false
+              },
+              "exportMetaType": "pojo"
+            },
+            "segments": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "isEligibleForGifts": true,
+            "eligibleGifts": {
+              "data": [
+                "year",
+                "month",
+                "week"
+              ],
+              "exportMetaType": "array"
+            },
+            "newFlow": true,
+            "id": "130561288@N04"
+          },
+          "exportMetaType": "model"
+        },
+        "engagement": {
+          "data": {
+            "_flickrModelRegistry": "photo-engagement-models",
+            "ownerNsid": "130561288@N04",
+            "faveCount": 2,
+            "canShare": true,
+            "canDownload": true,
+            "viewCount": 7769,
+            "reactions": {
+              "data": {
+                "like": {
+                  "data": {
+                    "id": "like",
+                    "count": 5,
+                    "didViewerReact": true,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                },
+                "someOtherReaction": {
+                  "data": {
+                    "id": "someOtherReaction",
+                    "count": 3,
+                    "didViewerReact": false,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                }
+              },
+              "exportMetaType": "pojo"
+            },
+            "id": "53420912468"
+          },
+          "exportMetaType": "model"
+        },
+        "secret": "d91e5df4a7",
+        "adEligibility": {
+          "data": {
+            "isAdEligible": false,
+            "labels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "highScoreLabels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "lane": 1
+          },
+          "exportMetaType": "pojo"
+        },
+        "canAddMeta": false,
+        "oWidth": 11579,
+        "oHeight": 10571,
+        "safetyLevel": 0,
+        "upgradeSizes": {
+          "data": [],
+          "exportMetaType": "array"
+        },
+        "id": "53420912468"
+      },
+      "licenseUrls": [
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "downloadedSize": {
+        "displayUrl": "//live.staticflickr.com/65535/53420912468_d22a7faab3_3k.jpg",
+        "width": 3072,
+        "height": 2805,
+        "url": "//live.staticflickr.com/65535/53420912468_d22a7faab3_3k.jpg"
+      }
+    },
+    {
+      "id": "intel_tulsa",
+      "sourceUrl": "https://www.flickr.com/photos/187597251@N05/53580078716/",
+      "photoModel": {
+        "_flickrModelRegistry": "photo-models",
+        "title": "Intel Xeon 7130M Die-shot (Tulsa)",
+        "description": "S-SPEC: SL9HB\n\nThis is an Intel Xeon 7130M CPU,  it has two cores (top half) and 16MB of L3 cache (only 8MB is enabled for this particular chip)\n\nImage colours have been enhanced slightly and dust/debris has been removed in photoshop.\n\nFlickr uploader was giving me issues again, this was the highest resolution it would let me upload. 45K file in comments.",
+        "license": 5,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_cae3623cc9_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/65535/53580078716_cae3623cc9_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_cae3623cc9_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/65535/53580078716_cae3623cc9_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_cae3623cc9_t.jpg",
+                "width": 92,
+                "height": 100,
+                "url": "//live.staticflickr.com/65535/53580078716_cae3623cc9_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_cae3623cc9_m.jpg",
+                "width": 220,
+                "height": 240,
+                "url": "//live.staticflickr.com/65535/53580078716_cae3623cc9_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_cae3623cc9_n.jpg",
+                "width": 293,
+                "height": 320,
+                "url": "//live.staticflickr.com/65535/53580078716_cae3623cc9_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_cae3623cc9_w.jpg",
+                "width": 366,
+                "height": 400,
+                "url": "//live.staticflickr.com/65535/53580078716_cae3623cc9_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_cae3623cc9.jpg",
+                "width": 458,
+                "height": 500,
+                "url": "//live.staticflickr.com/65535/53580078716_cae3623cc9.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_cae3623cc9_z.jpg",
+                "width": 586,
+                "height": 640,
+                "url": "//live.staticflickr.com/65535/53580078716_cae3623cc9_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_cae3623cc9_c.jpg",
+                "width": 732,
+                "height": 800,
+                "url": "//live.staticflickr.com/65535/53580078716_cae3623cc9_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_cae3623cc9_b.jpg",
+                "width": 937,
+                "height": 1024,
+                "url": "//live.staticflickr.com/65535/53580078716_cae3623cc9_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_1ca8292d23_h.jpg",
+                "width": 1465,
+                "height": 1600,
+                "url": "//live.staticflickr.com/65535/53580078716_1ca8292d23_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_3276eb3e07_k.jpg",
+                "width": 1875,
+                "height": 2048,
+                "url": "//live.staticflickr.com/65535/53580078716_3276eb3e07_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/53580078716_5dc7b42d20_o.jpg",
+                "width": 13846,
+                "height": 15125,
+                "url": "//live.staticflickr.com/65535/53580078716_5dc7b42d20_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "canComment": false,
+        "canPublicComment": true,
+        "rotation": 0,
+        "owner": {
+          "data": {
+            "_flickrModelRegistry": "person-models",
+            "username": "cole8888",
+            "realname": "Cole L",
+            "buddyicon": {
+              "data": {
+                "retina": "//farm66.staticflickr.com/65535/buddyicons/187597251@N05_r.jpg?1704556503#187597251@N05",
+                "large": "//farm66.staticflickr.com/65535/buddyicons/187597251@N05_l.jpg?1704556503#187597251@N05",
+                "medium": "//farm66.staticflickr.com/65535/buddyicons/187597251@N05_m.jpg?1704556503#187597251@N05",
+                "small": "//farm66.staticflickr.com/65535/buddyicons/187597251@N05_s.jpg?1704556503#187597251@N05",
+                "default": "//farm66.staticflickr.com/65535/buddyicons/187597251@N05.jpg?1704556503#187597251@N05"
+              },
+              "exportMetaType": "pojo"
+            },
+            "isPro": false,
+            "isAdFree": false,
+            "dateCreated": {
+              "data": "1585245724",
+              "exportMetaType": "serializeFunction"
+            },
+            "location": null,
+            "subscription": {
+              "data": {
+                "isPastDue": false,
+                "isPro": false,
+                "isClosed": false
+              },
+              "exportMetaType": "pojo"
+            },
+            "segments": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "isEligibleForGifts": true,
+            "eligibleGifts": {
+              "data": [
+                "year",
+                "month",
+                "week"
+              ],
+              "exportMetaType": "array"
+            },
+            "newFlow": true,
+            "id": "187597251@N05"
+          },
+          "exportMetaType": "model"
+        },
+        "engagement": {
+          "data": {
+            "_flickrModelRegistry": "photo-engagement-models",
+            "ownerNsid": "187597251@N05",
+            "faveCount": 8,
+            "commentCount": 8,
+            "canShare": true,
+            "canDownload": true,
+            "noteCount": 19,
+            "viewCount": 6256,
+            "reactions": {
+              "data": {
+                "like": {
+                  "data": {
+                    "id": "like",
+                    "count": 5,
+                    "didViewerReact": true,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                },
+                "someOtherReaction": {
+                  "data": {
+                    "id": "someOtherReaction",
+                    "count": 3,
+                    "didViewerReact": false,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                }
+              },
+              "exportMetaType": "pojo"
+            },
+            "id": "53580078716"
+          },
+          "exportMetaType": "model"
+        },
+        "secret": "cae3623cc9",
+        "adEligibility": {
+          "data": {
+            "isAdEligible": true,
+            "labels": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "highScoreLabels": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "lane": 1
+          },
+          "exportMetaType": "pojo"
+        },
+        "canAddMeta": false,
+        "oWidth": 13846,
+        "oHeight": 15125,
+        "safetyLevel": 0,
+        "upgradeSizes": {
+          "data": [],
+          "exportMetaType": "array"
+        },
+        "id": "53580078716"
+      },
+      "licenseUrls": [
+        "https://creativecommons.org/licenses/by-sa/2.0/"
+      ],
+      "downloadedSize": {
+        "displayUrl": "//live.staticflickr.com/65535/53580078716_5dc7b42d20_o.jpg",
+        "width": 13846,
+        "height": 15125,
+        "url": "//live.staticflickr.com/65535/53580078716_5dc7b42d20_o.jpg"
+      }
+    },
+    {
+      "id": "intel_clovertrail",
+      "sourceUrl": "https://www.flickr.com/photos/187597251@N05/50950199043/",
+      "photoModel": {
+        "_flickrModelRegistry": "photo-models",
+        "title": "Intel Atom Z2760 Saltwell [JPG]",
+        "description": "Big thanks to <a href=\"https://www.flickr.com/photos/sic66\">Martijn Boer</a> for generously donating this chip as well as many others.\n\nPreparing this chip was a little different than most modern Intel chips. The first layer I encountered was much harder to remove with a razor and since this chip is incredibly thin I decided to put it in along with the next batch of chips bound for the ultrasonic cleaner. After spending 5 hours or so in a roughly 50-50 solution of both Hydrochloric acid (31%) and Ferric chloride at 37C (any warmer and enough vapors were being released for me to start smelling them through my face shield) it was much easier to work with using the razor.\n\nDimensions: 10.47mm (W), 8.84mm (H), 0.30mm (D)\nCamera: SONY A6000\nNumber of Images: 154\nPanorama Y Axis: 14 Images\nPanorama X Axis: 11 Images\nISO: 100\nShutter Speed: 1&quot;\nLight Source: LEDs on side of objective (2 at 90degrees offset)\nDIC: No\nOverlap: 50%\nMicroscope Objective: 5X\nMicroscope Eyepiece: DSLR Mount\nGrid Used: 4x4 (Panning Movement Aid)\nCapture Motion: ZigZag\nStitching Software: Microsoft ICE\nOther Software: Photoshop for de-skewing, GIMP for sharpening and scaling.\nImage Type: JPG (scaled down from 31364 x 26432px)\nJPEG Quality: 92%",
+        "license": 5,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_t.jpg",
+                "width": 100,
+                "height": 84,
+                "url": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_m.jpg",
+                "width": 240,
+                "height": 202,
+                "url": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_n.jpg",
+                "width": 320,
+                "height": 270,
+                "url": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_w.jpg",
+                "width": 400,
+                "height": 337,
+                "url": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8.jpg",
+                "width": 500,
+                "height": 421,
+                "url": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_z.jpg",
+                "width": 640,
+                "height": 539,
+                "url": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_c.jpg",
+                "width": 800,
+                "height": 674,
+                "url": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_b.jpg",
+                "width": 1024,
+                "height": 863,
+                "url": "//live.staticflickr.com/65535/50950199043_2a6d76c3c8_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_8bcede0b3e_h.jpg",
+                "width": 1600,
+                "height": 1348,
+                "url": "//live.staticflickr.com/65535/50950199043_8bcede0b3e_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_9206c4fa26_k.jpg",
+                "width": 2048,
+                "height": 1726,
+                "url": "//live.staticflickr.com/65535/50950199043_9206c4fa26_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50950199043_dffb01912e_o.jpg",
+                "width": 26000,
+                "height": 21911,
+                "url": "//live.staticflickr.com/65535/50950199043_dffb01912e_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "canComment": false,
+        "canPublicComment": true,
+        "rotation": 0,
+        "owner": {
+          "data": {
+            "_flickrModelRegistry": "person-models",
+            "username": "cole8888",
+            "realname": "Cole L",
+            "buddyicon": {
+              "data": {
+                "retina": "//farm66.staticflickr.com/65535/buddyicons/187597251@N05_r.jpg?1704556503#187597251@N05",
+                "large": "//farm66.staticflickr.com/65535/buddyicons/187597251@N05_l.jpg?1704556503#187597251@N05",
+                "medium": "//farm66.staticflickr.com/65535/buddyicons/187597251@N05_m.jpg?1704556503#187597251@N05",
+                "small": "//farm66.staticflickr.com/65535/buddyicons/187597251@N05_s.jpg?1704556503#187597251@N05",
+                "default": "//farm66.staticflickr.com/65535/buddyicons/187597251@N05.jpg?1704556503#187597251@N05"
+              },
+              "exportMetaType": "pojo"
+            },
+            "isPro": false,
+            "isAdFree": false,
+            "dateCreated": {
+              "data": "1585245724",
+              "exportMetaType": "serializeFunction"
+            },
+            "location": null,
+            "subscription": {
+              "data": {
+                "isPastDue": false,
+                "isPro": false,
+                "isClosed": false
+              },
+              "exportMetaType": "pojo"
+            },
+            "segments": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "isEligibleForGifts": true,
+            "eligibleGifts": {
+              "data": [
+                "year",
+                "month",
+                "week"
+              ],
+              "exportMetaType": "array"
+            },
+            "newFlow": true,
+            "id": "187597251@N05"
+          },
+          "exportMetaType": "model"
+        },
+        "engagement": {
+          "data": {
+            "_flickrModelRegistry": "photo-engagement-models",
+            "ownerNsid": "187597251@N05",
+            "faveCount": 3,
+            "canShare": true,
+            "canDownload": true,
+            "noteCount": 3,
+            "viewCount": 2272,
+            "reactions": {
+              "data": {
+                "like": {
+                  "data": {
+                    "id": "like",
+                    "count": 5,
+                    "didViewerReact": true,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                },
+                "someOtherReaction": {
+                  "data": {
+                    "id": "someOtherReaction",
+                    "count": 3,
+                    "didViewerReact": false,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                }
+              },
+              "exportMetaType": "pojo"
+            },
+            "id": "50950199043"
+          },
+          "exportMetaType": "model"
+        },
+        "secret": "2a6d76c3c8",
+        "adEligibility": {
+          "data": {
+            "isAdEligible": false,
+            "labels": {
+              "data": [
+                "SensitiveWords"
+              ],
+              "exportMetaType": "array"
+            },
+            "highScoreLabels": {
+              "data": [
+                "SensitiveWords"
+              ],
+              "exportMetaType": "array"
+            },
+            "lane": 1
+          },
+          "exportMetaType": "pojo"
+        },
+        "canAddMeta": false,
+        "oWidth": 26000,
+        "oHeight": 21911,
+        "safetyLevel": 0,
+        "upgradeSizes": {
+          "data": [],
+          "exportMetaType": "array"
+        },
+        "id": "50950199043"
+      },
+      "licenseUrls": [
+        "https://creativecommons.org/licenses/by-sa/2.0/"
+      ],
+      "downloadedSize": {
+        "displayUrl": "//live.staticflickr.com/65535/50950199043_dffb01912e_o.jpg",
+        "width": 26000,
+        "height": 21911,
+        "url": "//live.staticflickr.com/65535/50950199043_dffb01912e_o.jpg"
+      }
+    },
+    {
+      "id": "amd_zen3_ccd",
+      "sourceUrl": "https://www.flickr.com/photos/130561288@N04/50579552628/",
+      "photoModel": {
+        "_flickrModelRegistry": "photo-models",
+        "title": "AMD@7nm(12nmIOD)@Zen3@Vermeer@Ryzen_5_5600X@100-000000064_BG_2042SUS_9JF6228V00014___DSCx3@IR",
+        "description": "AMD Ryzen 5 5600X\n(Zen 3 | Vermeer | IOD)\n\n(Polysilicon | Macro | Near Infrared)\n(12,900mm x 9,635mm (124,29mm²) | 5868 dpi)",
+        "license": 9,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_t.jpg",
+                "width": 100,
+                "height": 75,
+                "url": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_m.jpg",
+                "width": 240,
+                "height": 179,
+                "url": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_n.jpg",
+                "width": 320,
+                "height": 239,
+                "url": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_w.jpg",
+                "width": 400,
+                "height": 299,
+                "url": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62.jpg",
+                "width": 500,
+                "height": 373,
+                "url": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_z.jpg",
+                "width": 640,
+                "height": 478,
+                "url": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_c.jpg",
+                "width": 800,
+                "height": 598,
+                "url": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_b.jpg",
+                "width": 1024,
+                "height": 765,
+                "url": "//live.staticflickr.com/65535/50579552628_d0cbe9cd62_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_f469efcc6b_h.jpg",
+                "width": 1600,
+                "height": 1195,
+                "url": "//live.staticflickr.com/65535/50579552628_f469efcc6b_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_c4a9d35249_k.jpg",
+                "width": 2048,
+                "height": 1530,
+                "url": "//live.staticflickr.com/65535/50579552628_c4a9d35249_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "3k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_68470c3699_3k.jpg",
+                "width": 2980,
+                "height": 2226,
+                "url": "//live.staticflickr.com/65535/50579552628_68470c3699_3k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/50579552628_e644fc1934_o.jpg",
+                "width": 2980,
+                "height": 2226,
+                "url": "//live.staticflickr.com/65535/50579552628_e644fc1934_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "canComment": false,
+        "canPublicComment": true,
+        "rotation": 0,
+        "owner": {
+          "data": {
+            "_flickrModelRegistry": "person-models",
+            "username": "FritzchensFritz",
+            "realname": "Fritzchens Fritz",
+            "buddyicon": {
+              "data": {
+                "retina": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_r.jpg?1614369109#130561288@N04",
+                "large": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_l.jpg?1614369109#130561288@N04",
+                "medium": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_m.jpg?1614369109#130561288@N04",
+                "small": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_s.jpg?1614369109#130561288@N04",
+                "default": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04.jpg?1614369109#130561288@N04"
+              },
+              "exportMetaType": "pojo"
+            },
+            "isPro": true,
+            "proBadge": "standard",
+            "isAdFree": false,
+            "dateCreated": {
+              "data": "1423900809",
+              "exportMetaType": "serializeFunction"
+            },
+            "location": "Berlin",
+            "subscription": {
+              "data": {
+                "isPastDue": false,
+                "isPro": false,
+                "isClosed": false
+              },
+              "exportMetaType": "pojo"
+            },
+            "segments": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "isEligibleForGifts": true,
+            "eligibleGifts": {
+              "data": [
+                "year",
+                "month",
+                "week"
+              ],
+              "exportMetaType": "array"
+            },
+            "newFlow": true,
+            "id": "130561288@N04"
+          },
+          "exportMetaType": "model"
+        },
+        "engagement": {
+          "data": {
+            "_flickrModelRegistry": "photo-engagement-models",
+            "ownerNsid": "130561288@N04",
+            "faveCount": 5,
+            "canShare": true,
+            "canDownload": true,
+            "viewCount": 22147,
+            "reactions": {
+              "data": {
+                "like": {
+                  "data": {
+                    "id": "like",
+                    "count": 5,
+                    "didViewerReact": true,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                },
+                "someOtherReaction": {
+                  "data": {
+                    "id": "someOtherReaction",
+                    "count": 3,
+                    "didViewerReact": false,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                }
+              },
+              "exportMetaType": "pojo"
+            },
+            "id": "50579552628"
+          },
+          "exportMetaType": "model"
+        },
+        "secret": "d0cbe9cd62",
+        "adEligibility": {
+          "data": {
+            "isAdEligible": false,
+            "labels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "highScoreLabels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "lane": 1
+          },
+          "exportMetaType": "pojo"
+        },
+        "canAddMeta": false,
+        "oWidth": 2980,
+        "oHeight": 2226,
+        "safetyLevel": 0,
+        "upgradeSizes": {
+          "data": [],
+          "exportMetaType": "array"
+        },
+        "id": "50579552628"
+      },
+      "licenseUrls": [
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "decision": "Exclude I/O-only die; separate verified compute die added as amd_zen3_vermeer_ccd."
+    },
+    {
+      "id": "intel_northwood",
+      "sourceUrl": "https://www.flickr.com/photos/130561288@N04/32847415126/",
+      "photoModel": {
+        "_flickrModelRegistry": "photo-models",
+        "title": "Intel@130nm@NetBurst@Northwood@Pentium4@SL6PF___DSC07596",
+        "description": "die-size 11.10mm x 11.50mm (127,65mm²)",
+        "license": 9,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_d4cf19025c_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/472/32847415126_d4cf19025c_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_d4cf19025c_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/472/32847415126_d4cf19025c_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_d4cf19025c_t.jpg",
+                "width": 97,
+                "height": 100,
+                "url": "//live.staticflickr.com/472/32847415126_d4cf19025c_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_d4cf19025c_m.jpg",
+                "width": 232,
+                "height": 240,
+                "url": "//live.staticflickr.com/472/32847415126_d4cf19025c_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_d4cf19025c_n.jpg",
+                "width": 309,
+                "height": 320,
+                "url": "//live.staticflickr.com/472/32847415126_d4cf19025c_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_d4cf19025c_w.jpg",
+                "width": 386,
+                "height": 400,
+                "url": "//live.staticflickr.com/472/32847415126_d4cf19025c_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_d4cf19025c.jpg",
+                "width": 483,
+                "height": 500,
+                "url": "//live.staticflickr.com/472/32847415126_d4cf19025c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_d4cf19025c_z.jpg",
+                "width": 618,
+                "height": 640,
+                "url": "//live.staticflickr.com/472/32847415126_d4cf19025c_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_d4cf19025c_c.jpg",
+                "width": 772,
+                "height": 800,
+                "url": "//live.staticflickr.com/472/32847415126_d4cf19025c_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_d4cf19025c_b.jpg",
+                "width": 988,
+                "height": 1024,
+                "url": "//live.staticflickr.com/472/32847415126_d4cf19025c_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_17911a1c87_h.jpg",
+                "width": 1544,
+                "height": 1600,
+                "url": "//live.staticflickr.com/472/32847415126_17911a1c87_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_def7d7542a_k.jpg",
+                "width": 1977,
+                "height": 2048,
+                "url": "//live.staticflickr.com/472/32847415126_def7d7542a_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "3k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_9a20ced184_3k.jpg",
+                "width": 2714,
+                "height": 2812,
+                "url": "//live.staticflickr.com/472/32847415126_9a20ced184_3k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/472/32847415126_b38331b1a7_o.jpg",
+                "width": 2714,
+                "height": 2812,
+                "url": "//live.staticflickr.com/472/32847415126_b38331b1a7_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "canComment": false,
+        "canPublicComment": true,
+        "rotation": 0,
+        "owner": {
+          "data": {
+            "_flickrModelRegistry": "person-models",
+            "username": "FritzchensFritz",
+            "realname": "Fritzchens Fritz",
+            "buddyicon": {
+              "data": {
+                "retina": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_r.jpg?1614369109#130561288@N04",
+                "large": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_l.jpg?1614369109#130561288@N04",
+                "medium": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_m.jpg?1614369109#130561288@N04",
+                "small": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_s.jpg?1614369109#130561288@N04",
+                "default": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04.jpg?1614369109#130561288@N04"
+              },
+              "exportMetaType": "pojo"
+            },
+            "isPro": true,
+            "proBadge": "standard",
+            "isAdFree": false,
+            "dateCreated": {
+              "data": "1423900809",
+              "exportMetaType": "serializeFunction"
+            },
+            "location": "Berlin",
+            "subscription": {
+              "data": {
+                "isPastDue": false,
+                "isPro": false,
+                "isClosed": false
+              },
+              "exportMetaType": "pojo"
+            },
+            "segments": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "isEligibleForGifts": true,
+            "eligibleGifts": {
+              "data": [
+                "year",
+                "month",
+                "week"
+              ],
+              "exportMetaType": "array"
+            },
+            "newFlow": true,
+            "id": "130561288@N04"
+          },
+          "exportMetaType": "model"
+        },
+        "engagement": {
+          "data": {
+            "_flickrModelRegistry": "photo-engagement-models",
+            "ownerNsid": "130561288@N04",
+            "faveCount": 4,
+            "canShare": true,
+            "canDownload": true,
+            "viewCount": 8561,
+            "reactions": {
+              "data": {
+                "like": {
+                  "data": {
+                    "id": "like",
+                    "count": 5,
+                    "didViewerReact": true,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                },
+                "someOtherReaction": {
+                  "data": {
+                    "id": "someOtherReaction",
+                    "count": 3,
+                    "didViewerReact": false,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                }
+              },
+              "exportMetaType": "pojo"
+            },
+            "id": "32847415126"
+          },
+          "exportMetaType": "model"
+        },
+        "secret": "d4cf19025c",
+        "adEligibility": {
+          "data": {
+            "isAdEligible": false,
+            "labels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "highScoreLabels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "lane": 1
+          },
+          "exportMetaType": "pojo"
+        },
+        "canAddMeta": false,
+        "oWidth": 2714,
+        "oHeight": 2812,
+        "safetyLevel": 0,
+        "upgradeSizes": {
+          "data": [],
+          "exportMetaType": "array"
+        },
+        "id": "32847415126"
+      },
+      "licenseUrls": [
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "downloadedSize": {
+        "displayUrl": "//live.staticflickr.com/472/32847415126_9a20ced184_3k.jpg",
+        "width": 2714,
+        "height": 2812,
+        "url": "//live.staticflickr.com/472/32847415126_9a20ced184_3k.jpg"
+      }
+    },
+    {
+      "id": "sun_ultrasparc_t2",
+      "sourceUrl": "https://www.flickr.com/photos/130561288@N04/35338042542/",
+      "photoModel": {
+        "_flickrModelRegistry": "photo-models",
+        "title": "US_T2___DSC00506",
+        "description": "Prototype of UltraSPARC T2\n\n(dpi = die-size)",
+        "license": 9,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_ca85523bf5_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/4289/35338042542_ca85523bf5_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_ca85523bf5_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/4289/35338042542_ca85523bf5_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_ca85523bf5_t.jpg",
+                "width": 100,
+                "height": 88,
+                "url": "//live.staticflickr.com/4289/35338042542_ca85523bf5_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_ca85523bf5_m.jpg",
+                "width": 240,
+                "height": 211,
+                "url": "//live.staticflickr.com/4289/35338042542_ca85523bf5_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_ca85523bf5_n.jpg",
+                "width": 320,
+                "height": 281,
+                "url": "//live.staticflickr.com/4289/35338042542_ca85523bf5_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_ca85523bf5_w.jpg",
+                "width": 400,
+                "height": 352,
+                "url": "//live.staticflickr.com/4289/35338042542_ca85523bf5_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_ca85523bf5.jpg",
+                "width": 500,
+                "height": 440,
+                "url": "//live.staticflickr.com/4289/35338042542_ca85523bf5.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_ca85523bf5_z.jpg",
+                "width": 640,
+                "height": 563,
+                "url": "//live.staticflickr.com/4289/35338042542_ca85523bf5_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_ca85523bf5_c.jpg",
+                "width": 800,
+                "height": 704,
+                "url": "//live.staticflickr.com/4289/35338042542_ca85523bf5_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_ca85523bf5_b.jpg",
+                "width": 1024,
+                "height": 901,
+                "url": "//live.staticflickr.com/4289/35338042542_ca85523bf5_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_6f49c136a7_h.jpg",
+                "width": 1600,
+                "height": 1407,
+                "url": "//live.staticflickr.com/4289/35338042542_6f49c136a7_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_78e51e631b_k.jpg",
+                "width": 2048,
+                "height": 1801,
+                "url": "//live.staticflickr.com/4289/35338042542_78e51e631b_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "3k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_2af310deba_3k.jpg",
+                "width": 3072,
+                "height": 2702,
+                "url": "//live.staticflickr.com/4289/35338042542_2af310deba_3k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/4289/35338042542_32f2849c3a_o.jpg",
+                "width": 3450,
+                "height": 3034,
+                "url": "//live.staticflickr.com/4289/35338042542_32f2849c3a_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "canComment": false,
+        "canPublicComment": true,
+        "rotation": 0,
+        "owner": {
+          "data": {
+            "_flickrModelRegistry": "person-models",
+            "username": "FritzchensFritz",
+            "realname": "Fritzchens Fritz",
+            "buddyicon": {
+              "data": {
+                "retina": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_r.jpg?1614369109#130561288@N04",
+                "large": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_l.jpg?1614369109#130561288@N04",
+                "medium": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_m.jpg?1614369109#130561288@N04",
+                "small": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04_s.jpg?1614369109#130561288@N04",
+                "default": "//farm66.staticflickr.com/65535/buddyicons/130561288@N04.jpg?1614369109#130561288@N04"
+              },
+              "exportMetaType": "pojo"
+            },
+            "isPro": true,
+            "proBadge": "standard",
+            "isAdFree": false,
+            "dateCreated": {
+              "data": "1423900809",
+              "exportMetaType": "serializeFunction"
+            },
+            "location": "Berlin",
+            "subscription": {
+              "data": {
+                "isPastDue": false,
+                "isPro": false,
+                "isClosed": false
+              },
+              "exportMetaType": "pojo"
+            },
+            "segments": {
+              "data": [],
+              "exportMetaType": "array"
+            },
+            "isEligibleForGifts": true,
+            "eligibleGifts": {
+              "data": [
+                "year",
+                "month",
+                "week"
+              ],
+              "exportMetaType": "array"
+            },
+            "newFlow": true,
+            "id": "130561288@N04"
+          },
+          "exportMetaType": "model"
+        },
+        "engagement": {
+          "data": {
+            "_flickrModelRegistry": "photo-engagement-models",
+            "ownerNsid": "130561288@N04",
+            "faveCount": 3,
+            "canShare": true,
+            "canDownload": true,
+            "viewCount": 7977,
+            "reactions": {
+              "data": {
+                "like": {
+                  "data": {
+                    "id": "like",
+                    "count": 5,
+                    "didViewerReact": true,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                },
+                "someOtherReaction": {
+                  "data": {
+                    "id": "someOtherReaction",
+                    "count": 3,
+                    "didViewerReact": false,
+                    "canReact": true
+                  },
+                  "exportMetaType": "pojo"
+                }
+              },
+              "exportMetaType": "pojo"
+            },
+            "id": "35338042542"
+          },
+          "exportMetaType": "model"
+        },
+        "secret": "ca85523bf5",
+        "adEligibility": {
+          "data": {
+            "isAdEligible": false,
+            "labels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "highScoreLabels": {
+              "data": [
+                "ProOwner"
+              ],
+              "exportMetaType": "array"
+            },
+            "lane": 1
+          },
+          "exportMetaType": "pojo"
+        },
+        "canAddMeta": false,
+        "oWidth": 3450,
+        "oHeight": 3034,
+        "safetyLevel": 0,
+        "upgradeSizes": {
+          "data": [],
+          "exportMetaType": "array"
+        },
+        "id": "35338042542"
+      },
+      "licenseUrls": [
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "downloadedSize": {
+        "displayUrl": "//live.staticflickr.com/4289/35338042542_2af310deba_3k.jpg",
+        "width": 3072,
+        "height": 2702,
+        "url": "//live.staticflickr.com/4289/35338042542_2af310deba_3k.jpg"
+      }
+    },
+    {
+      "id": "amd_zen3_vermeer_ccd",
+      "metadata": {
+        "batchcomplete": "",
+        "query": {
+          "normalized": [
+            {
+              "from": "File:AMD@7nm(12nmIOD)@Zen3@Vermeer@Ryzen_5_5600X@100-000000064_BG_2042SUS_9JF6228V00014_DSCx6@20x.jpg",
+              "to": "File:AMD@7nm(12nmIOD)@Zen3@Vermeer@Ryzen 5 5600X@100-000000064 BG 2042SUS 9JF6228V00014 DSCx6@20x.jpg"
+            }
+          ],
+          "pages": {
+            "96097022": {
+              "pageid": 96097022,
+              "ns": 6,
+              "title": "File:AMD@7nm(12nmIOD)@Zen3@Vermeer@Ryzen 5 5600X@100-000000064 BG 2042SUS 9JF6228V00014 DSCx6@20x.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "size": 202392683,
+                  "width": 39718,
+                  "height": 26181,
+                  "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/AMD%407nm%2812nmIOD%29%40Zen3%40Vermeer%40Ryzen_5_5600X%40100-000000064_BG_2042SUS_9JF6228V00014_DSCx6%4020x.jpg/3840px-AMD%407nm%2812nmIOD%29%40Zen3%40Vermeer%40Ryzen_5_5600X%40100-000000064_BG_2042SUS_9JF6228V00014_DSCx6%4020x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                  "thumbwidth": 3840,
+                  "thumbheight": 2531,
+                  "thumbattribs": {
+                    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/AMD%407nm%2812nmIOD%29%40Zen3%40Vermeer%40Ryzen_5_5600X%40100-000000064_BG_2042SUS_9JF6228V00014_DSCx6%4020x.jpg/3840px-AMD%407nm%2812nmIOD%29%40Zen3%40Vermeer%40Ryzen_5_5600X%40100-000000064_BG_2042SUS_9JF6228V00014_DSCx6%4020x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                    "decoding": "async",
+                    "loading": "lazy",
+                    "width": 3840,
+                    "height": 2531
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/AMD%407nm%2812nmIOD%29%40Zen3%40Vermeer%40Ryzen_5_5600X%40100-000000064_BG_2042SUS_9JF6228V00014_DSCx6%4020x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:AMD@7nm(12nmIOD)@Zen3@Vermeer@Ryzen_5_5600X@100-000000064_BG_2042SUS_9JF6228V00014_DSCx6@20x.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96097022",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-11-13 21:58:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "AMD@7nm(12nmIOD)@Zen3@Vermeer@Ryzen 5 5600X@100-000000064 BG 2042SUS 9JF6228V00014 DSCx6@20x",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Large images|Flickr images reviewed by FlickreviewR 2|AMD Ryzen 5 5600X",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "AMD Ryzen 5 5600X\n<p>(Zen 3 | Vermeer | CCD)\n</p><p>(Polysilicon | 20x | Brightfield NIC Lambda)\n(11,270mm x 7,430mm (83,736mm²) | 89500 dpi)\n</p><p>notes:\n</p>\n1GPixel",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-11-09 20:41:44",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/130561288@N04/50594446002/\">https://www.flickr.com/photos/130561288@N04/50594446002/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Fritzchens Fritz",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "decision": "Accepted real Zen3 CCD; distinct from excluded I/O-only discovery photo."
+    }
+  ],
+  "skips": [
+    {
+      "id": "amd_zen3_vermeer_ccd",
+      "reason": "Actual photo visually inspected; severely fractured specimen, large missing upper section. Keep reference-only, no gameplay contours generated."
+    }
+  ],
+  "visualReview": {
+    "method": "model-visual-estimate; source images and rendered contour-overlay sheets inspected",
+    "reviewedAt": "2026-11-07",
+    "acceptedDies": 16,
+    "regions": 281,
+    "geometryChecks": "All targets strictly inside their polygons; every20%-short-side question neighborhood stays in downloaded image bounds.",
+    "inputSha256": {
+      "hp_pa7100": "5e5301e95e81cb6d024e3001c1960aed50c3f775d2a73d1c1781517befd822db",
+      "hp_pa7100lc": "bdb08fa3942ebcf3c2ad95a92d98a96071fa536b5f372bd7b1193539bae8a0f1",
+      "idt_r4600": "606017bedfb9b508204218b7a225157f6326876c57266b5c2d091f5b2d7a112e",
+      "ti_microsparc2": "55e95e90f440afb3daa656391ca25188c45b293b781019dfd063a2030ce4ea1a",
+      "dec_21164_ev5": "5693b00ddf635848f82804897d1c4676f2bb787fd6ad6c5aa4212fff249b6978",
+      "hp_pa7300lc": "6928bf3f743307b3f596b170d42d217f04475fcd3bfeadc982976df68ad94b2d",
+      "mips_r5000": "f16baec7057334546f4efd1cc5bf7152423abb0ab7cbc298a8ca16168436d4a5",
+      "hp_pa8500": "0b8deb01089bf1748e916400db726e6f9a2c05a9346692b8989f1a68b2701ea2",
+      "qed_rm7000": "a08bebd652c0ccd11e6046f0f52c93e6728f73070ebc07d5a99b778bbd871821",
+      "amd_k6_littlefoot": "494469a392755c5c3c46baf7ec8f734cb4ee757430d6a9d4baef77b37c950b02",
+      "intel_skylake_sp_xcc": "734480728e67d21ca85e75faf8c3520d921d893e08d4554004b33d88780c9826",
+      "intel_cannonlake": "63956a4949265629de31b2ed155851abe02f48404b53eee352d52a65b2aed55c",
+      "amd_raven_ridge": "9fa5da768c71e548612c3dbdc478f6c9944b670ceceae68667c987d4decca0f6",
+      "amd_vangogh": "1cb8a7959012159557cf14b607a60c25acb0cc07087371ec8a98cee4929d0848",
+      "intel_northwood": "99309b6e6978dec24668c1ee5d420905d9c823459b0d530a41951abcb15dcf5c",
+      "sun_ultrasparc_t2": "c61b6bf315544282a01801d09e01c02b0af07f0c5a4bf69902985a3ed09a06c7"
+    }
+  }
+}

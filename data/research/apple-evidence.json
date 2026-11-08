@@ -1,0 +1,276 @@
+{
+  "researchedAt": "2026-11-07",
+  "verified": [
+    {
+      "id": "apple_m1",
+      "sourceUrl": "https://www.flickr.com/photos/130561288@N04/55302205348/",
+      "retrievedAt": "2026-11-07",
+      "htmlSha256": "d6352c0f857a7fe6dd8398298534c774ef5514525dfe2c0289b639f459e50ac4",
+      "schemaOrgImageObjects": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "ImageObject",
+          "contentUrl": "https://live.staticflickr.com/65535/55302205348_fb5954b4df_b.jpg",
+          "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "acquireLicensePage": "https://www.flickr.com/photos/130561288@N04/55302205348",
+          "author": {
+            "@type": "Person",
+            "name": "Fritzchens Fritz",
+            "url": "https://www.flickr.com/photos/130561288@N04",
+            "image": "https://farm66.staticflickr.com/65535/buddyicons/130561288@N04.jpg?1614369109#130561288@N04"
+          },
+          "creator": {
+            "@type": "Person",
+            "name": "Fritzchens Fritz",
+            "url": "https://www.flickr.com/photos/130561288@N04",
+            "image": "https://farm66.staticflickr.com/65535/buddyicons/130561288@N04.jpg?1614369109#130561288@N04"
+          }
+        }
+      ],
+      "photoModel": {
+        "id": "55302205348",
+        "title": "Apple@M1@TSMC-N5@MacBookPro(2020M1)@DSCx15_poly@5xExt",
+        "description": "Apple MacBook Air/Pro M1 SoC (2020)\n\n\n(Poly | 5x External Light | 22150 dpi)\n\n11.344mm x 10.855mm = 123.139mm² (with scribe lines)\n11.248mm x 10.704mm = 120.399mm² (w/o scribe lines)\n11.208mm x 10.665mm = 119.533mm² (w/o seal ring)",
+        "license": 9,
+        "sizes": {
+          "data": {
+            "sq": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fb5954b4df_s.jpg",
+                "width": 75,
+                "height": 75,
+                "url": "//live.staticflickr.com/65535/55302205348_fb5954b4df_s.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "q": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fb5954b4df_q.jpg",
+                "width": 150,
+                "height": 150,
+                "url": "//live.staticflickr.com/65535/55302205348_fb5954b4df_q.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "t": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fb5954b4df_t.jpg",
+                "width": 100,
+                "height": 96,
+                "url": "//live.staticflickr.com/65535/55302205348_fb5954b4df_t.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "s": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fb5954b4df_m.jpg",
+                "width": 240,
+                "height": 230,
+                "url": "//live.staticflickr.com/65535/55302205348_fb5954b4df_m.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "n": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fb5954b4df_n.jpg",
+                "width": 320,
+                "height": 306,
+                "url": "//live.staticflickr.com/65535/55302205348_fb5954b4df_n.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "w": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fb5954b4df_w.jpg",
+                "width": 400,
+                "height": 383,
+                "url": "//live.staticflickr.com/65535/55302205348_fb5954b4df_w.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "m": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fb5954b4df.jpg",
+                "width": 500,
+                "height": 478,
+                "url": "//live.staticflickr.com/65535/55302205348_fb5954b4df.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "z": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fb5954b4df_z.jpg",
+                "width": 640,
+                "height": 612,
+                "url": "//live.staticflickr.com/65535/55302205348_fb5954b4df_z.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "c": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fb5954b4df_c.jpg",
+                "width": 800,
+                "height": 766,
+                "url": "//live.staticflickr.com/65535/55302205348_fb5954b4df_c.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "l": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fb5954b4df_b.jpg",
+                "width": 1024,
+                "height": 980,
+                "url": "//live.staticflickr.com/65535/55302205348_fb5954b4df_b.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "h": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_0ff74096e9_h.jpg",
+                "width": 1600,
+                "height": 1531,
+                "url": "//live.staticflickr.com/65535/55302205348_0ff74096e9_h.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_3df9427e23_k.jpg",
+                "width": 2048,
+                "height": 1960,
+                "url": "//live.staticflickr.com/65535/55302205348_3df9427e23_k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "3k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_5c03585347_3k.jpg",
+                "width": 3072,
+                "height": 2940,
+                "url": "//live.staticflickr.com/65535/55302205348_5c03585347_3k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "4k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_75a0d316f1_4k.jpg",
+                "width": 4096,
+                "height": 3920,
+                "url": "//live.staticflickr.com/65535/55302205348_75a0d316f1_4k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "5k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_a49db50855_5k.jpg",
+                "width": 5120,
+                "height": 4900,
+                "url": "//live.staticflickr.com/65535/55302205348_a49db50855_5k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "6k": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_9593fec5be_6k.jpg",
+                "width": 6144,
+                "height": 5879,
+                "url": "//live.staticflickr.com/65535/55302205348_9593fec5be_6k.jpg"
+              },
+              "exportMetaType": "pojo"
+            },
+            "o": {
+              "data": {
+                "displayUrl": "//live.staticflickr.com/65535/55302205348_fe3208f545_o.jpg",
+                "width": 9893,
+                "height": 9467,
+                "url": "//live.staticflickr.com/65535/55302205348_fe3208f545_o.jpg"
+              },
+              "exportMetaType": "pojo"
+            }
+          },
+          "exportMetaType": "pojo"
+        },
+        "rotation": 0,
+        "oWidth": 9893,
+        "oHeight": 9467
+      },
+      "creator": {
+        "id": "130561288@N04",
+        "username": "FritzchensFritz",
+        "realname": "Fritzchens Fritz"
+      },
+      "licenseModel": {
+        "_flickrModelRegistry": "license-models",
+        "name": "Public Domain Dedication (CC0)",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "id": "9"
+      },
+      "download": {
+        "url": "https://live.staticflickr.com/65535/55302205348_9593fec5be_6k.jpg",
+        "width": 6144,
+        "height": 5879,
+        "sha256": "bb253d6d656e527c77e180c3babdf623bcd3ea0baf2e93107dfb1e969901535b",
+        "transform": "none"
+      },
+      "dimensionsSelection": {
+        "widthMm": 11.344,
+        "heightMm": 10.855,
+        "boundary": "with scribe lines",
+        "sourceUrl": "https://www.flickr.com/photos/130561288@N04/55302205348/",
+        "reason": "Full-frame photo aspect ratio matches the photographer’s with-scribe-lines dimensions."
+      }
+    }
+  ],
+  "modelYearEvidence": {
+    "apple_m1": {
+      "url": "https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/",
+      "publisher": "Apple",
+      "title": "Apple unleashes M1",
+      "announcementDate": "2020-11-10",
+      "claim": "Apple announces M1, a system on a chip for Mac computers."
+    }
+  },
+  "pending": [
+    {
+      "id": "apple_m2",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_M2.jpg",
+      "reason": "Commons CC0 item is an illustration of a package, not a silicon die photograph. Not eligible for die-location questions."
+    },
+    {
+      "id": "apple_m3",
+      "sourceUrl": "https://kurnal-insights.com/en/dieshot/apple-m3-apl1201/",
+      "reason": "Kurnal’s original die-shot page is available, but its Terms of Use require prior written authorization for reproduction, redistribution or modification. No reusable photo grant verified; retain as a source lead only.",
+      "rightsSourceUrl": "https://kurnal-insights.com/en/terms/"
+    },
+    {
+      "id": "apple_m1_pro",
+      "sourceUrl": "https://www.psc.edu/wp-content/uploads/2025/03/Intro-To-Parallel-Computing.pdf",
+      "reason": "Located an annotated reproduction, not an original creator reuse license. Do not redistribute based on a slide citation."
+    },
+    {
+      "id": "apple_m1_max",
+      "reason": "No original reusable full die photograph verified in this bounded research pass."
+    },
+    {
+      "id": "apple_m4",
+      "reason": "Kurnal’s original die-shot page is available, but its Terms of Use require prior written authorization for reproduction, redistribution or modification. No reusable photo grant verified; retain as a source lead only.",
+      "sourceUrl": "https://kurnal-insights.com/en/dieshot/apple-m4-apl1206/",
+      "rightsSourceUrl": "https://kurnal-insights.com/en/terms/"
+    },
+    {
+      "id": "apple_m2_pro",
+      "sourceUrl": "https://reptalica.netlify.app/dieshots",
+      "reason": "Found an annotated photo reproduction, but no original photo creator reuse grant was verified."
+    }
+  ],
+  "otherSourceChecks": [
+    {
+      "sourceUrl": "https://reptalica.netlify.app/dieshots",
+      "finding": "Annotated M2/M2 Pro/M3/M4 reproductions located; no explicit original-photograph reuse grant verified on the inspected pages."
+    },
+    {
+      "sourceUrl": "https://happytrees.org/dieshots/Apple_-_M2",
+      "finding": "Catalog labels its M2 image Copyright, Apple; not used."
+    }
+  ]
+}

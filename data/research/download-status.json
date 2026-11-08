@@ -1,0 +1,488 @@
+[
+  {
+    "id": "hp_nanoprocessor",
+    "status": "ready",
+    "width": 3000,
+    "height": 2504
+  },
+  {
+    "id": "intel_8085",
+    "status": "ready",
+    "width": 3599,
+    "height": 2646
+  },
+  {
+    "id": "moto_6809",
+    "status": "ready",
+    "width": 3212,
+    "height": 3194
+  },
+  {
+    "id": "zilog_z8000",
+    "status": "ready",
+    "width": 3434,
+    "height": 3180
+  },
+  {
+    "id": "intel_80186",
+    "status": "ready",
+    "width": 3660,
+    "height": 3270
+  },
+  {
+    "id": "intel_80286",
+    "status": "ready",
+    "width": 3359,
+    "height": 3312
+  },
+  {
+    "id": "wdc_65c02",
+    "status": "ready",
+    "width": 3840,
+    "height": 4878
+  },
+  {
+    "id": "moto_68020",
+    "status": "ready",
+    "width": 3362,
+    "height": 3280
+  },
+  {
+    "id": "nec_v60",
+    "status": "ready",
+    "width": 3280,
+    "height": 3263
+  },
+  {
+    "id": "cbm_65ce02",
+    "status": "ready",
+    "width": 3840,
+    "height": 3309
+  },
+  {
+    "id": "mips_r3000",
+    "status": "ready",
+    "width": 3798,
+    "height": 3270
+  },
+  {
+    "id": "intel_i960ca",
+    "status": "ready",
+    "width": 3840,
+    "height": 2501
+  },
+  {
+    "id": "ibm_386",
+    "status": "ready",
+    "width": 3840,
+    "height": 3518
+  },
+  {
+    "id": "moto_68040",
+    "status": "ready",
+    "width": 3336,
+    "height": 3100
+  },
+  {
+    "id": "hp_pa7000",
+    "status": "ready",
+    "width": 3260,
+    "height": 3260
+  },
+  {
+    "id": "idt_r3051",
+    "status": "ready",
+    "width": 3840,
+    "height": 2943
+  },
+  {
+    "id": "mips_r4000",
+    "status": "ready",
+    "width": 3840,
+    "height": 2937
+  },
+  {
+    "id": "intel_80486dx2",
+    "status": "ready",
+    "width": 3840,
+    "height": 2198
+  },
+  {
+    "id": "hp_pa7100",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/8/81/HP-HP9000-PARISC-PA7100-CPU-Chip.jpg --output assets/originals/hp_pa7100.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "intel_i960cf",
+    "status": "ready",
+    "width": 3840,
+    "height": 2796
+  },
+  {
+    "id": "dec_21064",
+    "status": "ready",
+    "width": 3840,
+    "height": 2770
+  },
+  {
+    "id": "moto_68060",
+    "status": "ready",
+    "width": 3840,
+    "height": 3207
+  },
+  {
+    "id": "nexgen_nx586",
+    "status": "ready",
+    "width": 3840,
+    "height": 3925
+  },
+  {
+    "id": "hp_pa7100lc",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/3/3d/HP_PA-7100LC_die.JPG --output assets/originals/hp_pa7100lc.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "sony_cxd8530",
+    "status": "ready",
+    "width": 3840,
+    "height": 3853
+  },
+  {
+    "id": "moto_ppc603",
+    "status": "ready",
+    "width": 3840,
+    "height": 2373
+  },
+  {
+    "id": "idt_r4600",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/a/a8/IDT_R4600_die.jpg --output assets/originals/idt_r4600.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "idt_r4650",
+    "status": "ready",
+    "width": 3840,
+    "height": 2530
+  },
+  {
+    "id": "ti_microsparc2",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/8/86/Sun_microSPARC_II_die2.jpg --output assets/originals/ti_microsparc2.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "dec_21164_ev5",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/a/ac/Alpha_EV5_die.JPG --output assets/originals/dec_21164_ev5.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "moto_ppc603e",
+    "status": "ready",
+    "width": 3840,
+    "height": 2649
+  },
+  {
+    "id": "amd_k5",
+    "status": "ready",
+    "width": 3840,
+    "height": 2454
+  },
+  {
+    "id": "hp_pa7300lc",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/e/e2/HP_PA-7300LC_die.JPG --output assets/originals/hp_pa7300lc.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "mips_r5000",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/7/7b/NEC_VR5000_die.JPG --output assets/originals/mips_r5000.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "amd_k6",
+    "status": "ready",
+    "width": 3840,
+    "height": 2521
+  },
+  {
+    "id": "amd_k6_2",
+    "status": "ready",
+    "width": 3840,
+    "height": 2560
+  },
+  {
+    "id": "hp_pa8500",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/2/22/HP_PA-8500_DSC00523_%2835119492890%29.jpg --output assets/originals/hp_pa8500.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "intel_deschutes",
+    "status": "ready",
+    "width": 3840,
+    "height": 4247
+  },
+  {
+    "id": "qed_rm7000",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/d/de/QED_RM7000_die.JPG --output assets/originals/qed_rm7000.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "amd_pluto",
+    "status": "ready",
+    "width": 3840,
+    "height": 3041
+  },
+  {
+    "id": "amd_argon",
+    "status": "ready",
+    "width": 3840,
+    "height": 2981
+  },
+  {
+    "id": "amd_k6_iii",
+    "status": "ready",
+    "width": 3840,
+    "height": 2560
+  },
+  {
+    "id": "intel_coppermine",
+    "status": "ready",
+    "width": 3840,
+    "height": 3172
+  },
+  {
+    "id": "intel_katmai",
+    "status": "ready",
+    "width": 3840,
+    "height": 4564
+  },
+  {
+    "id": "amd_thunderbird",
+    "status": "ready",
+    "width": 3840,
+    "height": 2655
+  },
+  {
+    "id": "amd_spitfire",
+    "status": "ready",
+    "width": 3840,
+    "height": 3086
+  },
+  {
+    "id": "fsl_mpc8245",
+    "status": "ready",
+    "width": 3840,
+    "height": 2776
+  },
+  {
+    "id": "intel_cascades",
+    "status": "ready",
+    "width": 3840,
+    "height": 3135
+  },
+  {
+    "id": "amd_palomino",
+    "status": "ready",
+    "width": 3840,
+    "height": 3633
+  },
+  {
+    "id": "amd_morgan",
+    "status": "ready",
+    "width": 3840,
+    "height": 2965
+  },
+  {
+    "id": "hp_pa8700",
+    "status": "ready",
+    "width": 3840,
+    "height": 4568
+  },
+  {
+    "id": "intel_tualatin",
+    "status": "ready",
+    "width": 3840,
+    "height": 2461
+  },
+  {
+    "id": "intel_northwood",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/e/e2/Intel%40130nm%40NetBurst%40Northwood%40Pentium4%40SL6PF_DSC07596_%2832847415126%29.jpg --output assets/originals/intel_northwood.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "amd_barton",
+    "status": "ready",
+    "width": 3840,
+    "height": 2102
+  },
+  {
+    "id": "intel_prescott",
+    "status": "ready",
+    "width": 3840,
+    "height": 4000
+  },
+  {
+    "id": "sun_ultrasparc_iv",
+    "status": "ready",
+    "width": 3840,
+    "height": 2871
+  },
+  {
+    "id": "sun_ultrasparc_ivplus",
+    "status": "ready",
+    "width": 3840,
+    "height": 2655
+  },
+  {
+    "id": "sun_ultrasparc_t2",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/c/c8/US_T2_DSC00506_%2835338042542%29.jpg --output assets/originals/sun_ultrasparc_t2.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "intel_wolfdale",
+    "status": "ready",
+    "width": 3840,
+    "height": 2681
+  },
+  {
+    "id": "intel_sandybridge_2",
+    "status": "ready",
+    "width": 3840,
+    "height": 2619
+  },
+  {
+    "id": "intel_westmere_ex",
+    "status": "ready",
+    "width": 3840,
+    "height": 3111
+  },
+  {
+    "id": "ms_durango",
+    "status": "ready",
+    "width": 3840,
+    "height": 2965
+  },
+  {
+    "id": "nv_tegra_x1",
+    "status": "failed",
+    "error": "Error: Command failed: curl --fail --location --retry 2 --max-time 90 --silent --show-error --user-agent CPU-Guesser/0.2 (educational die photo research) https://upload.wikimedia.org/wikipedia/commons/a/a9/NVIDIA%4020nm%40TegraX1%40Erista%40Shield_TV%40S_Taiwan_1517A1_NPW020.M3W_TM670D-A1_dieshot_segments_%2833260213216%29.jpg --output assets/originals/nv_tegra_x1.jpg.part\ncurl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "sony_ps4pro_neo",
+    "status": "ready",
+    "width": 3840,
+    "height": 2447
+  },
+  {
+    "id": "intel_knl",
+    "status": "ready",
+    "width": 3840,
+    "height": 2531
+  },
+  {
+    "id": "intel_coffeelake_6",
+    "status": "ready",
+    "width": 3840,
+    "height": 2104
+  },
+  {
+    "id": "intel_kabylake_2",
+    "status": "ready",
+    "width": 3840,
+    "height": 3212
+  },
+  {
+    "id": "intel_skylake_x_lcc",
+    "status": "ready",
+    "width": 3840,
+    "height": 2470
+  },
+  {
+    "id": "ms_scorpio",
+    "status": "ready",
+    "width": 3840,
+    "height": 2598
+  },
+  {
+    "id": "amd_zeppelin",
+    "status": "ready",
+    "width": 3840,
+    "height": 1650
+  },
+  {
+    "id": "intel_coffeelake_8",
+    "status": "ready",
+    "width": 3840,
+    "height": 1795
+  },
+  {
+    "id": "amd_pinnacle_ridge",
+    "status": "ready",
+    "width": 3840,
+    "height": 1688
+  },
+  {
+    "id": "amd_dali",
+    "status": "ready",
+    "width": 3840,
+    "height": 3485
+  },
+  {
+    "id": "via_cha",
+    "status": "ready",
+    "width": 3840,
+    "height": 3600
+  },
+  {
+    "id": "amd_zen2_ccd",
+    "status": "ready",
+    "width": 3840,
+    "height": 2728
+  },
+  {
+    "id": "sony_ps5_oberon",
+    "status": "ready",
+    "width": 3840,
+    "height": 2138
+  },
+  {
+    "id": "amd_renoir",
+    "status": "ready",
+    "width": 3840,
+    "height": 3046
+  },
+  {
+    "id": "amd_cezanne",
+    "status": "ready",
+    "width": 3840,
+    "height": 3563
+  },
+  {
+    "id": "intel_rocketlake",
+    "status": "ready",
+    "width": 3840,
+    "height": 1858
+  },
+  {
+    "id": "intel_alderlake_6p",
+    "status": "ready",
+    "width": 3840,
+    "height": 2530
+  },
+  {
+    "id": "intel_raptorlake",
+    "status": "ready",
+    "width": 3840,
+    "height": 1767
+  },
+  {
+    "id": "amd_zen4_ccd",
+    "status": "ready",
+    "width": 3840,
+    "height": 2487
+  },
+  {
+    "id": "amd_zen5_ccd",
+    "status": "ready",
+    "width": 3840,
+    "height": 3296
+  }
+]

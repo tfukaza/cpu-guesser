@@ -1,0 +1,44 @@
+[
+  {
+    "id": "apple_m1",
+    "name": "M1",
+    "maker": "Apple",
+    "year": 2020,
+    "yearSource": "https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/",
+    "yearNote": "Apple announced the M1 SoC on 2020-11-10; this is the design introduction, not the 2026 photography date.",
+    "chipType": "soc",
+    "widthMm": 11.344,
+    "heightMm": 10.855,
+    "dimensionsSource": {
+      "title": "Fritzchens Fritz — M1 specimen dimensions including scribe lines",
+      "url": "https://www.flickr.com/photos/130561288@N04/55302205348/",
+      "kind": "article"
+    },
+    "dimensionsNote": "Photographer-reported specimen measurement including scribe lines (11.344 × 10.855 mm). The uncropped full-frame photograph includes this outer boundary and matches its aspect ratio. The same source separately gives 11.248 × 10.704 mm without scribe lines and 11.208 × 10.665 mm without the seal ring. Measurement not independently repeated.",
+    "photographer": "Fritzchens Fritz",
+    "sourceTitle": "Fritzchens Fritz — Apple M1 polysilicon die photograph / Flickr",
+    "sourceUrl": "https://www.flickr.com/photos/130561288@N04/55302205348/",
+    "imageUrl": "https://live.staticflickr.com/65535/55302205348_9593fec5be_6k.jpg",
+    "originalImageUrl": "https://live.staticflickr.com/65535/55302205348_fe3208f545_o.jpg",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceWidth": 9893,
+    "sourceHeight": 9467,
+    "downloadedWidth": 6144,
+    "downloadedHeight": 5879,
+    "specimenDescription": "Apple MacBook Air/Pro M1 SoC (2020 generation), photographed at the polysilicon layer with 5× external light. Exact mask revision unconfirmed.",
+    "credit": "Original photograph by Fritzchens Fritz, hosted on Flickr.",
+    "attribution": "Fritzchens Fritz — Apple M1 polysilicon die photograph, CC0 1.0.",
+    "restrictions": "",
+    "labelNote": "M1 identity is stated by the original photographer and matches Apple’s manufacturer announcement. CPU-containing SoC; not a discrete CPU-only chip.",
+    "exclusion": null,
+    "verifiedAt": "2026-11-07",
+    "orientationNote": "No crop, rotation, mirroring or perspective correction. Coordinates refer to the full 6144 × 5879 Flickr rendition.",
+    "metadata": {
+      "source": "Flickr photo-model and ImageObject metadata",
+      "evidenceFile": "data/research/apple-evidence.json",
+      "photoId": "55302205348",
+      "licenseId": 9
+    }
+  }
+]

@@ -1,0 +1,3 @@
+interface:
+  display_name: "CPU Dataset Curation"
+  short_description: "Research CPU/GPU dies, credit photos and draw visual contours"

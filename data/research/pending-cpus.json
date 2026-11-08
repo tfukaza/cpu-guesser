@@ -1,0 +1,157 @@
+[
+  {
+    "id": "intel_8008",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Intel-8008-die-adjusted.jpg"
+  },
+  {
+    "id": "mos_8500",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:MOS_8500_CPU.jpg"
+  },
+  {
+    "id": "nintendo_sgb_cpu",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Nintendo_sgb-cpu-01_mz_mit20x.jpg"
+  },
+  {
+    "id": "intel_p54cs",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Intel_80502_unknown_mz_mit20x-8k.webp"
+  },
+  {
+    "id": "nintendo_cpu_cgb",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Nintendo_cpu-cgb-c_mz_10x.jpg"
+  },
+  {
+    "id": "amd_k6_littlefoot",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/130561288@N04/48010599568/"
+  },
+  {
+    "id": "amd_k6_2_cxt",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:AMD%40250nm%40K6%40Model8%28chomper_xt%29_-_%28cpuid58C%29%40AMD-K6-2_500AFX%402.2V_CORE_A_0023BPDW_1998_AMD.jpg"
+  },
+  {
+    "id": "amd_k6_2plus",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:AMD_K6-2%2B_%28Model13%29_500ACR.jpg"
+  },
+  {
+    "id": "amd_venice",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:AMD_Athlon64_Venice_ADA3400DAA4BY.jpg"
+  },
+  {
+    "id": "intel_tulsa",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/187597251@N05/53580078716/"
+  },
+  {
+    "id": "amd_istanbul",
+    "reason": "Unsupported license: Attribution",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:AMD_Opteron_Six_Cores.jpg"
+  },
+  {
+    "id": "nintendo_cpu_ctr",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Nintendo_cpu-ctr-a.jpg"
+  },
+  {
+    "id": "intel_clovertrail",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/187597251@N05/50950199043/"
+  },
+  {
+    "id": "intel_ivybridge_ex",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Intel%40Sandybridge%40Ivy_Bridge-EX_%28Ivytown%29%40Xeon_E7_V2%40QDPJ_ES.jpg"
+  },
+  {
+    "id": "intel_skylake_sp_xcc",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/130561288@N04/50129523578/"
+  },
+  {
+    "id": "intel_cannonlake",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/130561288@N04/52464622122/"
+  },
+  {
+    "id": "amd_raven_ridge",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/130561288@N04/39716562275/"
+  },
+  {
+    "id": "amd_rome_iod",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/130561288@N04/48988900942/"
+  },
+  {
+    "id": "apple_m1",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/130561288@N04/55302205348/"
+  },
+  {
+    "id": "amd_zen3_ccd",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/130561288@N04/50579552628/"
+  },
+  {
+    "id": "amd_vangogh",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/130561288@N04/53420912468/"
+  },
+  {
+    "id": "x_apple_339s0030",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Iphone-339S0030-arm-die.jpg"
+  },
+  {
+    "id": "x_apple_pp5020e_ipod",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Apple-pp5020e-4x-stitched.jpg"
+  },
+  {
+    "id": "x_apple_peripheral_interface_controller_with_ncr_65c",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Apple_PIC_die.JPG"
+  },
+  {
+    "id": "x_atmel_atwinc1500b",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Atmel_atwinc1500b_lg_mz_mit20x.jpg"
+  },
+  {
+    "id": "x_atmel_ilrl_m5fig",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Atmel_ilrl-m5fig_infosecdj_mz_lmplan5x.jpg"
+  },
+  {
+    "id": "x_ibm_50g6144",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:IBM_-_50G6144_%28token_ring_cpu%29.jpg"
+  },
+  {
+    "id": "x_nec_d30710rs_300_upd30710rs_300_pd30710rs_300",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:NEC_VR12000_die.JPG"
+  },
+  {
+    "id": "x_stmicroelectronics_ef6809e",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:ST-ef6809e_20x_2500x2499.jpg"
+  },
+  {
+    "id": "x_sharp_sc43178",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://happytrees.org/dieshots/File:Sharp-SC43178_die_325nmpp.jpg"
+  },
+  {
+    "id": "zilog_z84c00",
+    "reason": "Original host requires separate license verification",
+    "sourceUrl": "https://www.flickr.com/photos/187597251@N05/52431007781/"
+  }
+]

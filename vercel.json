@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "buildCommand": "npm run build:vercel",
+  "outputDirectory": "out",
+  "installCommand": "npm ci",
+  "headers": [
+    {
+      "source": "/tiles/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
+    }
+  ]
+}

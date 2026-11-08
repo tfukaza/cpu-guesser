@@ -1,0 +1,1674 @@
+[
+  {
+    "cpuId": "nv_nv3",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. ",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-right panel grid",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.567,
+            "y": 0.066
+          },
+          {
+            "x": 0.927,
+            "y": 0.066
+          },
+          {
+            "x": 0.927,
+            "y": 0.357
+          },
+          {
+            "x": 0.567,
+            "y": 0.357
+          }
+        ],
+        "target": {
+          "x": 0.74,
+          "y": 0.2
+        },
+        "confidence": "high",
+        "explanation": "Sixteen broad rectangular panels form a conspicuous regular grid. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 middle-left stepped dense block",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.128,
+            "y": 0.302
+          },
+          {
+            "x": 0.423,
+            "y": 0.302
+          },
+          {
+            "x": 0.423,
+            "y": 0.637
+          },
+          {
+            "x": 0.063,
+            "y": 0.637
+          },
+          {
+            "x": 0.063,
+            "y": 0.408
+          },
+          {
+            "x": 0.122,
+            "y": 0.408
+          },
+          {
+            "x": 0.122,
+            "y": 0.356
+          },
+          {
+            "x": 0.128,
+            "y": 0.356
+          }
+        ],
+        "target": {
+          "x": 0.27,
+          "y": 0.49
+        },
+        "confidence": "medium",
+        "explanation": "A dark-bordered block of fine speckled circuitry has a stepped left edge beside smaller striped blocks. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle-right broad dense block",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.425,
+            "y": 0.303
+          },
+          {
+            "x": 0.559,
+            "y": 0.303
+          },
+          {
+            "x": 0.559,
+            "y": 0.361
+          },
+          {
+            "x": 0.845,
+            "y": 0.361
+          },
+          {
+            "x": 0.845,
+            "y": 0.394
+          },
+          {
+            "x": 0.936,
+            "y": 0.394
+          },
+          {
+            "x": 0.936,
+            "y": 0.637
+          },
+          {
+            "x": 0.425,
+            "y": 0.637
+          }
+        ],
+        "target": {
+          "x": 0.71,
+          "y": 0.52
+        },
+        "confidence": "medium",
+        "explanation": "A broad textured region extends below the regular panel grid, with a stepped upper boundary. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-middle textured block",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.313,
+            "y": 0.641
+          },
+          {
+            "x": 0.649,
+            "y": 0.641
+          },
+          {
+            "x": 0.649,
+            "y": 0.878
+          },
+          {
+            "x": 0.438,
+            "y": 0.878
+          },
+          {
+            "x": 0.438,
+            "y": 0.903
+          },
+          {
+            "x": 0.313,
+            "y": 0.903
+          }
+        ],
+        "target": {
+          "x": 0.48,
+          "y": 0.76
+        },
+        "confidence": "medium",
+        "explanation": "A large fine-textured block has crisp black separators and a notched lower edge. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 lower-right textured rectangle",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.653,
+            "y": 0.641
+          },
+          {
+            "x": 0.936,
+            "y": 0.641
+          },
+          {
+            "x": 0.936,
+            "y": 0.942
+          },
+          {
+            "x": 0.653,
+            "y": 0.942
+          }
+        ],
+        "target": {
+          "x": 0.8,
+          "y": 0.79
+        },
+        "confidence": "high",
+        "explanation": "A broad rectangular texture field is separated from its neighbors by narrow black borders. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_g80",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. The damaged outer edge is excluded from targets. The physical atlas sides are an explicit published-area-plus-photo-aspect estimate, not measured specimen sides.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left striped group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.052,
+            "y": 0.173
+          },
+          {
+            "x": 0.276,
+            "y": 0.173
+          },
+          {
+            "x": 0.276,
+            "y": 0.417
+          },
+          {
+            "x": 0.052,
+            "y": 0.417
+          }
+        ],
+        "target": {
+          "x": 0.16,
+          "y": 0.3
+        },
+        "confidence": "medium",
+        "explanation": "Several aligned horizontal striped panels form an upper-left group. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right striped group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.744,
+            "y": 0.173
+          },
+          {
+            "x": 0.964,
+            "y": 0.173
+          },
+          {
+            "x": 0.964,
+            "y": 0.417
+          },
+          {
+            "x": 0.744,
+            "y": 0.417
+          }
+        ],
+        "target": {
+          "x": 0.85,
+          "y": 0.3
+        },
+        "confidence": "medium",
+        "explanation": "A matching group of horizontal textured panels sits near the upper-right edge. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left striped group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.052,
+            "y": 0.592
+          },
+          {
+            "x": 0.276,
+            "y": 0.592
+          },
+          {
+            "x": 0.276,
+            "y": 0.837
+          },
+          {
+            "x": 0.052,
+            "y": 0.837
+          }
+        ],
+        "target": {
+          "x": 0.16,
+          "y": 0.72
+        },
+        "confidence": "medium",
+        "explanation": "The lower-left bank repeats the broad panel geometry above. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right striped group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.744,
+            "y": 0.592
+          },
+          {
+            "x": 0.964,
+            "y": 0.592
+          },
+          {
+            "x": 0.964,
+            "y": 0.837
+          },
+          {
+            "x": 0.744,
+            "y": 0.837
+          }
+        ],
+        "target": {
+          "x": 0.85,
+          "y": 0.72
+        },
+        "confidence": "medium",
+        "explanation": "The lower-right bank contains aligned broad panels with fine internal stripes. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_gt200",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. ",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated panel bank",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.043,
+            "y": 0.061
+          },
+          {
+            "x": 0.234,
+            "y": 0.061
+          },
+          {
+            "x": 0.234,
+            "y": 0.19
+          },
+          {
+            "x": 0.043,
+            "y": 0.19
+          }
+        ],
+        "target": {
+          "x": 0.14,
+          "y": 0.125
+        },
+        "confidence": "high",
+        "explanation": "A rectangular bank of repeated small cells occupies the upper-left interior. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right repeated panel bank",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.757,
+            "y": 0.058
+          },
+          {
+            "x": 0.951,
+            "y": 0.058
+          },
+          {
+            "x": 0.951,
+            "y": 0.187
+          },
+          {
+            "x": 0.757,
+            "y": 0.187
+          }
+        ],
+        "target": {
+          "x": 0.85,
+          "y": 0.125
+        },
+        "confidence": "high",
+        "explanation": "A mirrored-looking rectangular bank occupies the upper-right interior. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left repeated panel bank",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.049,
+            "y": 0.677
+          },
+          {
+            "x": 0.235,
+            "y": 0.677
+          },
+          {
+            "x": 0.235,
+            "y": 0.806
+          },
+          {
+            "x": 0.049,
+            "y": 0.806
+          }
+        ],
+        "target": {
+          "x": 0.14,
+          "y": 0.74
+        },
+        "confidence": "high",
+        "explanation": "A lower-left repeated bank is sharply bounded by straight routing lanes. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right repeated panel bank",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.757,
+            "y": 0.677
+          },
+          {
+            "x": 0.948,
+            "y": 0.677
+          },
+          {
+            "x": 0.948,
+            "y": 0.806
+          },
+          {
+            "x": 0.757,
+            "y": 0.806
+          }
+        ],
+        "target": {
+          "x": 0.85,
+          "y": 0.74
+        },
+        "confidence": "high",
+        "explanation": "The lower-right bank repeats the aligned panel motif. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 central dense grid",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.431,
+            "y": 0.43
+          },
+          {
+            "x": 0.603,
+            "y": 0.43
+          },
+          {
+            "x": 0.603,
+            "y": 0.558
+          },
+          {
+            "x": 0.431,
+            "y": 0.558
+          }
+        ],
+        "target": {
+          "x": 0.52,
+          "y": 0.49
+        },
+        "confidence": "medium",
+        "explanation": "A compact central region contains a much denser grid of small structures than the surrounding fields. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_gf100",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. GF100 and GF110 have closely related visible floorplans. Each photograph was inspected separately; similar outlines do not establish identical circuits.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.052,
+            "y": 0.058
+          },
+          {
+            "x": 0.207,
+            "y": 0.058
+          },
+          {
+            "x": 0.207,
+            "y": 0.325
+          },
+          {
+            "x": 0.052,
+            "y": 0.325
+          }
+        ],
+        "target": {
+          "x": 0.13,
+          "y": 0.17
+        },
+        "confidence": "medium",
+        "explanation": "A prominent upper-left group combines pale textured fields with several small aligned arrays. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-middle repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.347,
+            "y": 0.058
+          },
+          {
+            "x": 0.651,
+            "y": 0.058
+          },
+          {
+            "x": 0.651,
+            "y": 0.325
+          },
+          {
+            "x": 0.347,
+            "y": 0.325
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.17
+        },
+        "confidence": "medium",
+        "explanation": "A wider central group repeats the same texture around darker rectangular openings. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.052,
+            "y": 0.659
+          },
+          {
+            "x": 0.207,
+            "y": 0.659
+          },
+          {
+            "x": 0.207,
+            "y": 0.941
+          },
+          {
+            "x": 0.052,
+            "y": 0.941
+          }
+        ],
+        "target": {
+          "x": 0.13,
+          "y": 0.8
+        },
+        "confidence": "medium",
+        "explanation": "A lower-left group mirrors the broad outlines of the upper group. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-middle repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.347,
+            "y": 0.659
+          },
+          {
+            "x": 0.651,
+            "y": 0.659
+          },
+          {
+            "x": 0.651,
+            "y": 0.941
+          },
+          {
+            "x": 0.347,
+            "y": 0.941
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.8
+        },
+        "confidence": "medium",
+        "explanation": "A lower central group contains repeated fields around a distinctive central grid. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_gf110",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. GF100 and GF110 have closely related visible floorplans. Each photograph was inspected separately; similar outlines do not establish identical circuits.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.052,
+            "y": 0.058
+          },
+          {
+            "x": 0.207,
+            "y": 0.058
+          },
+          {
+            "x": 0.207,
+            "y": 0.325
+          },
+          {
+            "x": 0.052,
+            "y": 0.325
+          }
+        ],
+        "target": {
+          "x": 0.13,
+          "y": 0.17
+        },
+        "confidence": "medium",
+        "explanation": "A prominent upper-left group combines pale textured fields with several small aligned arrays. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-middle repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.347,
+            "y": 0.058
+          },
+          {
+            "x": 0.651,
+            "y": 0.058
+          },
+          {
+            "x": 0.651,
+            "y": 0.325
+          },
+          {
+            "x": 0.347,
+            "y": 0.325
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.17
+        },
+        "confidence": "medium",
+        "explanation": "A wider central group repeats the same texture around darker rectangular openings. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.052,
+            "y": 0.659
+          },
+          {
+            "x": 0.207,
+            "y": 0.659
+          },
+          {
+            "x": 0.207,
+            "y": 0.941
+          },
+          {
+            "x": 0.052,
+            "y": 0.941
+          }
+        ],
+        "target": {
+          "x": 0.13,
+          "y": 0.8
+        },
+        "confidence": "medium",
+        "explanation": "A lower-left group mirrors the broad outlines of the upper group. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-middle repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.347,
+            "y": 0.659
+          },
+          {
+            "x": 0.651,
+            "y": 0.659
+          },
+          {
+            "x": 0.651,
+            "y": 0.941
+          },
+          {
+            "x": 0.347,
+            "y": 0.941
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.8
+        },
+        "confidence": "medium",
+        "explanation": "A lower central group contains repeated fields around a distinctive central grid. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_gm200",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. ",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left patterned group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.065,
+            "y": 0.055
+          },
+          {
+            "x": 0.316,
+            "y": 0.055
+          },
+          {
+            "x": 0.316,
+            "y": 0.401
+          },
+          {
+            "x": 0.065,
+            "y": 0.401
+          }
+        ],
+        "target": {
+          "x": 0.19,
+          "y": 0.23
+        },
+        "confidence": "medium",
+        "explanation": "A broad upper-left block contains several rows of repeated outlined textures. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-middle patterned group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.434,
+            "y": 0.055
+          },
+          {
+            "x": 0.679,
+            "y": 0.055
+          },
+          {
+            "x": 0.679,
+            "y": 0.401
+          },
+          {
+            "x": 0.434,
+            "y": 0.401
+          }
+        ],
+        "target": {
+          "x": 0.55,
+          "y": 0.23
+        },
+        "confidence": "medium",
+        "explanation": "A neighboring upper block repeats the same geometric cell motif. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-right patterned group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.69,
+            "y": 0.055
+          },
+          {
+            "x": 0.932,
+            "y": 0.055
+          },
+          {
+            "x": 0.932,
+            "y": 0.401
+          },
+          {
+            "x": 0.69,
+            "y": 0.401
+          }
+        ],
+        "target": {
+          "x": 0.81,
+          "y": 0.23
+        },
+        "confidence": "medium",
+        "explanation": "The upper-right group is bounded by a straight vertical separation and the outer band. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-left patterned group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.065,
+            "y": 0.614
+          },
+          {
+            "x": 0.316,
+            "y": 0.614
+          },
+          {
+            "x": 0.316,
+            "y": 0.957
+          },
+          {
+            "x": 0.065,
+            "y": 0.957
+          }
+        ],
+        "target": {
+          "x": 0.19,
+          "y": 0.79
+        },
+        "confidence": "medium",
+        "explanation": "A lower-left block repeats the upper group geometry. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 lower-right patterned group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.69,
+            "y": 0.614
+          },
+          {
+            "x": 0.932,
+            "y": 0.614
+          },
+          {
+            "x": 0.932,
+            "y": 0.957
+          },
+          {
+            "x": 0.69,
+            "y": 0.957
+          }
+        ],
+        "target": {
+          "x": 0.81,
+          "y": 0.79
+        },
+        "confidence": "medium",
+        "explanation": "The lower-right block contains repeated internal shapes separated from the central band. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_gp100",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. The original photographer page corrects an erroneous S3 Graphics description on Commons and identifies this die as Tesla P100/GP100.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated field",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.1,
+            "y": 0.081
+          },
+          {
+            "x": 0.452,
+            "y": 0.081
+          },
+          {
+            "x": 0.452,
+            "y": 0.349
+          },
+          {
+            "x": 0.1,
+            "y": 0.349
+          }
+        ],
+        "target": {
+          "x": 0.27,
+          "y": 0.21
+        },
+        "confidence": "medium",
+        "explanation": "A large repeated field occupies the upper-left interior above a wide clear horizontal lane. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right repeated field",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.635,
+            "y": 0.081
+          },
+          {
+            "x": 0.981,
+            "y": 0.081
+          },
+          {
+            "x": 0.981,
+            "y": 0.349
+          },
+          {
+            "x": 0.635,
+            "y": 0.349
+          }
+        ],
+        "target": {
+          "x": 0.8,
+          "y": 0.21
+        },
+        "confidence": "medium",
+        "explanation": "A corresponding field spans the upper-right side above the same horizontal lane. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left repeated field",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.111,
+            "y": 0.68
+          },
+          {
+            "x": 0.452,
+            "y": 0.68
+          },
+          {
+            "x": 0.452,
+            "y": 0.922
+          },
+          {
+            "x": 0.111,
+            "y": 0.922
+          }
+        ],
+        "target": {
+          "x": 0.28,
+          "y": 0.8
+        },
+        "confidence": "medium",
+        "explanation": "A repeated lower-left field is separated from the middle block by a clear internal boundary. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right repeated field",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.635,
+            "y": 0.68
+          },
+          {
+            "x": 0.981,
+            "y": 0.68
+          },
+          {
+            "x": 0.981,
+            "y": 0.922
+          },
+          {
+            "x": 0.635,
+            "y": 0.922
+          }
+        ],
+        "target": {
+          "x": 0.8,
+          "y": 0.8
+        },
+        "confidence": "medium",
+        "explanation": "A lower-right field repeats the cell geometry from the other side. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 central small-opening panel",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.468,
+            "y": 0.451
+          },
+          {
+            "x": 0.631,
+            "y": 0.451
+          },
+          {
+            "x": 0.631,
+            "y": 0.554
+          },
+          {
+            "x": 0.468,
+            "y": 0.554
+          }
+        ],
+        "target": {
+          "x": 0.55,
+          "y": 0.5
+        },
+        "confidence": "high",
+        "explanation": "A compact central panel contains a regular set of dark openings within a pale surrounding field. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_tu102",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. Infrared view retains physical laser markings. Targets avoid those markings; faint boundaries warrant low confidence and broad contours.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left faint repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.063,
+            "y": 0.052
+          },
+          {
+            "x": 0.342,
+            "y": 0.052
+          },
+          {
+            "x": 0.342,
+            "y": 0.185
+          },
+          {
+            "x": 0.063,
+            "y": 0.185
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.108
+        },
+        "confidence": "low",
+        "explanation": "Faint repeated structures are visible between the upper interface band and the large laser-etched logo. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right faint repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.65,
+            "y": 0.052
+          },
+          {
+            "x": 0.929,
+            "y": 0.052
+          },
+          {
+            "x": 0.929,
+            "y": 0.185
+          },
+          {
+            "x": 0.65,
+            "y": 0.185
+          }
+        ],
+        "target": {
+          "x": 0.8,
+          "y": 0.108
+        },
+        "confidence": "low",
+        "explanation": "A corresponding upper-right field shows faint repeated outlines beneath the silicon surface. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left faint repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.063,
+            "y": 0.764
+          },
+          {
+            "x": 0.342,
+            "y": 0.764
+          },
+          {
+            "x": 0.342,
+            "y": 0.912
+          },
+          {
+            "x": 0.063,
+            "y": 0.912
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.84
+        },
+        "confidence": "low",
+        "explanation": "A lower-left group of faint aligned structures lies below the large etched model designation. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_tu104",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. ",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.064,
+            "y": 0.068
+          },
+          {
+            "x": 0.347,
+            "y": 0.068
+          },
+          {
+            "x": 0.347,
+            "y": 0.379
+          },
+          {
+            "x": 0.064,
+            "y": 0.379
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.22
+        },
+        "confidence": "medium",
+        "explanation": "A broad upper-left group contains repeated square and rounded texture motifs. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.653,
+            "y": 0.068
+          },
+          {
+            "x": 0.941,
+            "y": 0.068
+          },
+          {
+            "x": 0.941,
+            "y": 0.379
+          },
+          {
+            "x": 0.653,
+            "y": 0.379
+          }
+        ],
+        "target": {
+          "x": 0.8,
+          "y": 0.22
+        },
+        "confidence": "medium",
+        "explanation": "The upper-right group is bounded by a bright vertical lane and the outer band. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.064,
+            "y": 0.6
+          },
+          {
+            "x": 0.347,
+            "y": 0.6
+          },
+          {
+            "x": 0.347,
+            "y": 0.879
+          },
+          {
+            "x": 0.064,
+            "y": 0.879
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.74
+        },
+        "confidence": "medium",
+        "explanation": "A lower-left repeated group is separated from its upper neighbor by a horizontal band. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.653,
+            "y": 0.6
+          },
+          {
+            "x": 0.941,
+            "y": 0.6
+          },
+          {
+            "x": 0.941,
+            "y": 0.879
+          },
+          {
+            "x": 0.653,
+            "y": 0.879
+          }
+        ],
+        "target": {
+          "x": 0.8,
+          "y": 0.74
+        },
+        "confidence": "medium",
+        "explanation": "The lower-right repeated group contains the same alternating geometric motif. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 central regular-opening panel",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.427,
+            "y": 0.393
+          },
+          {
+            "x": 0.573,
+            "y": 0.393
+          },
+          {
+            "x": 0.573,
+            "y": 0.551
+          },
+          {
+            "x": 0.427,
+            "y": 0.551
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.47
+        },
+        "confidence": "high",
+        "explanation": "A pale central panel contains a regular grid of small dark openings. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_tu106",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. ",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.064,
+            "y": 0.08
+          },
+          {
+            "x": 0.353,
+            "y": 0.08
+          },
+          {
+            "x": 0.353,
+            "y": 0.582
+          },
+          {
+            "x": 0.064,
+            "y": 0.582
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.3
+        },
+        "confidence": "medium",
+        "explanation": "A large repeated group occupies the upper-left interior with alternating outlined shapes. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right repeated group",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.65,
+            "y": 0.08
+          },
+          {
+            "x": 0.94,
+            "y": 0.08
+          },
+          {
+            "x": 0.94,
+            "y": 0.582
+          },
+          {
+            "x": 0.65,
+            "y": 0.582
+          }
+        ],
+        "target": {
+          "x": 0.8,
+          "y": 0.3
+        },
+        "confidence": "medium",
+        "explanation": "The upper-right group follows the same repeated texture and is bounded by the outer interface band. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle-left repeated rounded field",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.064,
+            "y": 0.6
+          },
+          {
+            "x": 0.353,
+            "y": 0.6
+          },
+          {
+            "x": 0.353,
+            "y": 0.842
+          },
+          {
+            "x": 0.064,
+            "y": 0.842
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.72
+        },
+        "confidence": "medium",
+        "explanation": "A lower-left field contains several rows of rounded-looking repeated shapes. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 central regular-opening panel",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.427,
+            "y": 0.637
+          },
+          {
+            "x": 0.574,
+            "y": 0.637
+          },
+          {
+            "x": 0.574,
+            "y": 0.838
+          },
+          {
+            "x": 0.427,
+            "y": 0.838
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.74
+        },
+        "confidence": "high",
+        "explanation": "The lower central pale panel contains many aligned small dark openings. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_ga102",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. Infrared view retains physical laser markings. Column outlines are estimated through the marked field; all targets lie in unmarked upper or lower sections.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left aligned column",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.088,
+            "y": 0.062
+          },
+          {
+            "x": 0.207,
+            "y": 0.062
+          },
+          {
+            "x": 0.207,
+            "y": 0.643
+          },
+          {
+            "x": 0.088,
+            "y": 0.643
+          }
+        ],
+        "target": {
+          "x": 0.15,
+          "y": 0.11
+        },
+        "confidence": "medium",
+        "explanation": "A tall column contains stacked repeated outlines separated from its neighbor by a straight narrow lane. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right aligned column",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.807,
+            "y": 0.062
+          },
+          {
+            "x": 0.919,
+            "y": 0.062
+          },
+          {
+            "x": 0.919,
+            "y": 0.643
+          },
+          {
+            "x": 0.807,
+            "y": 0.643
+          }
+        ],
+        "target": {
+          "x": 0.86,
+          "y": 0.11
+        },
+        "confidence": "medium",
+        "explanation": "A tall right-side column repeats the same stacked geometry. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left broad patterned bank",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.084,
+            "y": 0.806
+          },
+          {
+            "x": 0.374,
+            "y": 0.806
+          },
+          {
+            "x": 0.374,
+            "y": 0.916
+          },
+          {
+            "x": 0.084,
+            "y": 0.916
+          }
+        ],
+        "target": {
+          "x": 0.23,
+          "y": 0.85
+        },
+        "confidence": "medium",
+        "explanation": "A broad lower-left band contains several rows of aligned small structures below the etched designation. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right broad patterned bank",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.568,
+            "y": 0.742
+          },
+          {
+            "x": 0.915,
+            "y": 0.742
+          },
+          {
+            "x": 0.915,
+            "y": 0.916
+          },
+          {
+            "x": 0.568,
+            "y": 0.916
+          }
+        ],
+        "target": {
+          "x": 0.76,
+          "y": 0.84
+        },
+        "confidence": "medium",
+        "explanation": "A broader lower-right bank contains repeated geometric structures below the markings. Contour estimated visually; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_ad102",
+    "reviewNote": "Visually inspected the complete downloaded photograph. Polygons follow prominent geometric groups or texture boundaries, not verified circuit functions. Confidence describes visual boundary clarity and is not a calibrated probability. Infrared photograph retains the physical NVIDIA and AD102 laser markings. Targets avoid the lettering. Faint or marked boundaries remain estimates.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated column",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.058,
+            "y": 0.067
+          },
+          {
+            "x": 0.213,
+            "y": 0.067
+          },
+          {
+            "x": 0.213,
+            "y": 0.367
+          },
+          {
+            "x": 0.058,
+            "y": 0.367
+          }
+        ],
+        "target": {
+          "x": 0.135,
+          "y": 0.108
+        },
+        "confidence": "low",
+        "explanation": "Faint repeated rows fill a tall upper-left column beneath the surface. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right repeated column",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.769,
+            "y": 0.067
+          },
+          {
+            "x": 0.927,
+            "y": 0.067
+          },
+          {
+            "x": 0.927,
+            "y": 0.367
+          },
+          {
+            "x": 0.769,
+            "y": 0.367
+          }
+        ],
+        "target": {
+          "x": 0.85,
+          "y": 0.108
+        },
+        "confidence": "low",
+        "explanation": "A corresponding upper-right column contains faint repeated structures. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left repeated column",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.058,
+            "y": 0.63
+          },
+          {
+            "x": 0.219,
+            "y": 0.63
+          },
+          {
+            "x": 0.219,
+            "y": 0.916
+          },
+          {
+            "x": 0.058,
+            "y": 0.916
+          }
+        ],
+        "target": {
+          "x": 0.135,
+          "y": 0.85
+        },
+        "confidence": "medium",
+        "explanation": "A lower-left field contains many aligned repeated outlines below the model marking. Contour estimated visually; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right repeated column",
+        "kind": "unclassified",
+        "annotationMethod": "model-visual-estimate",
+        "polygon": [
+          {
+            "x": 0.775,
+            "y": 0.63
+          },
+          {
+            "x": 0.929,
+            "y": 0.63
+          },
+          {
+            "x": 0.929,
+            "y": 0.916
+          },
+          {
+            "x": 0.775,
+            "y": 0.916
+          }
+        ],
+        "target": {
+          "x": 0.85,
+          "y": 0.85
+        },
+        "confidence": "medium",
+        "explanation": "The lower-right field repeats the broad vertically aligned motif. Contour estimated visually; component function is unverified."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2345 @@
+[
+  {
+    "cpuId": "ti_microsparc2",
+    "reviewNote": "Not visually reviewed: the source image download remained unavailable after rate-limit recovery attempts. No contours were generated.",
+    "skipReason": "Image unavailable (HTTP 429); keep reference-only until a photograph can be inspected.",
+    "regions": []
+  },
+  {
+    "cpuId": "dec_21164_ev5",
+    "reviewNote": "Not visually reviewed: the source image download remained unavailable after rate-limit recovery attempts. No contours were generated.",
+    "skipReason": "Image unavailable (HTTP 429); keep reference-only until a photograph can be inspected.",
+    "regions": []
+  },
+  {
+    "cpuId": "moto_ppc603e",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-right repeated panels",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.64,
+            "y": 0.095
+          },
+          {
+            "x": 0.89,
+            "y": 0.095
+          },
+          {
+            "x": 0.89,
+            "y": 0.375
+          },
+          {
+            "x": 0.64,
+            "y": 0.375
+          }
+        ],
+        "target": {
+          "x": 0.76,
+          "y": 0.24
+        },
+        "confidence": "medium",
+        "explanation": "Large bright panels are divided by straight vertical and horizontal wiring. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-right repeated panels",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.64,
+            "y": 0.445
+          },
+          {
+            "x": 0.89,
+            "y": 0.445
+          },
+          {
+            "x": 0.89,
+            "y": 0.8
+          },
+          {
+            "x": 0.64,
+            "y": 0.8
+          }
+        ],
+        "target": {
+          "x": 0.76,
+          "y": 0.62
+        },
+        "confidence": "medium",
+        "explanation": "A lower bank of aligned panels is bounded by a horizontal routing band and the outer vertical strip. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-left striped band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.145,
+            "y": 0.105
+          },
+          {
+            "x": 0.42,
+            "y": 0.105
+          },
+          {
+            "x": 0.42,
+            "y": 0.35
+          },
+          {
+            "x": 0.145,
+            "y": 0.35
+          }
+        ],
+        "target": {
+          "x": 0.28,
+          "y": 0.22
+        },
+        "confidence": "low",
+        "explanation": "The upper-left band contains multiple narrow, similarly aligned columns. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_k5",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left pale rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.141,
+            "y": 0.072
+          },
+          {
+            "x": 0.297,
+            "y": 0.072
+          },
+          {
+            "x": 0.297,
+            "y": 0.157
+          },
+          {
+            "x": 0.141,
+            "y": 0.157
+          }
+        ],
+        "target": {
+          "x": 0.22,
+          "y": 0.115
+        },
+        "confidence": "high",
+        "explanation": "A pale horizontal rectangle has a sharp dark border and a fine uniform internal texture. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 middle horizontal dense strip",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.135,
+            "y": 0.495
+          },
+          {
+            "x": 0.42,
+            "y": 0.495
+          },
+          {
+            "x": 0.42,
+            "y": 0.57
+          },
+          {
+            "x": 0.135,
+            "y": 0.57
+          }
+        ],
+        "target": {
+          "x": 0.28,
+          "y": 0.53
+        },
+        "confidence": "high",
+        "explanation": "A long dense horizontal strip sits between broad dark routing gaps. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-center striped bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.285,
+            "y": 0.79
+          },
+          {
+            "x": 0.725,
+            "y": 0.79
+          },
+          {
+            "x": 0.725,
+            "y": 0.942
+          },
+          {
+            "x": 0.285,
+            "y": 0.942
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.86
+        },
+        "confidence": "high",
+        "explanation": "A wide lower bank consists of closely packed vertical strips bounded by black channels. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-center narrow column",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.575,
+            "y": 0.092
+          },
+          {
+            "x": 0.629,
+            "y": 0.092
+          },
+          {
+            "x": 0.629,
+            "y": 0.418
+          },
+          {
+            "x": 0.575,
+            "y": 0.418
+          }
+        ],
+        "target": {
+          "x": 0.6,
+          "y": 0.26
+        },
+        "confidence": "high",
+        "explanation": "A tall narrow textured column is isolated by straight dark lanes. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "hp_pa7300lc",
+    "reviewNote": "Not visually reviewed: the source image download remained unavailable after rate-limit recovery attempts. No contours were generated.",
+    "skipReason": "Image unavailable (HTTP 429); keep reference-only until a photograph can be inspected.",
+    "regions": []
+  },
+  {
+    "cpuId": "mips_r5000",
+    "reviewNote": "Not visually reviewed: the source image download remained unavailable after rate-limit recovery attempts. No contours were generated.",
+    "skipReason": "Image unavailable (HTTP 429); keep reference-only until a photograph can be inspected.",
+    "regions": []
+  },
+  {
+    "cpuId": "amd_k6",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated rectangles",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.013,
+            "y": 0.014
+          },
+          {
+            "x": 0.16,
+            "y": 0.014
+          },
+          {
+            "x": 0.16,
+            "y": 0.501
+          },
+          {
+            "x": 0.013,
+            "y": 0.501
+          }
+        ],
+        "target": {
+          "x": 0.085,
+          "y": 0.26
+        },
+        "confidence": "high",
+        "explanation": "A tall bank of broad horizontal rectangles occupies the upper-left edge. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left repeated rectangles",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.013,
+            "y": 0.515
+          },
+          {
+            "x": 0.16,
+            "y": 0.515
+          },
+          {
+            "x": 0.16,
+            "y": 0.977
+          },
+          {
+            "x": 0.013,
+            "y": 0.977
+          }
+        ],
+        "target": {
+          "x": 0.085,
+          "y": 0.75
+        },
+        "confidence": "high",
+        "explanation": "A second tall bank of aligned rectangular arrays occupies the lower-left edge. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-middle broad arrays",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.247,
+            "y": 0.015
+          },
+          {
+            "x": 0.391,
+            "y": 0.015
+          },
+          {
+            "x": 0.391,
+            "y": 0.348
+          },
+          {
+            "x": 0.247,
+            "y": 0.348
+          }
+        ],
+        "target": {
+          "x": 0.32,
+          "y": 0.18
+        },
+        "confidence": "medium",
+        "explanation": "Broad pale horizontal arrays are bounded by fine vertical wiring and a horizontal channel. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right fine-textured column",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.687,
+            "y": 0.02
+          },
+          {
+            "x": 0.799,
+            "y": 0.02
+          },
+          {
+            "x": 0.799,
+            "y": 0.598
+          },
+          {
+            "x": 0.687,
+            "y": 0.598
+          }
+        ],
+        "target": {
+          "x": 0.74,
+          "y": 0.3
+        },
+        "confidence": "high",
+        "explanation": "A tall fine-textured rectangular column contrasts with the neighboring broad arrays. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_k6_2",
+    "reviewNote": "Visually inspected: the tilted die occupies only part of a large package photograph, with background and obscured rounded edges. Keep reference-only until the die is cropped/deskewed and dimensions registered to the transformed image.",
+    "skipReason": "Visually inspected: the tilted die occupies only part of a large package photograph, with background and obscured rounded edges. Keep reference-only until the die is cropped/deskewed and dimensions registered to the transformed image.",
+    "regions": []
+  },
+  {
+    "cpuId": "hp_pa8500",
+    "reviewNote": "Not visually reviewed: the source image download remained unavailable after rate-limit recovery attempts. No contours were generated.",
+    "skipReason": "Image unavailable (HTTP 429); keep reference-only until a photograph can be inspected.",
+    "regions": []
+  },
+  {
+    "cpuId": "intel_deschutes",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 middle-left four-panel array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.067,
+            "y": 0.42
+          },
+          {
+            "x": 0.306,
+            "y": 0.42
+          },
+          {
+            "x": 0.306,
+            "y": 0.614
+          },
+          {
+            "x": 0.067,
+            "y": 0.614
+          }
+        ],
+        "target": {
+          "x": 0.18,
+          "y": 0.52
+        },
+        "confidence": "high",
+        "explanation": "Four colored rectangular panels with dense vertical lines form a conspicuous block. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 middle-right broad textured bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.643,
+            "y": 0.508
+          },
+          {
+            "x": 0.928,
+            "y": 0.508
+          },
+          {
+            "x": 0.928,
+            "y": 0.609
+          },
+          {
+            "x": 0.643,
+            "y": 0.609
+          }
+        ],
+        "target": {
+          "x": 0.79,
+          "y": 0.56
+        },
+        "confidence": "high",
+        "explanation": "A broad horizontal bank has repeated vertical textures and a crisp surrounding channel. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left paired striped banks",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.162,
+            "y": 0.782
+          },
+          {
+            "x": 0.458,
+            "y": 0.782
+          },
+          {
+            "x": 0.458,
+            "y": 0.95
+          },
+          {
+            "x": 0.162,
+            "y": 0.95
+          }
+        ],
+        "target": {
+          "x": 0.31,
+          "y": 0.86
+        },
+        "confidence": "high",
+        "explanation": "Two banks of tall narrow stripes sit side by side near the lower edge. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right horizontal striped stack",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.808,
+            "y": 0.05
+          },
+          {
+            "x": 0.935,
+            "y": 0.05
+          },
+          {
+            "x": 0.935,
+            "y": 0.23
+          },
+          {
+            "x": 0.808,
+            "y": 0.23
+          }
+        ],
+        "target": {
+          "x": 0.87,
+          "y": 0.14
+        },
+        "confidence": "medium",
+        "explanation": "A stack of narrow horizontal blocks occupies the upper-right corner. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "qed_rm7000",
+    "reviewNote": "Not visually reviewed: the source image download remained unavailable after rate-limit recovery attempts. No contours were generated.",
+    "skipReason": "Image unavailable (HTTP 429); keep reference-only until a photograph can be inspected.",
+    "regions": []
+  },
+  {
+    "cpuId": "amd_pluto",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 lower-left rectangular grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.06,
+            "y": 0.647
+          },
+          {
+            "x": 0.348,
+            "y": 0.647
+          },
+          {
+            "x": 0.348,
+            "y": 0.933
+          },
+          {
+            "x": 0.06,
+            "y": 0.933
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.79
+        },
+        "confidence": "high",
+        "explanation": "Large repeated rectangles form a lower-left grid. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-middle rectangular grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.548,
+            "y": 0.594
+          },
+          {
+            "x": 0.754,
+            "y": 0.594
+          },
+          {
+            "x": 0.754,
+            "y": 0.923
+          },
+          {
+            "x": 0.548,
+            "y": 0.923
+          }
+        ],
+        "target": {
+          "x": 0.65,
+          "y": 0.77
+        },
+        "confidence": "high",
+        "explanation": "Another grid of larger rectangular panels occupies the lower-middle-right band. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle-left dark striped pair",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.28,
+            "y": 0.354
+          },
+          {
+            "x": 0.338,
+            "y": 0.354
+          },
+          {
+            "x": 0.338,
+            "y": 0.539
+          },
+          {
+            "x": 0.28,
+            "y": 0.539
+          }
+        ],
+        "target": {
+          "x": 0.31,
+          "y": 0.45
+        },
+        "confidence": "high",
+        "explanation": "Two strongly contrasted striped rectangles are separated by a horizontal gap. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-middle fine horizontal band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.447,
+            "y": 0.277
+          },
+          {
+            "x": 0.52,
+            "y": 0.277
+          },
+          {
+            "x": 0.52,
+            "y": 0.507
+          },
+          {
+            "x": 0.447,
+            "y": 0.507
+          }
+        ],
+        "target": {
+          "x": 0.48,
+          "y": 0.4
+        },
+        "confidence": "medium",
+        "explanation": "Dense parallel horizontal lines form a narrow vertically extended band. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_argon",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 lower-left large rectangle bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.048,
+            "y": 0.645
+          },
+          {
+            "x": 0.343,
+            "y": 0.645
+          },
+          {
+            "x": 0.343,
+            "y": 0.947
+          },
+          {
+            "x": 0.048,
+            "y": 0.947
+          }
+        ],
+        "target": {
+          "x": 0.19,
+          "y": 0.79
+        },
+        "confidence": "high",
+        "explanation": "The lower-left region contains a bank of large repeated rectangles. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 central tall striped column",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.393,
+            "y": 0.061
+          },
+          {
+            "x": 0.52,
+            "y": 0.061
+          },
+          {
+            "x": 0.52,
+            "y": 0.932
+          },
+          {
+            "x": 0.393,
+            "y": 0.932
+          }
+        ],
+        "target": {
+          "x": 0.455,
+          "y": 0.5
+        },
+        "confidence": "medium",
+        "explanation": "A tall central column has stacked fine horizontal stripes and straight vertical borders. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-center-right grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.542,
+            "y": 0.594
+          },
+          {
+            "x": 0.759,
+            "y": 0.594
+          },
+          {
+            "x": 0.759,
+            "y": 0.942
+          },
+          {
+            "x": 0.542,
+            "y": 0.942
+          }
+        ],
+        "target": {
+          "x": 0.65,
+          "y": 0.78
+        },
+        "confidence": "high",
+        "explanation": "Large dark rectangular panels form a lower grid bounded by routing lanes. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right striped panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.791,
+            "y": 0.106
+          },
+          {
+            "x": 0.943,
+            "y": 0.106
+          },
+          {
+            "x": 0.943,
+            "y": 0.248
+          },
+          {
+            "x": 0.791,
+            "y": 0.248
+          }
+        ],
+        "target": {
+          "x": 0.86,
+          "y": 0.18
+        },
+        "confidence": "medium",
+        "explanation": "A broad panel of horizontal stripes occupies the upper-right area. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_k6_iii",
+    "reviewNote": "Visually inspected: the die is tilted within a large package photograph with background and partially obscured rounded edges. Full-frame coordinates cannot safely represent a physically scaled die; keep reference-only pending registered crop/deskew.",
+    "skipReason": "Visually inspected: the die is tilted within a large package photograph with background and partially obscured rounded edges. Full-frame coordinates cannot safely represent a physically scaled die; keep reference-only pending registered crop/deskew.",
+    "regions": []
+  },
+  {
+    "cpuId": "intel_coppermine",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.047,
+            "y": 0.195
+          },
+          {
+            "x": 0.366,
+            "y": 0.195
+          },
+          {
+            "x": 0.366,
+            "y": 0.611
+          },
+          {
+            "x": 0.047,
+            "y": 0.611
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.4
+        },
+        "confidence": "high",
+        "explanation": "A dense bank of repeated bright rectangles forms the upper part of the large left array. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left repeated array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.047,
+            "y": 0.639
+          },
+          {
+            "x": 0.366,
+            "y": 0.639
+          },
+          {
+            "x": 0.366,
+            "y": 0.948
+          },
+          {
+            "x": 0.047,
+            "y": 0.948
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.79
+        },
+        "confidence": "high",
+        "explanation": "The lower left array is separated from its upper neighbor by a conspicuous horizontal band. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle narrow stacked panels",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.406,
+            "y": 0.272
+          },
+          {
+            "x": 0.478,
+            "y": 0.272
+          },
+          {
+            "x": 0.478,
+            "y": 0.595
+          },
+          {
+            "x": 0.406,
+            "y": 0.595
+          }
+        ],
+        "target": {
+          "x": 0.44,
+          "y": 0.43
+        },
+        "confidence": "medium",
+        "explanation": "A narrow column contains multiple bright rectangular panels amid darker routing. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right horizontal strip bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.779,
+            "y": 0.056
+          },
+          {
+            "x": 0.934,
+            "y": 0.056
+          },
+          {
+            "x": 0.934,
+            "y": 0.288
+          },
+          {
+            "x": 0.779,
+            "y": 0.288
+          }
+        ],
+        "target": {
+          "x": 0.85,
+          "y": 0.17
+        },
+        "confidence": "medium",
+        "explanation": "Several fine horizontal strips form the upper-right bank. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_katmai",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 middle-left striped bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.05,
+            "y": 0.353
+          },
+          {
+            "x": 0.287,
+            "y": 0.353
+          },
+          {
+            "x": 0.287,
+            "y": 0.525
+          },
+          {
+            "x": 0.05,
+            "y": 0.525
+          }
+        ],
+        "target": {
+          "x": 0.16,
+          "y": 0.44
+        },
+        "confidence": "high",
+        "explanation": "A broad middle-left block contains tall fine stripes and a dark horizontal division. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left striped columns",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.151,
+            "y": 0.789
+          },
+          {
+            "x": 0.386,
+            "y": 0.789
+          },
+          {
+            "x": 0.386,
+            "y": 0.952
+          },
+          {
+            "x": 0.151,
+            "y": 0.952
+          }
+        ],
+        "target": {
+          "x": 0.26,
+          "y": 0.86
+        },
+        "confidence": "high",
+        "explanation": "A lower-left bank contains tall narrow columns surrounded by bright routing. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 right-middle broad striped block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.635,
+            "y": 0.519
+          },
+          {
+            "x": 0.951,
+            "y": 0.519
+          },
+          {
+            "x": 0.951,
+            "y": 0.628
+          },
+          {
+            "x": 0.635,
+            "y": 0.628
+          }
+        ],
+        "target": {
+          "x": 0.79,
+          "y": 0.57
+        },
+        "confidence": "high",
+        "explanation": "A broad block of dense vertical stripes spans the right-middle edge. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-middle short striped stack",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.39,
+            "y": 0.06
+          },
+          {
+            "x": 0.529,
+            "y": 0.06
+          },
+          {
+            "x": 0.529,
+            "y": 0.122
+          },
+          {
+            "x": 0.39,
+            "y": 0.122
+          }
+        ],
+        "target": {
+          "x": 0.46,
+          "y": 0.095
+        },
+        "confidence": "medium",
+        "explanation": "A compact upper band contains several short horizontal stripe groups. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_thunderbird",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left large grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.017,
+            "y": 0.065
+          },
+          {
+            "x": 0.22,
+            "y": 0.065
+          },
+          {
+            "x": 0.22,
+            "y": 0.459
+          },
+          {
+            "x": 0.017,
+            "y": 0.459
+          }
+        ],
+        "target": {
+          "x": 0.12,
+          "y": 0.25
+        },
+        "confidence": "high",
+        "explanation": "A large grid of repeated dark rectangular panels fills the upper-left side. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left large grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.017,
+            "y": 0.572
+          },
+          {
+            "x": 0.22,
+            "y": 0.572
+          },
+          {
+            "x": 0.22,
+            "y": 0.937
+          },
+          {
+            "x": 0.017,
+            "y": 0.937
+          }
+        ],
+        "target": {
+          "x": 0.12,
+          "y": 0.75
+        },
+        "confidence": "high",
+        "explanation": "A second large grid occupies the lower-left side below a horizontal routing band. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-right rectangular grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.644,
+            "y": 0.592
+          },
+          {
+            "x": 0.827,
+            "y": 0.592
+          },
+          {
+            "x": 0.827,
+            "y": 0.924
+          },
+          {
+            "x": 0.644,
+            "y": 0.924
+          }
+        ],
+        "target": {
+          "x": 0.73,
+          "y": 0.75
+        },
+        "confidence": "high",
+        "explanation": "A grid of repeated panels is outlined by pale routing in the lower-right band. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 middle dark horizontal pair",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.42,
+            "y": 0.294
+          },
+          {
+            "x": 0.465,
+            "y": 0.294
+          },
+          {
+            "x": 0.465,
+            "y": 0.413
+          },
+          {
+            "x": 0.42,
+            "y": 0.413
+          }
+        ],
+        "target": {
+          "x": 0.44,
+          "y": 0.35
+        },
+        "confidence": "medium",
+        "explanation": "Two small dark striped panels form a conspicuous vertical pair near the middle. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_spitfire",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 lower-left panel grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.09,
+            "y": 0.653
+          },
+          {
+            "x": 0.305,
+            "y": 0.653
+          },
+          {
+            "x": 0.305,
+            "y": 0.934
+          },
+          {
+            "x": 0.09,
+            "y": 0.934
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.79
+        },
+        "confidence": "high",
+        "explanation": "A bank of repeated large rectangles fills the lower-left interior. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-right panel grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.579,
+            "y": 0.586
+          },
+          {
+            "x": 0.798,
+            "y": 0.586
+          },
+          {
+            "x": 0.798,
+            "y": 0.92
+          },
+          {
+            "x": 0.579,
+            "y": 0.92
+          }
+        ],
+        "target": {
+          "x": 0.69,
+          "y": 0.75
+        },
+        "confidence": "high",
+        "explanation": "Large repeated panels form a lower-right bank bordered by a vertical lane. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle-left striped pair",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.308,
+            "y": 0.351
+          },
+          {
+            "x": 0.37,
+            "y": 0.351
+          },
+          {
+            "x": 0.37,
+            "y": 0.522
+          },
+          {
+            "x": 0.308,
+            "y": 0.522
+          }
+        ],
+        "target": {
+          "x": 0.34,
+          "y": 0.44
+        },
+        "confidence": "high",
+        "explanation": "A pair of dark striped panels stands out within the denser middle-left circuitry. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right striped rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.879,
+            "y": 0.274
+          },
+          {
+            "x": 0.98,
+            "y": 0.274
+          },
+          {
+            "x": 0.98,
+            "y": 0.384
+          },
+          {
+            "x": 0.879,
+            "y": 0.384
+          }
+        ],
+        "target": {
+          "x": 0.915,
+          "y": 0.33
+        },
+        "confidence": "medium",
+        "explanation": "A pale horizontal striped rectangle lies near the upper-right edge. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "fsl_mpc8245",
+    "reviewNote": "Visually inspected complete photograph. The image is landscape although catalog millimeter dimensions are portrait; orientation must be reconciled before physical scaling. These contours describe visible geometry only; component functions are unverified.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-right left panel bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.504,
+            "y": 0.108
+          },
+          {
+            "x": 0.653,
+            "y": 0.108
+          },
+          {
+            "x": 0.653,
+            "y": 0.359
+          },
+          {
+            "x": 0.504,
+            "y": 0.359
+          }
+        ],
+        "target": {
+          "x": 0.58,
+          "y": 0.23
+        },
+        "confidence": "high",
+        "explanation": "A bank of broad repeated pale rectangles occupies the left half of the bright upper-right block. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right right panel bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.775,
+            "y": 0.108
+          },
+          {
+            "x": 0.925,
+            "y": 0.108
+          },
+          {
+            "x": 0.925,
+            "y": 0.359
+          },
+          {
+            "x": 0.775,
+            "y": 0.359
+          }
+        ],
+        "target": {
+          "x": 0.85,
+          "y": 0.23
+        },
+        "confidence": "high",
+        "explanation": "A second aligned bank of broad rectangles forms the right half of the upper-right block. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle-left striped band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.065,
+            "y": 0.45
+          },
+          {
+            "x": 0.469,
+            "y": 0.45
+          },
+          {
+            "x": 0.469,
+            "y": 0.544
+          },
+          {
+            "x": 0.065,
+            "y": 0.544
+          }
+        ],
+        "target": {
+          "x": 0.27,
+          "y": 0.5
+        },
+        "confidence": "high",
+        "explanation": "A long horizontal band of dense fine stripes is isolated by wide blank lanes above and below. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right striped column",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.778,
+            "y": 0.399
+          },
+          {
+            "x": 0.848,
+            "y": 0.399
+          },
+          {
+            "x": 0.848,
+            "y": 0.895
+          },
+          {
+            "x": 0.778,
+            "y": 0.895
+          }
+        ],
+        "target": {
+          "x": 0.81,
+          "y": 0.65
+        },
+        "confidence": "high",
+        "explanation": "A narrow lower-right column contains many horizontal stripe groups. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_cascades",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left bright array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.006,
+            "y": 0.11
+          },
+          {
+            "x": 0.179,
+            "y": 0.11
+          },
+          {
+            "x": 0.179,
+            "y": 0.278
+          },
+          {
+            "x": 0.006,
+            "y": 0.278
+          }
+        ],
+        "target": {
+          "x": 0.09,
+          "y": 0.19
+        },
+        "confidence": "high",
+        "explanation": "A repeated bright rectangular array is bordered by straight dark channels. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-middle bright array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.207,
+            "y": 0.11
+          },
+          {
+            "x": 0.37,
+            "y": 0.11
+          },
+          {
+            "x": 0.37,
+            "y": 0.278
+          },
+          {
+            "x": 0.207,
+            "y": 0.278
+          }
+        ],
+        "target": {
+          "x": 0.29,
+          "y": 0.19
+        },
+        "confidence": "high",
+        "explanation": "A second bright rectangular array repeats the nearby grid geometry. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-right bright array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.824,
+            "y": 0.819
+          },
+          {
+            "x": 0.989,
+            "y": 0.819
+          },
+          {
+            "x": 0.989,
+            "y": 0.982
+          },
+          {
+            "x": 0.824,
+            "y": 0.982
+          }
+        ],
+        "target": {
+          "x": 0.9,
+          "y": 0.9
+        },
+        "confidence": "high",
+        "explanation": "A large repeated array occupies the lower-right corner inside the border. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right paired vertical panels",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.655,
+            "y": 0.139
+          },
+          {
+            "x": 0.759,
+            "y": 0.139
+          },
+          {
+            "x": 0.759,
+            "y": 0.256
+          },
+          {
+            "x": 0.655,
+            "y": 0.256
+          }
+        ],
+        "target": {
+          "x": 0.71,
+          "y": 0.2
+        },
+        "confidence": "medium",
+        "explanation": "Two bright panels flank a darker vertically striped central strip. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_palomino",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 lower-left broad grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.065,
+            "y": 0.75
+          },
+          {
+            "x": 0.35,
+            "y": 0.75
+          },
+          {
+            "x": 0.35,
+            "y": 0.99
+          },
+          {
+            "x": 0.065,
+            "y": 0.99
+          }
+        ],
+        "target": {
+          "x": 0.21,
+          "y": 0.86
+        },
+        "confidence": "high",
+        "explanation": "A broad grid of large uniform panels spans the lower-left corner. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-middle-right broad grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.537,
+            "y": 0.75
+          },
+          {
+            "x": 0.818,
+            "y": 0.75
+          },
+          {
+            "x": 0.818,
+            "y": 0.99
+          },
+          {
+            "x": 0.537,
+            "y": 0.99
+          }
+        ],
+        "target": {
+          "x": 0.68,
+          "y": 0.86
+        },
+        "confidence": "high",
+        "explanation": "A second broad rectangular grid is separated by the central vertical channel. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central striped column",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.375,
+            "y": 0.23
+          },
+          {
+            "x": 0.518,
+            "y": 0.23
+          },
+          {
+            "x": 0.518,
+            "y": 0.595
+          },
+          {
+            "x": 0.375,
+            "y": 0.595
+          }
+        ],
+        "target": {
+          "x": 0.45,
+          "y": 0.42
+        },
+        "confidence": "medium",
+        "explanation": "A vertically extended bank contains many short horizontal stripe groups. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right paired panels",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.845,
+            "y": 0.22
+          },
+          {
+            "x": 0.937,
+            "y": 0.22
+          },
+          {
+            "x": 0.937,
+            "y": 0.319
+          },
+          {
+            "x": 0.845,
+            "y": 0.319
+          }
+        ],
+        "target": {
+          "x": 0.89,
+          "y": 0.27
+        },
+        "confidence": "high",
+        "explanation": "Two pale, wide panels share a straight horizontal dividing band. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_morgan",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 lower-left repeated panels",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.108,
+            "y": 0.623
+          },
+          {
+            "x": 0.344,
+            "y": 0.623
+          },
+          {
+            "x": 0.344,
+            "y": 0.909
+          },
+          {
+            "x": 0.108,
+            "y": 0.909
+          }
+        ],
+        "target": {
+          "x": 0.23,
+          "y": 0.77
+        },
+        "confidence": "high",
+        "explanation": "Large aligned rectangular panels form the lower-left bank. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 central striped column",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.448,
+            "y": 0.267
+          },
+          {
+            "x": 0.52,
+            "y": 0.267
+          },
+          {
+            "x": 0.52,
+            "y": 0.613
+          },
+          {
+            "x": 0.448,
+            "y": 0.613
+          }
+        ],
+        "target": {
+          "x": 0.485,
+          "y": 0.44
+        },
+        "confidence": "medium",
+        "explanation": "A narrow column of horizontal stripe groups stands beside a vertical separation lane. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-right paired panels",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.827,
+            "y": 0.274
+          },
+          {
+            "x": 0.94,
+            "y": 0.274
+          },
+          {
+            "x": 0.94,
+            "y": 0.397
+          },
+          {
+            "x": 0.827,
+            "y": 0.397
+          }
+        ],
+        "target": {
+          "x": 0.88,
+          "y": 0.33
+        },
+        "confidence": "high",
+        "explanation": "Two broad pale panels form a conspicuous pair near the upper-right side. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-middle-right panel grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.634,
+            "y": 0.587
+          },
+          {
+            "x": 0.753,
+            "y": 0.587
+          },
+          {
+            "x": 0.753,
+            "y": 0.907
+          },
+          {
+            "x": 0.634,
+            "y": 0.907
+          }
+        ],
+        "target": {
+          "x": 0.69,
+          "y": 0.75
+        },
+        "confidence": "high",
+        "explanation": "A bank of large regular panels sits in the lower-middle-right column. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "hp_pa8700",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left broad panel bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.013,
+            "y": 0.007
+          },
+          {
+            "x": 0.361,
+            "y": 0.007
+          },
+          {
+            "x": 0.361,
+            "y": 0.286
+          },
+          {
+            "x": 0.013,
+            "y": 0.286
+          }
+        ],
+        "target": {
+          "x": 0.19,
+          "y": 0.17
+        },
+        "confidence": "high",
+        "explanation": "A broad upper-left bank contains large uniform rectangular panels bounded by thin horizontal lines. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 middle-left broad panel bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.013,
+            "y": 0.294
+          },
+          {
+            "x": 0.36,
+            "y": 0.294
+          },
+          {
+            "x": 0.36,
+            "y": 0.469
+          },
+          {
+            "x": 0.013,
+            "y": 0.469
+          }
+        ],
+        "target": {
+          "x": 0.19,
+          "y": 0.38
+        },
+        "confidence": "high",
+        "explanation": "A broad central-left group of uniform panels is bordered by strong horizontal bands. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-middle panel bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.502,
+            "y": 0.655
+          },
+          {
+            "x": 0.691,
+            "y": 0.655
+          },
+          {
+            "x": 0.691,
+            "y": 0.849
+          },
+          {
+            "x": 0.502,
+            "y": 0.849
+          }
+        ],
+        "target": {
+          "x": 0.59,
+          "y": 0.75
+        },
+        "confidence": "high",
+        "explanation": "A broad rectangular bank occupies the lower middle between vertical routing columns. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-center narrow striped column",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.61,
+            "y": 0.036
+          },
+          {
+            "x": 0.662,
+            "y": 0.036
+          },
+          {
+            "x": 0.662,
+            "y": 0.431
+          },
+          {
+            "x": 0.61,
+            "y": 0.431
+          }
+        ],
+        "target": {
+          "x": 0.636,
+          "y": 0.24
+        },
+        "confidence": "high",
+        "explanation": "A tall narrow column of very fine parallel stripes separates two denser textured regions. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_tualatin",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left large repeated array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.041,
+            "y": 0.206
+          },
+          {
+            "x": 0.531,
+            "y": 0.206
+          },
+          {
+            "x": 0.531,
+            "y": 0.507
+          },
+          {
+            "x": 0.041,
+            "y": 0.507
+          }
+        ],
+        "target": {
+          "x": 0.28,
+          "y": 0.36
+        },
+        "confidence": "high",
+        "explanation": "A broad bank of repeated bright panels occupies the upper-left interior. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left large repeated array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.041,
+            "y": 0.651
+          },
+          {
+            "x": 0.531,
+            "y": 0.651
+          },
+          {
+            "x": 0.531,
+            "y": 0.95
+          },
+          {
+            "x": 0.041,
+            "y": 0.95
+          }
+        ],
+        "target": {
+          "x": 0.28,
+          "y": 0.8
+        },
+        "confidence": "high",
+        "explanation": "A matching broad panel bank sits below the central horizontal band. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-middle paired striped blocks",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.56,
+            "y": 0.285
+          },
+          {
+            "x": 0.695,
+            "y": 0.285
+          },
+          {
+            "x": 0.695,
+            "y": 0.463
+          },
+          {
+            "x": 0.56,
+            "y": 0.463
+          }
+        ],
+        "target": {
+          "x": 0.63,
+          "y": 0.37
+        },
+        "confidence": "medium",
+        "explanation": "Two groups of tall striped blocks flank a narrow contrasting central section. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right regular panel bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.911,
+            "y": 0.799
+          },
+          {
+            "x": 0.965,
+            "y": 0.799
+          },
+          {
+            "x": 0.965,
+            "y": 0.945
+          },
+          {
+            "x": 0.911,
+            "y": 0.945
+          }
+        ],
+        "target": {
+          "x": 0.93,
+          "y": 0.87
+        },
+        "confidence": "high",
+        "explanation": "A compact regular panel bank stands out near the lower-right corner. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_northwood",
+    "reviewNote": "Not visually reviewed: the source image download remained unavailable after rate-limit recovery attempts. No contours were generated.",
+    "skipReason": "Image unavailable (HTTP 429); keep reference-only until a photograph can be inspected.",
+    "regions": []
+  },
+  {
+    "cpuId": "amd_barton",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-right paired panel banks",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.636,
+            "y": 0.063
+          },
+          {
+            "x": 0.958,
+            "y": 0.063
+          },
+          {
+            "x": 0.958,
+            "y": 0.448
+          },
+          {
+            "x": 0.636,
+            "y": 0.448
+          }
+        ],
+        "target": {
+          "x": 0.79,
+          "y": 0.25
+        },
+        "confidence": "high",
+        "explanation": "Two neighboring banks of large repeated panels fill the upper-right side. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-right paired panel banks",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.638,
+            "y": 0.579
+          },
+          {
+            "x": 0.959,
+            "y": 0.579
+          },
+          {
+            "x": 0.959,
+            "y": 0.94
+          },
+          {
+            "x": 0.638,
+            "y": 0.94
+          }
+        ],
+        "target": {
+          "x": 0.79,
+          "y": 0.76
+        },
+        "confidence": "high",
+        "explanation": "A lower pair of large regular panel banks is separated from the upper pair by a textured strip. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle-left fine-textured column",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.319,
+            "y": 0.216
+          },
+          {
+            "x": 0.41,
+            "y": 0.216
+          },
+          {
+            "x": 0.41,
+            "y": 0.721
+          },
+          {
+            "x": 0.319,
+            "y": 0.721
+          }
+        ],
+        "target": {
+          "x": 0.36,
+          "y": 0.47
+        },
+        "confidence": "medium",
+        "explanation": "A narrow column of fine horizontal structures is bounded by straight vertical gaps. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-middle small panel grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.466,
+            "y": 0.078
+          },
+          {
+            "x": 0.622,
+            "y": 0.078
+          },
+          {
+            "x": 0.622,
+            "y": 0.418
+          },
+          {
+            "x": 0.466,
+            "y": 0.418
+          }
+        ],
+        "target": {
+          "x": 0.54,
+          "y": 0.25
+        },
+        "confidence": "high",
+        "explanation": "Several short columns of small broad rectangles form a regular upper-middle bank. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_prescott",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-right large regular grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.698,
+            "y": 0.151
+          },
+          {
+            "x": 0.946,
+            "y": 0.151
+          },
+          {
+            "x": 0.946,
+            "y": 0.465
+          },
+          {
+            "x": 0.698,
+            "y": 0.465
+          }
+        ],
+        "target": {
+          "x": 0.82,
+          "y": 0.31
+        },
+        "confidence": "high",
+        "explanation": "A large regular grid of bright panels fills the upper-right block. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-right large regular grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.698,
+            "y": 0.658
+          },
+          {
+            "x": 0.946,
+            "y": 0.658
+          },
+          {
+            "x": 0.946,
+            "y": 0.973
+          },
+          {
+            "x": 0.698,
+            "y": 0.973
+          }
+        ],
+        "target": {
+          "x": 0.82,
+          "y": 0.81
+        },
+        "confidence": "high",
+        "explanation": "A matching lower grid is separated from the upper block by a band of mixed textures. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle-left paired small grids",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.065,
+            "y": 0.535
+          },
+          {
+            "x": 0.283,
+            "y": 0.535
+          },
+          {
+            "x": 0.283,
+            "y": 0.651
+          },
+          {
+            "x": 0.065,
+            "y": 0.651
+          }
+        ],
+        "target": {
+          "x": 0.17,
+          "y": 0.59
+        },
+        "confidence": "high",
+        "explanation": "Two neighboring banks contain many short repeated rectangular panels. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 middle paired dark striped blocks",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.454,
+            "y": 0.266
+          },
+          {
+            "x": 0.625,
+            "y": 0.266
+          },
+          {
+            "x": 0.625,
+            "y": 0.378
+          },
+          {
+            "x": 0.454,
+            "y": 0.378
+          }
+        ],
+        "target": {
+          "x": 0.54,
+          "y": 0.32
+        },
+        "confidence": "medium",
+        "explanation": "Two dark rectangular striped blocks sit side by side between vertical routing channels. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "sun_ultrasparc_iv",
+    "reviewNote": "Visually inspected the complete photograph. Contours follow conspicuous texture and routing boundaries; component functions have not been verified. Confidence describes contour clarity, not a calibrated probability.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left panel cluster",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.052,
+            "y": 0.109
+          },
+          {
+            "x": 0.198,
+            "y": 0.109
+          },
+          {
+            "x": 0.198,
+            "y": 0.279
+          },
+          {
+            "x": 0.052,
+            "y": 0.279
+          }
+        ],
+        "target": {
+          "x": 0.125,
+          "y": 0.2
+        },
+        "confidence": "high",
+        "explanation": "A compact upper-left cluster contains repeated broad panels with colorful central patches. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right panel cluster",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.807,
+            "y": 0.113
+          },
+          {
+            "x": 0.945,
+            "y": 0.113
+          },
+          {
+            "x": 0.945,
+            "y": 0.28
+          },
+          {
+            "x": 0.807,
+            "y": 0.28
+          }
+        ],
+        "target": {
+          "x": 0.875,
+          "y": 0.2
+        },
+        "confidence": "high",
+        "explanation": "A similarly sized cluster of broad panels occupies the upper-right corner. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left stacked horizontal panels",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.069,
+            "y": 0.6
+          },
+          {
+            "x": 0.174,
+            "y": 0.6
+          },
+          {
+            "x": 0.174,
+            "y": 0.767
+          },
+          {
+            "x": 0.069,
+            "y": 0.767
+          }
+        ],
+        "target": {
+          "x": 0.12,
+          "y": 0.68
+        },
+        "confidence": "high",
+        "explanation": "Two narrow columns of short broad panels form a lower-left stack. This is a visual contour estimate; component function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 bottom repeated horizontal bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.334,
+            "y": 0.815
+          },
+          {
+            "x": 0.421,
+            "y": 0.815
+          },
+          {
+            "x": 0.421,
+            "y": 0.941
+          },
+          {
+            "x": 0.334,
+            "y": 0.941
+          }
+        ],
+        "target": {
+          "x": 0.38,
+          "y": 0.875
+        },
+        "confidence": "medium",
+        "explanation": "One bank within the long bottom row contains many closely aligned horizontal panels. This is a visual contour estimate; component function is unverified."
+      }
+    ]
+  }
+]

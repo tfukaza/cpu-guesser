@@ -1,0 +1,182 @@
+[
+  {
+    "cpuId": "apple_m1",
+    "reviewNote": "Individually inspected the full-frame 6144 × 5879 polysilicon image and a 1400-pixel overview. The die fills the rectangular frame, with only narrow scribe-line edges. No transform applied. Shapes follow prominent visible islands and arrays; no CPU/GPU/cache/function assignment is inferred.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A — upper-left repeated-cell panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.058,
+            "y": 0.062
+          },
+          {
+            "x": 0.237,
+            "y": 0.062
+          },
+          {
+            "x": 0.237,
+            "y": 0.176
+          },
+          {
+            "x": 0.058,
+            "y": 0.176
+          }
+        ],
+        "target": {
+          "x": 0.15,
+          "y": 0.12
+        },
+        "confidence": "medium",
+        "explanation": "A rectangular upper-left panel combines dark mottled fields with repeated pale cells. This is a visual contour estimate; circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B — central fine striped array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.301,
+            "y": 0.408
+          },
+          {
+            "x": 0.474,
+            "y": 0.408
+          },
+          {
+            "x": 0.474,
+            "y": 0.514
+          },
+          {
+            "x": 0.301,
+            "y": 0.514
+          }
+        ],
+        "target": {
+          "x": 0.387,
+          "y": 0.46
+        },
+        "confidence": "high",
+        "explanation": "Fine alternating vertical lines form a conspicuous central rectangular array. This is a visual contour estimate; circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C — tall lower central striped block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.328,
+            "y": 0.537
+          },
+          {
+            "x": 0.409,
+            "y": 0.537
+          },
+          {
+            "x": 0.409,
+            "y": 0.736
+          },
+          {
+            "x": 0.328,
+            "y": 0.736
+          }
+        ],
+        "target": {
+          "x": 0.368,
+          "y": 0.638
+        },
+        "confidence": "medium",
+        "explanation": "A tall narrow block contains a dark interior bordered by dense pale parallel lines. This is a visual contour estimate; circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D — lower central dense grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.526,
+            "y": 0.589
+          },
+          {
+            "x": 0.681,
+            "y": 0.589
+          },
+          {
+            "x": 0.681,
+            "y": 0.692
+          },
+          {
+            "x": 0.526,
+            "y": 0.692
+          }
+        ],
+        "target": {
+          "x": 0.604,
+          "y": 0.64
+        },
+        "confidence": "high",
+        "explanation": "A dense rectangular grid sits below a narrow pale-cell band. This is a visual contour estimate; circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E — upper-right mottled island",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.694,
+            "y": 0.061
+          },
+          {
+            "x": 0.853,
+            "y": 0.061
+          },
+          {
+            "x": 0.853,
+            "y": 0.175
+          },
+          {
+            "x": 0.694,
+            "y": 0.175
+          }
+        ],
+        "target": {
+          "x": 0.774,
+          "y": 0.12
+        },
+        "confidence": "medium",
+        "explanation": "The upper-right island has a dark irregular interior surrounded by long pale stripes. This is a visual contour estimate; circuit function is unverified."
+      },
+      {
+        "id": "region-f",
+        "name": "Region F — lower-left small-cell panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.018,
+            "y": 0.716
+          },
+          {
+            "x": 0.281,
+            "y": 0.716
+          },
+          {
+            "x": 0.281,
+            "y": 0.792
+          },
+          {
+            "x": 0.018,
+            "y": 0.792
+          }
+        ],
+        "target": {
+          "x": 0.15,
+          "y": 0.755
+        },
+        "confidence": "medium",
+        "explanation": "A broad lower-left panel combines repeated small rectangles and several dark vertical channels. This is a visual contour estimate; circuit function is unverified."
+      }
+    ]
+  }
+]

@@ -1,0 +1,3429 @@
+[
+  {
+    "cpuId": "hp_nanoprocessor",
+    "reviewNote": "Inspected the full preview in original orientation. Four visually distinct blocks; no functional assignments.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper horizontal grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.04,
+            "y": 0.12
+          },
+          {
+            "x": 0.79,
+            "y": 0.12
+          },
+          {
+            "x": 0.79,
+            "y": 0.24
+          },
+          {
+            "x": 0.04,
+            "y": 0.24
+          }
+        ],
+        "target": {
+          "x": 0.4,
+          "y": 0.18
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper horizontal grid. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 left repeated-cell field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.04,
+            "y": 0.3
+          },
+          {
+            "x": 0.4,
+            "y": 0.3
+          },
+          {
+            "x": 0.4,
+            "y": 0.65
+          },
+          {
+            "x": 0.04,
+            "y": 0.65
+          }
+        ],
+        "target": {
+          "x": 0.22,
+          "y": 0.47
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the left repeated-cell field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central patterned block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.54,
+            "y": 0.3
+          },
+          {
+            "x": 0.7,
+            "y": 0.3
+          },
+          {
+            "x": 0.7,
+            "y": 0.65
+          },
+          {
+            "x": 0.54,
+            "y": 0.65
+          }
+        ],
+        "target": {
+          "x": 0.62,
+          "y": 0.47
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the central patterned block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower horizontal band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.07,
+            "y": 0.73
+          },
+          {
+            "x": 0.78,
+            "y": 0.73
+          },
+          {
+            "x": 0.78,
+            "y": 0.88
+          },
+          {
+            "x": 0.07,
+            "y": 0.88
+          }
+        ],
+        "target": {
+          "x": 0.42,
+          "y": 0.8
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower horizontal band. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_8085",
+    "reviewNote": "Inspected full image; major changes in repeated texture define broad contours. Functional labels deliberately withheld.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left textured block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.14,
+            "y": 0.13
+          },
+          {
+            "x": 0.48,
+            "y": 0.13
+          },
+          {
+            "x": 0.48,
+            "y": 0.44
+          },
+          {
+            "x": 0.14,
+            "y": 0.44
+          }
+        ],
+        "target": {
+          "x": 0.3,
+          "y": 0.29
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the upper-left textured block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left repeated columns",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.16,
+            "y": 0.48
+          },
+          {
+            "x": 0.39,
+            "y": 0.48
+          },
+          {
+            "x": 0.39,
+            "y": 0.81
+          },
+          {
+            "x": 0.16,
+            "y": 0.81
+          }
+        ],
+        "target": {
+          "x": 0.27,
+          "y": 0.65
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-left repeated columns. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central stacked grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.53,
+            "y": 0.27
+          },
+          {
+            "x": 0.71,
+            "y": 0.27
+          },
+          {
+            "x": 0.71,
+            "y": 0.57
+          },
+          {
+            "x": 0.53,
+            "y": 0.57
+          }
+        ],
+        "target": {
+          "x": 0.62,
+          "y": 0.42
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the central stacked grid. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper compact array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.54,
+            "y": 0.12
+          },
+          {
+            "x": 0.71,
+            "y": 0.12
+          },
+          {
+            "x": 0.71,
+            "y": 0.25
+          },
+          {
+            "x": 0.54,
+            "y": 0.25
+          }
+        ],
+        "target": {
+          "x": 0.62,
+          "y": 0.18
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper compact array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "moto_6809",
+    "reviewNote": "Inspected full image. Upper regular array and broad central/lower texture groups are separable; central boundary is approximate.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper narrow regular array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.23,
+            "y": 0.15
+          },
+          {
+            "x": 0.85,
+            "y": 0.15
+          },
+          {
+            "x": 0.85,
+            "y": 0.21
+          },
+          {
+            "x": 0.23,
+            "y": 0.21
+          }
+        ],
+        "target": {
+          "x": 0.54,
+          "y": 0.18
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper narrow regular array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 middle repeated horizontal field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.19,
+            "y": 0.27
+          },
+          {
+            "x": 0.87,
+            "y": 0.27
+          },
+          {
+            "x": 0.87,
+            "y": 0.69
+          },
+          {
+            "x": 0.19,
+            "y": 0.69
+          }
+        ],
+        "target": {
+          "x": 0.53,
+          "y": 0.48
+        },
+        "confidence": "low",
+        "explanation": "A visually estimated contour around the middle repeated horizontal field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower irregular circuitry band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.19,
+            "y": 0.76
+          },
+          {
+            "x": 0.86,
+            "y": 0.76
+          },
+          {
+            "x": 0.86,
+            "y": 0.92
+          },
+          {
+            "x": 0.19,
+            "y": 0.92
+          }
+        ],
+        "target": {
+          "x": 0.52,
+          "y": 0.84
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the lower irregular circuitry band. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "zilog_z8000",
+    "reviewNote": "Inspected full image. Prominent left arrays and central vertical textures used as visual landmarks.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left shallow band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.1,
+            "y": 0.09
+          },
+          {
+            "x": 0.36,
+            "y": 0.09
+          },
+          {
+            "x": 0.36,
+            "y": 0.18
+          },
+          {
+            "x": 0.1,
+            "y": 0.18
+          }
+        ],
+        "target": {
+          "x": 0.23,
+          "y": 0.14
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the upper-left shallow band. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 left repeated-cell rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.1,
+            "y": 0.28
+          },
+          {
+            "x": 0.27,
+            "y": 0.28
+          },
+          {
+            "x": 0.27,
+            "y": 0.52
+          },
+          {
+            "x": 0.1,
+            "y": 0.52
+          }
+        ],
+        "target": {
+          "x": 0.18,
+          "y": 0.4
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the left repeated-cell rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left horizontal bands",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.1,
+            "y": 0.59
+          },
+          {
+            "x": 0.31,
+            "y": 0.59
+          },
+          {
+            "x": 0.31,
+            "y": 0.93
+          },
+          {
+            "x": 0.1,
+            "y": 0.93
+          }
+        ],
+        "target": {
+          "x": 0.21,
+          "y": 0.76
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the lower-left horizontal bands. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 central vertical field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.38,
+            "y": 0.3
+          },
+          {
+            "x": 0.73,
+            "y": 0.3
+          },
+          {
+            "x": 0.73,
+            "y": 0.93
+          },
+          {
+            "x": 0.38,
+            "y": 0.93
+          }
+        ],
+        "target": {
+          "x": 0.56,
+          "y": 0.61
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the central vertical field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 right narrow repeated column",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.81,
+            "y": 0.55
+          },
+          {
+            "x": 0.88,
+            "y": 0.55
+          },
+          {
+            "x": 0.88,
+            "y": 0.88
+          },
+          {
+            "x": 0.81,
+            "y": 0.88
+          }
+        ],
+        "target": {
+          "x": 0.84,
+          "y": 0.71
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the right narrow repeated column. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_80186",
+    "reviewNote": "Inspected full preview. Clear rectangular arrays and texture changes provide four approximate regions.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 left large regular array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.1,
+            "y": 0.36
+          },
+          {
+            "x": 0.22,
+            "y": 0.36
+          },
+          {
+            "x": 0.22,
+            "y": 0.6
+          },
+          {
+            "x": 0.1,
+            "y": 0.6
+          }
+        ],
+        "target": {
+          "x": 0.16,
+          "y": 0.48
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the left large regular array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 central lower textured block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.3,
+            "y": 0.51
+          },
+          {
+            "x": 0.47,
+            "y": 0.51
+          },
+          {
+            "x": 0.47,
+            "y": 0.71
+          },
+          {
+            "x": 0.3,
+            "y": 0.71
+          }
+        ],
+        "target": {
+          "x": 0.38,
+          "y": 0.61
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the central lower textured block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 right middle horizontal field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.53,
+            "y": 0.44
+          },
+          {
+            "x": 0.77,
+            "y": 0.44
+          },
+          {
+            "x": 0.77,
+            "y": 0.55
+          },
+          {
+            "x": 0.53,
+            "y": 0.55
+          }
+        ],
+        "target": {
+          "x": 0.65,
+          "y": 0.5
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the right middle horizontal field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower central repeated grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.53,
+            "y": 0.61
+          },
+          {
+            "x": 0.65,
+            "y": 0.61
+          },
+          {
+            "x": 0.65,
+            "y": 0.73
+          },
+          {
+            "x": 0.53,
+            "y": 0.73
+          }
+        ],
+        "target": {
+          "x": 0.59,
+          "y": 0.67
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower central repeated grid. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_80286",
+    "reviewNote": "Inspected full preview. Multiple sharp-edged rectangular structures make visual boundaries comparatively clear.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 left upper dense rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.1,
+            "y": 0.41
+          },
+          {
+            "x": 0.29,
+            "y": 0.41
+          },
+          {
+            "x": 0.29,
+            "y": 0.53
+          },
+          {
+            "x": 0.1,
+            "y": 0.53
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.47
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the left upper dense rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 left lower dense rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.1,
+            "y": 0.58
+          },
+          {
+            "x": 0.29,
+            "y": 0.58
+          },
+          {
+            "x": 0.29,
+            "y": 0.7
+          },
+          {
+            "x": 0.1,
+            "y": 0.7
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.64
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the left lower dense rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-right repeated rows",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.74,
+            "y": 0.14
+          },
+          {
+            "x": 0.91,
+            "y": 0.14
+          },
+          {
+            "x": 0.91,
+            "y": 0.25
+          },
+          {
+            "x": 0.74,
+            "y": 0.25
+          }
+        ],
+        "target": {
+          "x": 0.82,
+          "y": 0.2
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right repeated rows. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 right middle striped band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.78,
+            "y": 0.45
+          },
+          {
+            "x": 0.9,
+            "y": 0.45
+          },
+          {
+            "x": 0.9,
+            "y": 0.56
+          },
+          {
+            "x": 0.78,
+            "y": 0.56
+          }
+        ],
+        "target": {
+          "x": 0.84,
+          "y": 0.5
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the right middle striped band. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 bottom-left paired grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.11,
+            "y": 0.75
+          },
+          {
+            "x": 0.29,
+            "y": 0.75
+          },
+          {
+            "x": 0.29,
+            "y": 0.88
+          },
+          {
+            "x": 0.11,
+            "y": 0.88
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.81
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the bottom-left paired grid. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "wdc_65c02",
+    "reviewNote": "Inspected full portrait image. Preserve portrait photo orientation; image-coordinate contours do not establish physical aspect or circuit functions. Catalog dimensions 4.55 x 3.13 mm are landscape, while source photo is 28226 x 35857 pixels (portrait). Swapping to 3.13 x 4.55 mm fixes orientation but still differs in aspect by about 14%; physical dimensions remain unverified.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 left fine repeated array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.14,
+            "y": 0.13
+          },
+          {
+            "x": 0.29,
+            "y": 0.13
+          },
+          {
+            "x": 0.29,
+            "y": 0.89
+          },
+          {
+            "x": 0.14,
+            "y": 0.89
+          }
+        ],
+        "target": {
+          "x": 0.21,
+          "y": 0.5
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the left fine repeated array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 central paired narrow columns",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.46,
+            "y": 0.14
+          },
+          {
+            "x": 0.55,
+            "y": 0.14
+          },
+          {
+            "x": 0.55,
+            "y": 0.88
+          },
+          {
+            "x": 0.46,
+            "y": 0.88
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.51
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the central paired narrow columns. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-right repeating traces",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.59,
+            "y": 0.18
+          },
+          {
+            "x": 0.87,
+            "y": 0.18
+          },
+          {
+            "x": 0.87,
+            "y": 0.43
+          },
+          {
+            "x": 0.59,
+            "y": 0.43
+          }
+        ],
+        "target": {
+          "x": 0.73,
+          "y": 0.3
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the upper-right repeating traces. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right patterned field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.59,
+            "y": 0.45
+          },
+          {
+            "x": 0.87,
+            "y": 0.45
+          },
+          {
+            "x": 0.87,
+            "y": 0.85
+          },
+          {
+            "x": 0.59,
+            "y": 0.85
+          }
+        ],
+        "target": {
+          "x": 0.73,
+          "y": 0.65
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the lower-right patterned field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "moto_68020",
+    "reviewNote": "Inspected full preview. Prominent regular macros are bounded broadly; lower field is grouped by repeated vertical texture.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left shallow array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.26,
+            "y": 0.12
+          },
+          {
+            "x": 0.44,
+            "y": 0.12
+          },
+          {
+            "x": 0.44,
+            "y": 0.2
+          },
+          {
+            "x": 0.26,
+            "y": 0.2
+          }
+        ],
+        "target": {
+          "x": 0.35,
+          "y": 0.16
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-left shallow array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right shallow array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.48,
+            "y": 0.12
+          },
+          {
+            "x": 0.68,
+            "y": 0.12
+          },
+          {
+            "x": 0.68,
+            "y": 0.2
+          },
+          {
+            "x": 0.48,
+            "y": 0.2
+          }
+        ],
+        "target": {
+          "x": 0.58,
+          "y": 0.16
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right shallow array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 left tall paired block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.14,
+            "y": 0.14
+          },
+          {
+            "x": 0.22,
+            "y": 0.14
+          },
+          {
+            "x": 0.22,
+            "y": 0.43
+          },
+          {
+            "x": 0.14,
+            "y": 0.43
+          }
+        ],
+        "target": {
+          "x": 0.18,
+          "y": 0.29
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the left tall paired block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 right narrow rectangular block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.75,
+            "y": 0.19
+          },
+          {
+            "x": 0.83,
+            "y": 0.19
+          },
+          {
+            "x": 0.83,
+            "y": 0.37
+          },
+          {
+            "x": 0.75,
+            "y": 0.37
+          }
+        ],
+        "target": {
+          "x": 0.79,
+          "y": 0.28
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the right narrow rectangular block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 lower repeated vertical field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.22,
+            "y": 0.51
+          },
+          {
+            "x": 0.74,
+            "y": 0.51
+          },
+          {
+            "x": 0.74,
+            "y": 0.74
+          },
+          {
+            "x": 0.22,
+            "y": 0.74
+          }
+        ],
+        "target": {
+          "x": 0.48,
+          "y": 0.63
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the lower repeated vertical field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nec_v60",
+    "reviewNote": "Inspected full preview. Five large, visibly bounded repeated structures selected, avoiding central routing channels.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left broad array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.06,
+            "y": 0.06
+          },
+          {
+            "x": 0.37,
+            "y": 0.06
+          },
+          {
+            "x": 0.37,
+            "y": 0.27
+          },
+          {
+            "x": 0.06,
+            "y": 0.27
+          }
+        ],
+        "target": {
+          "x": 0.22,
+          "y": 0.17
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-left broad array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right striped block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.73,
+            "y": 0.08
+          },
+          {
+            "x": 0.93,
+            "y": 0.08
+          },
+          {
+            "x": 0.93,
+            "y": 0.28
+          },
+          {
+            "x": 0.73,
+            "y": 0.28
+          }
+        ],
+        "target": {
+          "x": 0.83,
+          "y": 0.18
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right striped block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle-left patterned block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.07,
+            "y": 0.43
+          },
+          {
+            "x": 0.34,
+            "y": 0.43
+          },
+          {
+            "x": 0.34,
+            "y": 0.63
+          },
+          {
+            "x": 0.07,
+            "y": 0.63
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.53
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the middle-left patterned block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 middle-right paired grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.74,
+            "y": 0.39
+          },
+          {
+            "x": 0.93,
+            "y": 0.39
+          },
+          {
+            "x": 0.93,
+            "y": 0.57
+          },
+          {
+            "x": 0.74,
+            "y": 0.57
+          }
+        ],
+        "target": {
+          "x": 0.83,
+          "y": 0.48
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the middle-right paired grid. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 lower-left repeated field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.07,
+            "y": 0.65
+          },
+          {
+            "x": 0.28,
+            "y": 0.65
+          },
+          {
+            "x": 0.28,
+            "y": 0.85
+          },
+          {
+            "x": 0.07,
+            "y": 0.85
+          }
+        ],
+        "target": {
+          "x": 0.18,
+          "y": 0.75
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the lower-left repeated field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "cbm_65ce02",
+    "reviewNote": "Inspected full etched preview. Uneven etching reduces boundary confidence; three broad texture groups retained without functional claims.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper fine horizontal strip",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.18,
+            "y": 0.23
+          },
+          {
+            "x": 0.7,
+            "y": 0.23
+          },
+          {
+            "x": 0.7,
+            "y": 0.28
+          },
+          {
+            "x": 0.18,
+            "y": 0.28
+          }
+        ],
+        "target": {
+          "x": 0.44,
+          "y": 0.255
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the upper fine horizontal strip. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 middle darker repeated field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.2,
+            "y": 0.34
+          },
+          {
+            "x": 0.7,
+            "y": 0.34
+          },
+          {
+            "x": 0.7,
+            "y": 0.49
+          },
+          {
+            "x": 0.2,
+            "y": 0.49
+          }
+        ],
+        "target": {
+          "x": 0.45,
+          "y": 0.415
+        },
+        "confidence": "low",
+        "explanation": "A visually estimated contour around the middle darker repeated field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower horizontal trace field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.18,
+            "y": 0.61
+          },
+          {
+            "x": 0.77,
+            "y": 0.61
+          },
+          {
+            "x": 0.77,
+            "y": 0.83
+          },
+          {
+            "x": 0.18,
+            "y": 0.83
+          }
+        ],
+        "target": {
+          "x": 0.48,
+          "y": 0.72
+        },
+        "confidence": "low",
+        "explanation": "A visually estimated contour around the lower horizontal trace field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "mips_r3000",
+    "reviewNote": "Inspected full preview. Distinct top-right and lower repeated blocks provide clear visual landmarks.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left narrow repeated field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.14,
+            "y": 0.24
+          },
+          {
+            "x": 0.2,
+            "y": 0.24
+          },
+          {
+            "x": 0.2,
+            "y": 0.49
+          },
+          {
+            "x": 0.14,
+            "y": 0.49
+          }
+        ],
+        "target": {
+          "x": 0.17,
+          "y": 0.36
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the upper-left narrow repeated field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right stacked fine grids",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.53,
+            "y": 0.22
+          },
+          {
+            "x": 0.8,
+            "y": 0.22
+          },
+          {
+            "x": 0.8,
+            "y": 0.46
+          },
+          {
+            "x": 0.53,
+            "y": 0.46
+          }
+        ],
+        "target": {
+          "x": 0.66,
+          "y": 0.34
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right stacked fine grids. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left regular rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.22,
+            "y": 0.59
+          },
+          {
+            "x": 0.36,
+            "y": 0.59
+          },
+          {
+            "x": 0.36,
+            "y": 0.83
+          },
+          {
+            "x": 0.22,
+            "y": 0.83
+          }
+        ],
+        "target": {
+          "x": 0.29,
+          "y": 0.71
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-left regular rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower broad repeated columns",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.4,
+            "y": 0.59
+          },
+          {
+            "x": 0.84,
+            "y": 0.59
+          },
+          {
+            "x": 0.84,
+            "y": 0.83
+          },
+          {
+            "x": 0.4,
+            "y": 0.83
+          }
+        ],
+        "target": {
+          "x": 0.62,
+          "y": 0.71
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower broad repeated columns. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_i960ca",
+    "reviewNote": "Inspected full landscape preview. Sharp rectangular array edges used; no names inferred from regularity.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left vertical array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.075,
+            "y": 0.12
+          },
+          {
+            "x": 0.21,
+            "y": 0.12
+          },
+          {
+            "x": 0.21,
+            "y": 0.35
+          },
+          {
+            "x": 0.075,
+            "y": 0.35
+          }
+        ],
+        "target": {
+          "x": 0.14,
+          "y": 0.23
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-left vertical array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper central repeated band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.24,
+            "y": 0.12
+          },
+          {
+            "x": 0.59,
+            "y": 0.12
+          },
+          {
+            "x": 0.59,
+            "y": 0.35
+          },
+          {
+            "x": 0.24,
+            "y": 0.35
+          }
+        ],
+        "target": {
+          "x": 0.42,
+          "y": 0.23
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the upper central repeated band. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left dense rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.18,
+            "y": 0.55
+          },
+          {
+            "x": 0.29,
+            "y": 0.55
+          },
+          {
+            "x": 0.29,
+            "y": 0.79
+          },
+          {
+            "x": 0.18,
+            "y": 0.79
+          }
+        ],
+        "target": {
+          "x": 0.235,
+          "y": 0.67
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-left dense rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower central bright rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.31,
+            "y": 0.55
+          },
+          {
+            "x": 0.41,
+            "y": 0.55
+          },
+          {
+            "x": 0.41,
+            "y": 0.81
+          },
+          {
+            "x": 0.31,
+            "y": 0.81
+          }
+        ],
+        "target": {
+          "x": 0.36,
+          "y": 0.68
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower central bright rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 lower-right fine array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.65,
+            "y": 0.57
+          },
+          {
+            "x": 0.78,
+            "y": 0.57
+          },
+          {
+            "x": 0.78,
+            "y": 0.86
+          },
+          {
+            "x": 0.65,
+            "y": 0.86
+          }
+        ],
+        "target": {
+          "x": 0.715,
+          "y": 0.715
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-right fine array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "ibm_386",
+    "reviewNote": "Inspected full image. Wide metal routing and bond remnants obscure fine boundaries; contours identify visible underlying texture fields only. Source photo aspect 4961/4545=1.092 differs about 11% from catalog dimensions 11.5/11.7=0.983. A swap is not visually established; physical scale remains unverified.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 left middle textured field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.17,
+            "y": 0.29
+          },
+          {
+            "x": 0.36,
+            "y": 0.29
+          },
+          {
+            "x": 0.36,
+            "y": 0.49
+          },
+          {
+            "x": 0.17,
+            "y": 0.49
+          }
+        ],
+        "target": {
+          "x": 0.265,
+          "y": 0.39
+        },
+        "confidence": "low",
+        "explanation": "A visually estimated contour around the left middle textured field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 right middle repeated field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.63,
+            "y": 0.32
+          },
+          {
+            "x": 0.82,
+            "y": 0.32
+          },
+          {
+            "x": 0.82,
+            "y": 0.49
+          },
+          {
+            "x": 0.63,
+            "y": 0.49
+          }
+        ],
+        "target": {
+          "x": 0.725,
+          "y": 0.405
+        },
+        "confidence": "low",
+        "explanation": "A visually estimated contour around the right middle repeated field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 right lower repeated field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.63,
+            "y": 0.59
+          },
+          {
+            "x": 0.82,
+            "y": 0.59
+          },
+          {
+            "x": 0.82,
+            "y": 0.73
+          },
+          {
+            "x": 0.63,
+            "y": 0.73
+          }
+        ],
+        "target": {
+          "x": 0.725,
+          "y": 0.66
+        },
+        "confidence": "low",
+        "explanation": "A visually estimated contour around the right lower repeated field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "moto_68040",
+    "reviewNote": "Inspected full preview. Large top and bottom rectangular structures are clear; smaller repeated middle blocks also bounded visually.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper broad segmented array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.11,
+            "y": 0.07
+          },
+          {
+            "x": 0.53,
+            "y": 0.07
+          },
+          {
+            "x": 0.53,
+            "y": 0.16
+          },
+          {
+            "x": 0.11,
+            "y": 0.16
+          }
+        ],
+        "target": {
+          "x": 0.32,
+          "y": 0.12
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper broad segmented array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower broad segmented array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.11,
+            "y": 0.84
+          },
+          {
+            "x": 0.53,
+            "y": 0.84
+          },
+          {
+            "x": 0.53,
+            "y": 0.92
+          },
+          {
+            "x": 0.11,
+            "y": 0.92
+          }
+        ],
+        "target": {
+          "x": 0.32,
+          "y": 0.88
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower broad segmented array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central upper repeated block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.38,
+            "y": 0.35
+          },
+          {
+            "x": 0.49,
+            "y": 0.35
+          },
+          {
+            "x": 0.49,
+            "y": 0.51
+          },
+          {
+            "x": 0.38,
+            "y": 0.51
+          }
+        ],
+        "target": {
+          "x": 0.435,
+          "y": 0.43
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the central upper repeated block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 central lower repeated block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.38,
+            "y": 0.52
+          },
+          {
+            "x": 0.49,
+            "y": 0.52
+          },
+          {
+            "x": 0.49,
+            "y": 0.69
+          },
+          {
+            "x": 0.38,
+            "y": 0.69
+          }
+        ],
+        "target": {
+          "x": 0.435,
+          "y": 0.605
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the central lower repeated block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 upper-right paired rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.77,
+            "y": 0.08
+          },
+          {
+            "x": 0.83,
+            "y": 0.08
+          },
+          {
+            "x": 0.83,
+            "y": 0.25
+          },
+          {
+            "x": 0.77,
+            "y": 0.25
+          }
+        ],
+        "target": {
+          "x": 0.8,
+          "y": 0.17
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right paired rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "hp_pa7000",
+    "reviewNote": "Inspected full preview. Five prominent texture groups selected; central field boundary intentionally broad.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper striped rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.26,
+            "y": 0.15
+          },
+          {
+            "x": 0.47,
+            "y": 0.15
+          },
+          {
+            "x": 0.47,
+            "y": 0.27
+          },
+          {
+            "x": 0.26,
+            "y": 0.27
+          }
+        ],
+        "target": {
+          "x": 0.365,
+          "y": 0.21
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper striped rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 central repeated vertical field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.17,
+            "y": 0.37
+          },
+          {
+            "x": 0.82,
+            "y": 0.37
+          },
+          {
+            "x": 0.82,
+            "y": 0.49
+          },
+          {
+            "x": 0.17,
+            "y": 0.49
+          }
+        ],
+        "target": {
+          "x": 0.49,
+          "y": 0.43
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the central repeated vertical field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left smooth rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.18,
+            "y": 0.72
+          },
+          {
+            "x": 0.34,
+            "y": 0.72
+          },
+          {
+            "x": 0.34,
+            "y": 0.87
+          },
+          {
+            "x": 0.18,
+            "y": 0.87
+          }
+        ],
+        "target": {
+          "x": 0.26,
+          "y": 0.795
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-left smooth rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right smooth rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.65,
+            "y": 0.72
+          },
+          {
+            "x": 0.8,
+            "y": 0.72
+          },
+          {
+            "x": 0.8,
+            "y": 0.87
+          },
+          {
+            "x": 0.65,
+            "y": 0.87
+          }
+        ],
+        "target": {
+          "x": 0.725,
+          "y": 0.795
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-right smooth rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 lower middle striped block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.46,
+            "y": 0.58
+          },
+          {
+            "x": 0.58,
+            "y": 0.58
+          },
+          {
+            "x": 0.58,
+            "y": 0.68
+          },
+          {
+            "x": 0.46,
+            "y": 0.68
+          }
+        ],
+        "target": {
+          "x": 0.52,
+          "y": 0.63
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the lower middle striped block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "idt_r3051",
+    "reviewNote": "Inspected full image. Right-side arrays have strong outer edges; two left-side repeated structures offer contrasting visual landmarks.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-right paired dense array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.675,
+            "y": 0.18
+          },
+          {
+            "x": 0.875,
+            "y": 0.18
+          },
+          {
+            "x": 0.875,
+            "y": 0.43
+          },
+          {
+            "x": 0.675,
+            "y": 0.43
+          }
+        ],
+        "target": {
+          "x": 0.775,
+          "y": 0.3
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right paired dense array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-right paired dense array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.675,
+            "y": 0.48
+          },
+          {
+            "x": 0.875,
+            "y": 0.48
+          },
+          {
+            "x": 0.875,
+            "y": 0.88
+          },
+          {
+            "x": 0.675,
+            "y": 0.88
+          }
+        ],
+        "target": {
+          "x": 0.775,
+          "y": 0.68
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-right paired dense array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 left tall repeated rows",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.165,
+            "y": 0.27
+          },
+          {
+            "x": 0.32,
+            "y": 0.27
+          },
+          {
+            "x": 0.32,
+            "y": 0.78
+          },
+          {
+            "x": 0.165,
+            "y": 0.78
+          }
+        ],
+        "target": {
+          "x": 0.24,
+          "y": 0.525
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the left tall repeated rows. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 central compact fine grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.38,
+            "y": 0.55
+          },
+          {
+            "x": 0.48,
+            "y": 0.55
+          },
+          {
+            "x": 0.48,
+            "y": 0.75
+          },
+          {
+            "x": 0.38,
+            "y": 0.75
+          }
+        ],
+        "target": {
+          "x": 0.43,
+          "y": 0.65
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the central compact fine grid. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "mips_r4000",
+    "reviewNote": "Inspected full landscape preview. Major rectangular groups are clearly separated by wide routing bands.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated columns",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.07,
+            "y": 0.09
+          },
+          {
+            "x": 0.58,
+            "y": 0.09
+          },
+          {
+            "x": 0.58,
+            "y": 0.29
+          },
+          {
+            "x": 0.07,
+            "y": 0.29
+          }
+        ],
+        "target": {
+          "x": 0.32,
+          "y": 0.19
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-left repeated columns. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 central compact repeated grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.23,
+            "y": 0.41
+          },
+          {
+            "x": 0.6,
+            "y": 0.41
+          },
+          {
+            "x": 0.6,
+            "y": 0.55
+          },
+          {
+            "x": 0.23,
+            "y": 0.55
+          }
+        ],
+        "target": {
+          "x": 0.415,
+          "y": 0.48
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the central compact repeated grid. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left repeated columns",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.07,
+            "y": 0.72
+          },
+          {
+            "x": 0.44,
+            "y": 0.72
+          },
+          {
+            "x": 0.44,
+            "y": 0.92
+          },
+          {
+            "x": 0.07,
+            "y": 0.92
+          }
+        ],
+        "target": {
+          "x": 0.255,
+          "y": 0.82
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-left repeated columns. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right stacked dense block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.81,
+            "y": 0.1
+          },
+          {
+            "x": 0.94,
+            "y": 0.1
+          },
+          {
+            "x": 0.94,
+            "y": 0.45
+          },
+          {
+            "x": 0.81,
+            "y": 0.45
+          }
+        ],
+        "target": {
+          "x": 0.875,
+          "y": 0.27
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right stacked dense block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 lower-right paired dense block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.81,
+            "y": 0.6
+          },
+          {
+            "x": 0.94,
+            "y": 0.6
+          },
+          {
+            "x": 0.94,
+            "y": 0.91
+          },
+          {
+            "x": 0.81,
+            "y": 0.91
+          }
+        ],
+        "target": {
+          "x": 0.875,
+          "y": 0.75
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-right paired dense block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_80486dx2",
+    "reviewNote": "Inspected full landscape preview. Selected two striking paired rectangles and two contrasting upper texture groups.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 lower-left paired dense rectangles",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.2,
+            "y": 0.5
+          },
+          {
+            "x": 0.33,
+            "y": 0.5
+          },
+          {
+            "x": 0.33,
+            "y": 0.86
+          },
+          {
+            "x": 0.2,
+            "y": 0.86
+          }
+        ],
+        "target": {
+          "x": 0.265,
+          "y": 0.68
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-left paired dense rectangles. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-right paired dense rectangles",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.5,
+            "y": 0.5
+          },
+          {
+            "x": 0.64,
+            "y": 0.5
+          },
+          {
+            "x": 0.64,
+            "y": 0.86
+          },
+          {
+            "x": 0.5,
+            "y": 0.86
+          }
+        ],
+        "target": {
+          "x": 0.57,
+          "y": 0.68
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-right paired dense rectangles. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-left vertical trace field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.06,
+            "y": 0.1
+          },
+          {
+            "x": 0.36,
+            "y": 0.1
+          },
+          {
+            "x": 0.36,
+            "y": 0.3
+          },
+          {
+            "x": 0.06,
+            "y": 0.3
+          }
+        ],
+        "target": {
+          "x": 0.21,
+          "y": 0.2
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the upper-left vertical trace field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 middle horizontal striped band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.06,
+            "y": 0.34
+          },
+          {
+            "x": 0.52,
+            "y": 0.34
+          },
+          {
+            "x": 0.52,
+            "y": 0.47
+          },
+          {
+            "x": 0.06,
+            "y": 0.47
+          }
+        ],
+        "target": {
+          "x": 0.29,
+          "y": 0.405
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the middle horizontal striped band. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_i960cf",
+    "reviewNote": "Inspected full image. Selected discrete regular arrays; broad upper band groups adjacent similar vertical textures.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper broad repeated band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.05,
+            "y": 0.1
+          },
+          {
+            "x": 0.82,
+            "y": 0.1
+          },
+          {
+            "x": 0.82,
+            "y": 0.28
+          },
+          {
+            "x": 0.05,
+            "y": 0.28
+          }
+        ],
+        "target": {
+          "x": 0.43,
+          "y": 0.19
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the upper broad repeated band. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left four-part dense block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.19,
+            "y": 0.46
+          },
+          {
+            "x": 0.44,
+            "y": 0.46
+          },
+          {
+            "x": 0.44,
+            "y": 0.89
+          },
+          {
+            "x": 0.19,
+            "y": 0.89
+          }
+        ],
+        "target": {
+          "x": 0.315,
+          "y": 0.675
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-left four-part dense block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central narrow repeated column",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.46,
+            "y": 0.46
+          },
+          {
+            "x": 0.51,
+            "y": 0.46
+          },
+          {
+            "x": 0.51,
+            "y": 0.8
+          },
+          {
+            "x": 0.46,
+            "y": 0.8
+          }
+        ],
+        "target": {
+          "x": 0.485,
+          "y": 0.63
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the central narrow repeated column. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 right middle fine rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.7,
+            "y": 0.48
+          },
+          {
+            "x": 0.79,
+            "y": 0.48
+          },
+          {
+            "x": 0.79,
+            "y": 0.71
+          },
+          {
+            "x": 0.7,
+            "y": 0.71
+          }
+        ],
+        "target": {
+          "x": 0.745,
+          "y": 0.595
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the right middle fine rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 left small tall rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.06,
+            "y": 0.34
+          },
+          {
+            "x": 0.11,
+            "y": 0.34
+          },
+          {
+            "x": 0.11,
+            "y": 0.51
+          },
+          {
+            "x": 0.06,
+            "y": 0.51
+          }
+        ],
+        "target": {
+          "x": 0.085,
+          "y": 0.425
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the left small tall rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "dec_21064",
+    "reviewNote": "Inspected full preview. Low color/texture contrast limits contour certainty; repeated side columns and central band are strongest landmarks.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 left tall repeated structure",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.09,
+            "y": 0.14
+          },
+          {
+            "x": 0.25,
+            "y": 0.14
+          },
+          {
+            "x": 0.25,
+            "y": 0.83
+          },
+          {
+            "x": 0.09,
+            "y": 0.83
+          }
+        ],
+        "target": {
+          "x": 0.17,
+          "y": 0.48
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the left tall repeated structure. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 right tall repeated structure",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.74,
+            "y": 0.34
+          },
+          {
+            "x": 0.92,
+            "y": 0.34
+          },
+          {
+            "x": 0.92,
+            "y": 0.84
+          },
+          {
+            "x": 0.74,
+            "y": 0.84
+          }
+        ],
+        "target": {
+          "x": 0.83,
+          "y": 0.59
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the right tall repeated structure. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central horizontal repeated band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.28,
+            "y": 0.48
+          },
+          {
+            "x": 0.69,
+            "y": 0.48
+          },
+          {
+            "x": 0.69,
+            "y": 0.58
+          },
+          {
+            "x": 0.28,
+            "y": 0.58
+          }
+        ],
+        "target": {
+          "x": 0.485,
+          "y": 0.53
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the central horizontal repeated band. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower middle textured field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.32,
+            "y": 0.66
+          },
+          {
+            "x": 0.72,
+            "y": 0.66
+          },
+          {
+            "x": 0.72,
+            "y": 0.84
+          },
+          {
+            "x": 0.32,
+            "y": 0.84
+          }
+        ],
+        "target": {
+          "x": 0.52,
+          "y": 0.75
+        },
+        "confidence": "low",
+        "explanation": "A visually estimated contour around the lower middle textured field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 upper middle patterned field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.27,
+            "y": 0.16
+          },
+          {
+            "x": 0.71,
+            "y": 0.16
+          },
+          {
+            "x": 0.71,
+            "y": 0.46
+          },
+          {
+            "x": 0.27,
+            "y": 0.46
+          }
+        ],
+        "target": {
+          "x": 0.49,
+          "y": 0.31
+        },
+        "confidence": "low",
+        "explanation": "A visually estimated contour around the upper middle patterned field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "moto_68060",
+    "reviewNote": "Inspected full image. Metal obscures much of the central die; selected only distinct dense edge arrays and one repeated left-side pair.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 lower-left segmented dense array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.06,
+            "y": 0.81
+          },
+          {
+            "x": 0.35,
+            "y": 0.81
+          },
+          {
+            "x": 0.35,
+            "y": 0.94
+          },
+          {
+            "x": 0.06,
+            "y": 0.94
+          }
+        ],
+        "target": {
+          "x": 0.205,
+          "y": 0.875
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-left segmented dense array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-right segmented dense array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.5,
+            "y": 0.81
+          },
+          {
+            "x": 0.8,
+            "y": 0.81
+          },
+          {
+            "x": 0.8,
+            "y": 0.94
+          },
+          {
+            "x": 0.5,
+            "y": 0.94
+          }
+        ],
+        "target": {
+          "x": 0.65,
+          "y": 0.875
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-right segmented dense array. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-right four-part narrow block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.83,
+            "y": 0.09
+          },
+          {
+            "x": 0.9,
+            "y": 0.09
+          },
+          {
+            "x": 0.9,
+            "y": 0.3
+          },
+          {
+            "x": 0.83,
+            "y": 0.3
+          }
+        ],
+        "target": {
+          "x": 0.865,
+          "y": 0.195
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right four-part narrow block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-left paired dense block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.08,
+            "y": 0.07
+          },
+          {
+            "x": 0.4,
+            "y": 0.07
+          },
+          {
+            "x": 0.4,
+            "y": 0.14
+          },
+          {
+            "x": 0.08,
+            "y": 0.14
+          }
+        ],
+        "target": {
+          "x": 0.24,
+          "y": 0.105
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-left paired dense block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 left middle paired rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.08,
+            "y": 0.41
+          },
+          {
+            "x": 0.2,
+            "y": 0.41
+          },
+          {
+            "x": 0.2,
+            "y": 0.57
+          },
+          {
+            "x": 0.08,
+            "y": 0.57
+          }
+        ],
+        "target": {
+          "x": 0.14,
+          "y": 0.49
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the left middle paired rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "nexgen_nx586",
+    "reviewNote": "Inspected full image. Six prominently bounded regular structures selected; paired rectangles grouped where their outlines align.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left dense rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.04,
+            "y": 0.06
+          },
+          {
+            "x": 0.18,
+            "y": 0.06
+          },
+          {
+            "x": 0.18,
+            "y": 0.16
+          },
+          {
+            "x": 0.04,
+            "y": 0.16
+          }
+        ],
+        "target": {
+          "x": 0.11,
+          "y": 0.11
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-left dense rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right paired dense rectangles",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.77,
+            "y": 0.05
+          },
+          {
+            "x": 0.98,
+            "y": 0.05
+          },
+          {
+            "x": 0.98,
+            "y": 0.23
+          },
+          {
+            "x": 0.77,
+            "y": 0.23
+          }
+        ],
+        "target": {
+          "x": 0.875,
+          "y": 0.14
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right paired dense rectangles. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle-left paired rectangles",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.02,
+            "y": 0.28
+          },
+          {
+            "x": 0.24,
+            "y": 0.28
+          },
+          {
+            "x": 0.24,
+            "y": 0.46
+          },
+          {
+            "x": 0.02,
+            "y": 0.46
+          }
+        ],
+        "target": {
+          "x": 0.13,
+          "y": 0.37
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the middle-left paired rectangles. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 middle central paired rectangles",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.29,
+            "y": 0.28
+          },
+          {
+            "x": 0.51,
+            "y": 0.28
+          },
+          {
+            "x": 0.51,
+            "y": 0.46
+          },
+          {
+            "x": 0.29,
+            "y": 0.46
+          }
+        ],
+        "target": {
+          "x": 0.4,
+          "y": 0.37
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the middle central paired rectangles. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 middle-right paired rectangles",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.76,
+            "y": 0.28
+          },
+          {
+            "x": 0.98,
+            "y": 0.28
+          },
+          {
+            "x": 0.98,
+            "y": 0.46
+          },
+          {
+            "x": 0.76,
+            "y": 0.46
+          }
+        ],
+        "target": {
+          "x": 0.87,
+          "y": 0.37
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the middle-right paired rectangles. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-f",
+        "name": "Region F \u2014 lower-right stacked repeated fields",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.67,
+            "y": 0.7
+          },
+          {
+            "x": 0.98,
+            "y": 0.7
+          },
+          {
+            "x": 0.98,
+            "y": 0.98
+          },
+          {
+            "x": 0.67,
+            "y": 0.98
+          }
+        ],
+        "target": {
+          "x": 0.825,
+          "y": 0.84
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-right stacked repeated fields. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "sony_cxd8530",
+    "reviewNote": "Inspected full image. Most die area has uniform routing texture; only five visible outlined macros are selected.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-right shallow rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.58,
+            "y": 0.1
+          },
+          {
+            "x": 0.78,
+            "y": 0.1
+          },
+          {
+            "x": 0.78,
+            "y": 0.15
+          },
+          {
+            "x": 0.58,
+            "y": 0.15
+          }
+        ],
+        "target": {
+          "x": 0.68,
+          "y": 0.125
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right shallow rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-right large rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.73,
+            "y": 0.64
+          },
+          {
+            "x": 0.91,
+            "y": 0.64
+          },
+          {
+            "x": 0.91,
+            "y": 0.9
+          },
+          {
+            "x": 0.73,
+            "y": 0.9
+          }
+        ],
+        "target": {
+          "x": 0.82,
+          "y": 0.77
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-right large rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 bottom central shallow rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.25,
+            "y": 0.85
+          },
+          {
+            "x": 0.53,
+            "y": 0.85
+          },
+          {
+            "x": 0.53,
+            "y": 0.91
+          },
+          {
+            "x": 0.25,
+            "y": 0.91
+          }
+        ],
+        "target": {
+          "x": 0.39,
+          "y": 0.88
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the bottom central shallow rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-left compact rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.085,
+            "y": 0.24
+          },
+          {
+            "x": 0.195,
+            "y": 0.24
+          },
+          {
+            "x": 0.195,
+            "y": 0.31
+          },
+          {
+            "x": 0.085,
+            "y": 0.31
+          }
+        ],
+        "target": {
+          "x": 0.14,
+          "y": 0.275
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-left compact rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 left middle paired rectangles",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.085,
+            "y": 0.335
+          },
+          {
+            "x": 0.23,
+            "y": 0.335
+          },
+          {
+            "x": 0.23,
+            "y": 0.49
+          },
+          {
+            "x": 0.085,
+            "y": 0.49
+          }
+        ],
+        "target": {
+          "x": 0.1575,
+          "y": 0.4125
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the left middle paired rectangles. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "moto_ppc603",
+    "reviewNote": "Inspected full landscape preview. Left field is highly repetitive and boundaries are approximate; right paired stacks are more distinctly bounded.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated slice",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.11,
+            "y": 0.07
+          },
+          {
+            "x": 0.2,
+            "y": 0.07
+          },
+          {
+            "x": 0.2,
+            "y": 0.4
+          },
+          {
+            "x": 0.11,
+            "y": 0.4
+          }
+        ],
+        "target": {
+          "x": 0.155,
+          "y": 0.235
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the upper-left repeated slice. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper central narrow slice",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.28,
+            "y": 0.07
+          },
+          {
+            "x": 0.33,
+            "y": 0.07
+          },
+          {
+            "x": 0.33,
+            "y": 0.4
+          },
+          {
+            "x": 0.28,
+            "y": 0.4
+          }
+        ],
+        "target": {
+          "x": 0.305,
+          "y": 0.235
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the upper central narrow slice. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left repeated slice",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.11,
+            "y": 0.6
+          },
+          {
+            "x": 0.2,
+            "y": 0.6
+          },
+          {
+            "x": 0.2,
+            "y": 0.76
+          },
+          {
+            "x": 0.11,
+            "y": 0.76
+          }
+        ],
+        "target": {
+          "x": 0.155,
+          "y": 0.68
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the lower-left repeated slice. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right segmented stack",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.79,
+            "y": 0.07
+          },
+          {
+            "x": 0.94,
+            "y": 0.07
+          },
+          {
+            "x": 0.94,
+            "y": 0.42
+          },
+          {
+            "x": 0.79,
+            "y": 0.42
+          }
+        ],
+        "target": {
+          "x": 0.865,
+          "y": 0.245
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right segmented stack. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 lower-right segmented stack",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.79,
+            "y": 0.57
+          },
+          {
+            "x": 0.94,
+            "y": 0.57
+          },
+          {
+            "x": 0.94,
+            "y": 0.94
+          },
+          {
+            "x": 0.79,
+            "y": 0.94
+          }
+        ],
+        "target": {
+          "x": 0.865,
+          "y": 0.755
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the lower-right segmented stack. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  },
+  {
+    "cpuId": "idt_r4650",
+    "reviewNote": "Inspected full landscape preview. Paired top fields and three lower structures are visibly bounded.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left paired regular field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.06,
+            "y": 0.09
+          },
+          {
+            "x": 0.425,
+            "y": 0.09
+          },
+          {
+            "x": 0.425,
+            "y": 0.41
+          },
+          {
+            "x": 0.06,
+            "y": 0.41
+          }
+        ],
+        "target": {
+          "x": 0.24,
+          "y": 0.25
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-left paired regular field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right paired regular field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.63,
+            "y": 0.09
+          },
+          {
+            "x": 0.945,
+            "y": 0.09
+          },
+          {
+            "x": 0.945,
+            "y": 0.39
+          },
+          {
+            "x": 0.63,
+            "y": 0.39
+          }
+        ],
+        "target": {
+          "x": 0.785,
+          "y": 0.24
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the upper-right paired regular field. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left textured rectangle",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.3,
+            "y": 0.64
+          },
+          {
+            "x": 0.42,
+            "y": 0.64
+          },
+          {
+            "x": 0.42,
+            "y": 0.83
+          },
+          {
+            "x": 0.3,
+            "y": 0.83
+          }
+        ],
+        "target": {
+          "x": 0.36,
+          "y": 0.735
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the lower-left textured rectangle. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower middle compact textured block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.48,
+            "y": 0.64
+          },
+          {
+            "x": 0.54,
+            "y": 0.64
+          },
+          {
+            "x": 0.54,
+            "y": 0.82
+          },
+          {
+            "x": 0.48,
+            "y": 0.82
+          }
+        ],
+        "target": {
+          "x": 0.51,
+          "y": 0.73
+        },
+        "confidence": "medium",
+        "explanation": "A visually estimated contour around the lower middle compact textured block. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 right lower repeated rows",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.78,
+            "y": 0.47
+          },
+          {
+            "x": 0.95,
+            "y": 0.47
+          },
+          {
+            "x": 0.95,
+            "y": 0.92
+          },
+          {
+            "x": 0.78,
+            "y": 0.92
+          }
+        ],
+        "target": {
+          "x": 0.865,
+          "y": 0.695
+        },
+        "confidence": "high",
+        "explanation": "A visually estimated contour around the right lower repeated rows. Repeated texture and visible routing gaps provide the landmark; its circuit function is unverified."
+      }
+    ]
+  }
+]

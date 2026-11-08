@@ -1,0 +1,3006 @@
+[
+  {
+    "cpuId": "sun_ultrasparc_ivplus",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left irregular block group",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.2,
+            "y": 0.18
+          },
+          {
+            "x": 0.47,
+            "y": 0.18
+          },
+          {
+            "x": 0.47,
+            "y": 0.4
+          },
+          {
+            "x": 0.2,
+            "y": 0.4
+          }
+        ],
+        "target": {
+          "x": 0.33,
+          "y": 0.29
+        },
+        "confidence": "medium",
+        "explanation": "Mixed small rectangles sit above the large lower arrays. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 left fine rectangular array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.18,
+            "y": 0.43
+          },
+          {
+            "x": 0.4,
+            "y": 0.43
+          },
+          {
+            "x": 0.4,
+            "y": 0.7
+          },
+          {
+            "x": 0.18,
+            "y": 0.7
+          }
+        ],
+        "target": {
+          "x": 0.29,
+          "y": 0.56
+        },
+        "confidence": "medium",
+        "explanation": "A dense pale grid is bounded by dark routing seams. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 right tall tiled array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.612,
+            "y": 0.45
+          },
+          {
+            "x": 0.83,
+            "y": 0.45
+          },
+          {
+            "x": 0.83,
+            "y": 0.87
+          },
+          {
+            "x": 0.612,
+            "y": 0.87
+          }
+        ],
+        "target": {
+          "x": 0.72,
+          "y": 0.65
+        },
+        "confidence": "medium",
+        "explanation": "A tall bank of yellow-orange repeated tiles occupies the lower right. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-left horizontal array",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.17,
+            "y": 0.72
+          },
+          {
+            "x": 0.5,
+            "y": 0.72
+          },
+          {
+            "x": 0.5,
+            "y": 0.87
+          },
+          {
+            "x": 0.17,
+            "y": 0.87
+          }
+        ],
+        "target": {
+          "x": 0.33,
+          "y": 0.8
+        },
+        "confidence": "medium",
+        "explanation": "The lower band contains long horizontal stripes crossed by regularly spaced vertical lines. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "sun_ultrasparc_t2",
+    "reviewNote": "Original download remained rate-limited; no image was available for visual review.",
+    "skipReason": "Original download remained rate-limited; no image was available for visual review.",
+    "regions": []
+  },
+  {
+    "cpuId": "intel_wolfdale",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left fine grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.01,
+            "y": 0.14
+          },
+          {
+            "x": 0.508,
+            "y": 0.14
+          },
+          {
+            "x": 0.508,
+            "y": 0.53
+          },
+          {
+            "x": 0.01,
+            "y": 0.53
+          }
+        ],
+        "target": {
+          "x": 0.25,
+          "y": 0.33
+        },
+        "confidence": "medium",
+        "explanation": "The upper part of the large left grid is separated from the lower part by a strong horizontal seam. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left fine grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.01,
+            "y": 0.545
+          },
+          {
+            "x": 0.508,
+            "y": 0.545
+          },
+          {
+            "x": 0.508,
+            "y": 0.86
+          },
+          {
+            "x": 0.01,
+            "y": 0.86
+          }
+        ],
+        "target": {
+          "x": 0.25,
+          "y": 0.7
+        },
+        "confidence": "medium",
+        "explanation": "Repeated vertical columns form a second large rectangular field below the seam. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-right mixed block field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.55,
+            "y": 0.06
+          },
+          {
+            "x": 0.99,
+            "y": 0.06
+          },
+          {
+            "x": 0.99,
+            "y": 0.39
+          },
+          {
+            "x": 0.55,
+            "y": 0.39
+          }
+        ],
+        "target": {
+          "x": 0.76,
+          "y": 0.23
+        },
+        "confidence": "medium",
+        "explanation": "A mosaic of differently sized rectangular islands fills the upper right. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right mixed block field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.55,
+            "y": 0.625
+          },
+          {
+            "x": 0.99,
+            "y": 0.625
+          },
+          {
+            "x": 0.99,
+            "y": 0.94
+          },
+          {
+            "x": 0.55,
+            "y": 0.94
+          }
+        ],
+        "target": {
+          "x": 0.76,
+          "y": 0.78
+        },
+        "confidence": "medium",
+        "explanation": "The lower-right mosaic includes paired orange cell groups and dense edge structures. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_sandybridge_2",
+    "reviewNote": "The metal-removed image has weak visible macro boundaries. These low-confidence broad texture contours should not be treated as a recovered functional floorplan.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper central textured panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.23,
+            "y": 0.12
+          },
+          {
+            "x": 0.69,
+            "y": 0.12
+          },
+          {
+            "x": 0.69,
+            "y": 0.43
+          },
+          {
+            "x": 0.23,
+            "y": 0.43
+          }
+        ],
+        "target": {
+          "x": 0.46,
+          "y": 0.28
+        },
+        "confidence": "low",
+        "explanation": "Faint vertical seams bound this central upper panel after removal of the top metal. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower central textured panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.23,
+            "y": 0.46
+          },
+          {
+            "x": 0.69,
+            "y": 0.46
+          },
+          {
+            "x": 0.69,
+            "y": 0.98
+          },
+          {
+            "x": 0.23,
+            "y": 0.98
+          }
+        ],
+        "target": {
+          "x": 0.46,
+          "y": 0.7
+        },
+        "confidence": "low",
+        "explanation": "The lower central field has repeated etched texture and broad vertical divisions. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 right tall etched panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.7,
+            "y": 0.12
+          },
+          {
+            "x": 0.98,
+            "y": 0.12
+          },
+          {
+            "x": 0.98,
+            "y": 0.98
+          },
+          {
+            "x": 0.7,
+            "y": 0.98
+          }
+        ],
+        "target": {
+          "x": 0.84,
+          "y": 0.55
+        },
+        "confidence": "low",
+        "explanation": "A long pale vertical boundary separates the right-hand etched field from the center. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_westmere_ex",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper central tiled matrix",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.256,
+            "y": 0.08
+          },
+          {
+            "x": 0.745,
+            "y": 0.08
+          },
+          {
+            "x": 0.745,
+            "y": 0.37
+          },
+          {
+            "x": 0.256,
+            "y": 0.37
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.23
+        },
+        "confidence": "medium",
+        "explanation": "Dense dark grids form a wide upper central bank. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower central tiled matrix",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.256,
+            "y": 0.5
+          },
+          {
+            "x": 0.745,
+            "y": 0.5
+          },
+          {
+            "x": 0.745,
+            "y": 0.93
+          },
+          {
+            "x": 0.256,
+            "y": 0.93
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.72
+        },
+        "confidence": "medium",
+        "explanation": "A larger lower central bank repeats the dark rectangular matrix pattern. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-left mixed islands",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.007,
+            "y": 0.08
+          },
+          {
+            "x": 0.227,
+            "y": 0.08
+          },
+          {
+            "x": 0.227,
+            "y": 0.37
+          },
+          {
+            "x": 0.007,
+            "y": 0.37
+          }
+        ],
+        "target": {
+          "x": 0.12,
+          "y": 0.23
+        },
+        "confidence": "medium",
+        "explanation": "Small irregular islands occupy the upper-left side beside the matrix. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right mixed islands",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.775,
+            "y": 0.5
+          },
+          {
+            "x": 0.993,
+            "y": 0.5
+          },
+          {
+            "x": 0.993,
+            "y": 0.93
+          },
+          {
+            "x": 0.775,
+            "y": 0.93
+          }
+        ],
+        "target": {
+          "x": 0.88,
+          "y": 0.72
+        },
+        "confidence": "medium",
+        "explanation": "The lower-right side repeats a heterogeneous field of small blocks. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "ms_durango",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-right fine grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.758,
+            "y": 0.015
+          },
+          {
+            "x": 0.994,
+            "y": 0.015
+          },
+          {
+            "x": 0.994,
+            "y": 0.435
+          },
+          {
+            "x": 0.758,
+            "y": 0.435
+          }
+        ],
+        "target": {
+          "x": 0.87,
+          "y": 0.23
+        },
+        "confidence": "medium",
+        "explanation": "The upper-right field is a pale fine grid divided into tall columns. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-right fine grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.758,
+            "y": 0.52
+          },
+          {
+            "x": 0.994,
+            "y": 0.52
+          },
+          {
+            "x": 0.994,
+            "y": 0.94
+          },
+          {
+            "x": 0.758,
+            "y": 0.94
+          }
+        ],
+        "target": {
+          "x": 0.87,
+          "y": 0.73
+        },
+        "confidence": "medium",
+        "explanation": "A second pale grid occupies the lower right below a horizontal channel. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-left striped block",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.004,
+            "y": 0.296
+          },
+          {
+            "x": 0.302,
+            "y": 0.296
+          },
+          {
+            "x": 0.302,
+            "y": 0.406
+          },
+          {
+            "x": 0.004,
+            "y": 0.406
+          }
+        ],
+        "target": {
+          "x": 0.16,
+          "y": 0.35
+        },
+        "confidence": "medium",
+        "explanation": "An orange striped rectangular block lies beneath the smaller left-hand square arrays. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 central repeated texture field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.334,
+            "y": 0.269
+          },
+          {
+            "x": 0.755,
+            "y": 0.269
+          },
+          {
+            "x": 0.755,
+            "y": 0.925
+          },
+          {
+            "x": 0.334,
+            "y": 0.925
+          }
+        ],
+        "target": {
+          "x": 0.55,
+          "y": 0.58
+        },
+        "confidence": "medium",
+        "explanation": "The central field repeats broad irregular structures between its vertical borders. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "nv_tegra_x1",
+    "reviewNote": "Original download remained rate-limited; no image was available for visual review.",
+    "skipReason": "Original download remained rate-limited; no image was available for visual review.",
+    "regions": []
+  },
+  {
+    "cpuId": "sony_ps4pro_neo",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 central-left repeated rows",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.223,
+            "y": 0.125
+          },
+          {
+            "x": 0.573,
+            "y": 0.125
+          },
+          {
+            "x": 0.573,
+            "y": 0.894
+          },
+          {
+            "x": 0.223,
+            "y": 0.894
+          }
+        ],
+        "target": {
+          "x": 0.4,
+          "y": 0.52
+        },
+        "confidence": "medium",
+        "explanation": "A large rectangular field contains regularly repeated rows and narrow blue columns. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 right repeated rows",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.689,
+            "y": 0.066
+          },
+          {
+            "x": 0.957,
+            "y": 0.066
+          },
+          {
+            "x": 0.957,
+            "y": 0.887
+          },
+          {
+            "x": 0.689,
+            "y": 0.887
+          }
+        ],
+        "target": {
+          "x": 0.82,
+          "y": 0.49
+        },
+        "confidence": "medium",
+        "explanation": "A second large repeated field occupies the right side with visibly wider cells. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-left dark island",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.084,
+            "y": 0.012
+          },
+          {
+            "x": 0.21,
+            "y": 0.012
+          },
+          {
+            "x": 0.21,
+            "y": 0.309
+          },
+          {
+            "x": 0.084,
+            "y": 0.309
+          }
+        ],
+        "target": {
+          "x": 0.15,
+          "y": 0.17
+        },
+        "confidence": "medium",
+        "explanation": "A compact dark island with red grid lines sits near the upper-left edge. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-left dark island",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.086,
+            "y": 0.697
+          },
+          {
+            "x": 0.21,
+            "y": 0.697
+          },
+          {
+            "x": 0.21,
+            "y": 0.907
+          },
+          {
+            "x": 0.086,
+            "y": 0.907
+          }
+        ],
+        "target": {
+          "x": 0.15,
+          "y": 0.8
+        },
+        "confidence": "medium",
+        "explanation": "The lower-left dark island mirrors the upper-left texture. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_knl",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated tile group",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.055,
+            "y": 0.107
+          },
+          {
+            "x": 0.2,
+            "y": 0.107
+          },
+          {
+            "x": 0.2,
+            "y": 0.215
+          },
+          {
+            "x": 0.055,
+            "y": 0.215
+          }
+        ],
+        "target": {
+          "x": 0.13,
+          "y": 0.16
+        },
+        "confidence": "high",
+        "explanation": "This compact group shows a repeated blue-and-purple cell pattern. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 left middle repeated tile group",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.055,
+            "y": 0.22
+          },
+          {
+            "x": 0.2,
+            "y": 0.22
+          },
+          {
+            "x": 0.2,
+            "y": 0.435
+          },
+          {
+            "x": 0.055,
+            "y": 0.435
+          }
+        ],
+        "target": {
+          "x": 0.13,
+          "y": 0.32
+        },
+        "confidence": "medium",
+        "explanation": "Two rows of repeated tiles are bounded by bright horizontal routing bands. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central repeated tile group",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.353,
+            "y": 0.22
+          },
+          {
+            "x": 0.499,
+            "y": 0.22
+          },
+          {
+            "x": 0.499,
+            "y": 0.436
+          },
+          {
+            "x": 0.353,
+            "y": 0.436
+          }
+        ],
+        "target": {
+          "x": 0.426,
+          "y": 0.32
+        },
+        "confidence": "medium",
+        "explanation": "A central rectangular group repeats the same fine-grained tile texture. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right repeated tile group",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.647,
+            "y": 0.577
+          },
+          {
+            "x": 0.793,
+            "y": 0.577
+          },
+          {
+            "x": 0.793,
+            "y": 0.682
+          },
+          {
+            "x": 0.647,
+            "y": 0.682
+          }
+        ],
+        "target": {
+          "x": 0.72,
+          "y": 0.63
+        },
+        "confidence": "high",
+        "explanation": "A lower-right group sits between two strong turquoise routing bands. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_coffeelake_6",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper first green panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.169,
+            "y": 0.076
+          },
+          {
+            "x": 0.301,
+            "y": 0.076
+          },
+          {
+            "x": 0.301,
+            "y": 0.47
+          },
+          {
+            "x": 0.169,
+            "y": 0.47
+          }
+        ],
+        "target": {
+          "x": 0.235,
+          "y": 0.27
+        },
+        "confidence": "medium",
+        "explanation": "A green mixed-texture panel is bounded by dark blue vertical stripes. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper second green panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.342,
+            "y": 0.076
+          },
+          {
+            "x": 0.474,
+            "y": 0.076
+          },
+          {
+            "x": 0.474,
+            "y": 0.47
+          },
+          {
+            "x": 0.342,
+            "y": 0.47
+          }
+        ],
+        "target": {
+          "x": 0.408,
+          "y": 0.27
+        },
+        "confidence": "medium",
+        "explanation": "The adjacent upper panel repeats the first panel\u2019s rectangular morphology. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower first green panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.169,
+            "y": 0.496
+          },
+          {
+            "x": 0.301,
+            "y": 0.496
+          },
+          {
+            "x": 0.301,
+            "y": 0.978
+          },
+          {
+            "x": 0.169,
+            "y": 0.978
+          }
+        ],
+        "target": {
+          "x": 0.235,
+          "y": 0.73
+        },
+        "confidence": "medium",
+        "explanation": "A lower panel mirrors the upper panel across a horizontal division. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right orange field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.784,
+            "y": 0.08
+          },
+          {
+            "x": 0.993,
+            "y": 0.08
+          },
+          {
+            "x": 0.993,
+            "y": 0.46
+          },
+          {
+            "x": 0.784,
+            "y": 0.46
+          }
+        ],
+        "target": {
+          "x": 0.89,
+          "y": 0.27
+        },
+        "confidence": "medium",
+        "explanation": "The right-hand field has orange texture and sparse dark vertical features. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_kabylake_2",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper middle mixed panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.256,
+            "y": 0.071
+          },
+          {
+            "x": 0.46,
+            "y": 0.071
+          },
+          {
+            "x": 0.46,
+            "y": 0.475
+          },
+          {
+            "x": 0.256,
+            "y": 0.475
+          }
+        ],
+        "target": {
+          "x": 0.36,
+          "y": 0.27
+        },
+        "confidence": "medium",
+        "explanation": "A tall mixed-texture panel sits between two dark-blue grid strips. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower middle mixed panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.256,
+            "y": 0.595
+          },
+          {
+            "x": 0.46,
+            "y": 0.595
+          },
+          {
+            "x": 0.46,
+            "y": 0.967
+          },
+          {
+            "x": 0.256,
+            "y": 0.967
+          }
+        ],
+        "target": {
+          "x": 0.36,
+          "y": 0.77
+        },
+        "confidence": "medium",
+        "explanation": "The lower panel repeats much of the upper panel\u2019s arrangement. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 left lower dark island",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.087,
+            "y": 0.637
+          },
+          {
+            "x": 0.221,
+            "y": 0.637
+          },
+          {
+            "x": 0.221,
+            "y": 0.907
+          },
+          {
+            "x": 0.087,
+            "y": 0.907
+          }
+        ],
+        "target": {
+          "x": 0.155,
+          "y": 0.77
+        },
+        "confidence": "medium",
+        "explanation": "A separate dark island is outlined by narrow grid strips. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right dark textured field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.676,
+            "y": 0.08
+          },
+          {
+            "x": 0.991,
+            "y": 0.08
+          },
+          {
+            "x": 0.991,
+            "y": 0.466
+          },
+          {
+            "x": 0.676,
+            "y": 0.466
+          }
+        ],
+        "target": {
+          "x": 0.83,
+          "y": 0.27
+        },
+        "confidence": "medium",
+        "explanation": "Sparse bright stripes and fine islands break up the dark upper-right field. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_skylake_x_lcc",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left textured panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.076,
+            "y": 0.266
+          },
+          {
+            "x": 0.236,
+            "y": 0.266
+          },
+          {
+            "x": 0.236,
+            "y": 0.472
+          },
+          {
+            "x": 0.076,
+            "y": 0.472
+          }
+        ],
+        "target": {
+          "x": 0.156,
+          "y": 0.37
+        },
+        "confidence": "medium",
+        "explanation": "The upper-left panel has a strong blue band above a mixed gold field. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper central textured panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.371,
+            "y": 0.267
+          },
+          {
+            "x": 0.495,
+            "y": 0.267
+          },
+          {
+            "x": 0.495,
+            "y": 0.472
+          },
+          {
+            "x": 0.371,
+            "y": 0.472
+          }
+        ],
+        "target": {
+          "x": 0.433,
+          "y": 0.37
+        },
+        "confidence": "medium",
+        "explanation": "This central panel repeats fine rectangular structures below a dark grid band. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 middle central textured panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.371,
+            "y": 0.51
+          },
+          {
+            "x": 0.641,
+            "y": 0.51
+          },
+          {
+            "x": 0.641,
+            "y": 0.716
+          },
+          {
+            "x": 0.371,
+            "y": 0.716
+          }
+        ],
+        "target": {
+          "x": 0.51,
+          "y": 0.61
+        },
+        "confidence": "medium",
+        "explanation": "A broad central panel is bordered above and below by dark repeated grids. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right textured panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.724,
+            "y": 0.754
+          },
+          {
+            "x": 0.927,
+            "y": 0.754
+          },
+          {
+            "x": 0.927,
+            "y": 0.963
+          },
+          {
+            "x": 0.724,
+            "y": 0.963
+          }
+        ],
+        "target": {
+          "x": 0.825,
+          "y": 0.86
+        },
+        "confidence": "medium",
+        "explanation": "A lower-right panel follows the same repeated block morphology. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "ms_scorpio",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left dark island",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.072,
+            "y": 0.1
+          },
+          {
+            "x": 0.238,
+            "y": 0.1
+          },
+          {
+            "x": 0.238,
+            "y": 0.382
+          },
+          {
+            "x": 0.072,
+            "y": 0.382
+          }
+        ],
+        "target": {
+          "x": 0.155,
+          "y": 0.24
+        },
+        "confidence": "medium",
+        "explanation": "A compact pair of dark irregular shapes sits between fine blue square grids. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left dark island",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.072,
+            "y": 0.629
+          },
+          {
+            "x": 0.238,
+            "y": 0.629
+          },
+          {
+            "x": 0.238,
+            "y": 0.904
+          },
+          {
+            "x": 0.072,
+            "y": 0.904
+          }
+        ],
+        "target": {
+          "x": 0.155,
+          "y": 0.77
+        },
+        "confidence": "medium",
+        "explanation": "The lower-left island repeats the upper-left layout with a different orientation. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central-left repeated field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.335,
+            "y": 0.163
+          },
+          {
+            "x": 0.609,
+            "y": 0.163
+          },
+          {
+            "x": 0.609,
+            "y": 0.873
+          },
+          {
+            "x": 0.335,
+            "y": 0.873
+          }
+        ],
+        "target": {
+          "x": 0.47,
+          "y": 0.52
+        },
+        "confidence": "medium",
+        "explanation": "Rows of repeated green cells are separated by bright blue horizontal grid bands. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 right repeated field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.681,
+            "y": 0.163
+          },
+          {
+            "x": 0.952,
+            "y": 0.163
+          },
+          {
+            "x": 0.952,
+            "y": 0.873
+          },
+          {
+            "x": 0.681,
+            "y": 0.873
+          }
+        ],
+        "target": {
+          "x": 0.82,
+          "y": 0.52
+        },
+        "confidence": "medium",
+        "explanation": "A second tall repeated-cell field occupies the right side. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_zeppelin",
+    "reviewNote": "Tilted die occupies only part of a large black surround; needs framing normalization and transformed coordinates before promotion.",
+    "skipReason": "Tilted die occupies only part of a large black surround; needs framing normalization and transformed coordinates before promotion.",
+    "regions": []
+  },
+  {
+    "cpuId": "intel_coffeelake_8",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper first gold panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.143,
+            "y": 0.077
+          },
+          {
+            "x": 0.258,
+            "y": 0.077
+          },
+          {
+            "x": 0.258,
+            "y": 0.47
+          },
+          {
+            "x": 0.143,
+            "y": 0.47
+          }
+        ],
+        "target": {
+          "x": 0.2,
+          "y": 0.27
+        },
+        "confidence": "medium",
+        "explanation": "The first large gold panel is bounded by dark fine-grid columns. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper third gold panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.439,
+            "y": 0.077
+          },
+          {
+            "x": 0.553,
+            "y": 0.077
+          },
+          {
+            "x": 0.553,
+            "y": 0.47
+          },
+          {
+            "x": 0.439,
+            "y": 0.47
+          }
+        ],
+        "target": {
+          "x": 0.496,
+          "y": 0.27
+        },
+        "confidence": "medium",
+        "explanation": "A third upper panel repeats the same mixed rectangular pattern. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower fourth gold panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.588,
+            "y": 0.59
+          },
+          {
+            "x": 0.7,
+            "y": 0.59
+          },
+          {
+            "x": 0.7,
+            "y": 0.967
+          },
+          {
+            "x": 0.588,
+            "y": 0.967
+          }
+        ],
+        "target": {
+          "x": 0.644,
+          "y": 0.78
+        },
+        "confidence": "medium",
+        "explanation": "This lower panel mirrors an upper panel across the middle horizontal strip. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 right orange field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.76,
+            "y": 0.08
+          },
+          {
+            "x": 0.996,
+            "y": 0.08
+          },
+          {
+            "x": 0.996,
+            "y": 0.97
+          },
+          {
+            "x": 0.76,
+            "y": 0.97
+          }
+        ],
+        "target": {
+          "x": 0.87,
+          "y": 0.53
+        },
+        "confidence": "medium",
+        "explanation": "The large right-hand field has an orange background and sparse vertical grid strips. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_pinnacle_ridge",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 left upper gold-and-grid field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.008,
+            "y": 0.307
+          },
+          {
+            "x": 0.45,
+            "y": 0.307
+          },
+          {
+            "x": 0.45,
+            "y": 0.545
+          },
+          {
+            "x": 0.008,
+            "y": 0.545
+          }
+        ],
+        "target": {
+          "x": 0.23,
+          "y": 0.425
+        },
+        "confidence": "medium",
+        "explanation": "A broad upper field has gold outer lobes and a dense dark grid in its center. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 left lower gold-and-grid field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.008,
+            "y": 0.555
+          },
+          {
+            "x": 0.45,
+            "y": 0.555
+          },
+          {
+            "x": 0.45,
+            "y": 0.783
+          },
+          {
+            "x": 0.008,
+            "y": 0.783
+          }
+        ],
+        "target": {
+          "x": 0.23,
+          "y": 0.67
+        },
+        "confidence": "medium",
+        "explanation": "The lower-left field repeats the upper field below a horizontal seam. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 right upper gold-and-grid field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.51,
+            "y": 0.265
+          },
+          {
+            "x": 0.947,
+            "y": 0.265
+          },
+          {
+            "x": 0.947,
+            "y": 0.497
+          },
+          {
+            "x": 0.51,
+            "y": 0.497
+          }
+        ],
+        "target": {
+          "x": 0.73,
+          "y": 0.38
+        },
+        "confidence": "medium",
+        "explanation": "A second paired arrangement has a dense central grid and gold outer lobes. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 right lower gold-and-grid field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.51,
+            "y": 0.502
+          },
+          {
+            "x": 0.947,
+            "y": 0.502
+          },
+          {
+            "x": 0.947,
+            "y": 0.737
+          },
+          {
+            "x": 0.51,
+            "y": 0.737
+          }
+        ],
+        "target": {
+          "x": 0.73,
+          "y": 0.62
+        },
+        "confidence": "medium",
+        "explanation": "The lower-right field is separated from its upper counterpart by a strong horizontal line. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_dali",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left mottled panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.09,
+            "y": 0.227
+          },
+          {
+            "x": 0.276,
+            "y": 0.227
+          },
+          {
+            "x": 0.276,
+            "y": 0.417
+          },
+          {
+            "x": 0.09,
+            "y": 0.417
+          }
+        ],
+        "target": {
+          "x": 0.183,
+          "y": 0.32
+        },
+        "confidence": "medium",
+        "explanation": "A mottled dark panel contains several narrow fine-grained rectangular islands. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left mottled panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.09,
+            "y": 0.424
+          },
+          {
+            "x": 0.276,
+            "y": 0.424
+          },
+          {
+            "x": 0.276,
+            "y": 0.613
+          },
+          {
+            "x": 0.09,
+            "y": 0.613
+          }
+        ],
+        "target": {
+          "x": 0.183,
+          "y": 0.52
+        },
+        "confidence": "medium",
+        "explanation": "The lower mottled panel mirrors the upper one across a thin horizontal seam. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central pale tiled panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.282,
+            "y": 0.227
+          },
+          {
+            "x": 0.522,
+            "y": 0.227
+          },
+          {
+            "x": 0.522,
+            "y": 0.613
+          },
+          {
+            "x": 0.282,
+            "y": 0.613
+          }
+        ],
+        "target": {
+          "x": 0.4,
+          "y": 0.42
+        },
+        "confidence": "medium",
+        "explanation": "Four groups of pale repeated rectangles form a conspicuous central panel. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 right small repeated panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.762,
+            "y": 0.242
+          },
+          {
+            "x": 0.92,
+            "y": 0.242
+          },
+          {
+            "x": 0.92,
+            "y": 0.376
+          },
+          {
+            "x": 0.762,
+            "y": 0.376
+          }
+        ],
+        "target": {
+          "x": 0.84,
+          "y": 0.31
+        },
+        "confidence": "medium",
+        "explanation": "A right-hand rectangle is divided by pale vertical strips around mottled dark interiors. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "via_cha",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left blue fine grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.014,
+            "y": 0.2
+          },
+          {
+            "x": 0.295,
+            "y": 0.2
+          },
+          {
+            "x": 0.295,
+            "y": 0.39
+          },
+          {
+            "x": 0.014,
+            "y": 0.39
+          }
+        ],
+        "target": {
+          "x": 0.155,
+          "y": 0.295
+        },
+        "confidence": "medium",
+        "explanation": "A large fine rectangular matrix fills the upper-left side. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 lower-left blue fine grid",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.014,
+            "y": 0.596
+          },
+          {
+            "x": 0.295,
+            "y": 0.596
+          },
+          {
+            "x": 0.295,
+            "y": 0.79
+          },
+          {
+            "x": 0.014,
+            "y": 0.79
+          }
+        ],
+        "target": {
+          "x": 0.155,
+          "y": 0.69
+        },
+        "confidence": "medium",
+        "explanation": "A second fine matrix sits beneath two horizontal orange-textured bands. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper central pale panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.475,
+            "y": 0.139
+          },
+          {
+            "x": 0.659,
+            "y": 0.139
+          },
+          {
+            "x": 0.659,
+            "y": 0.23
+          },
+          {
+            "x": 0.475,
+            "y": 0.23
+          }
+        ],
+        "target": {
+          "x": 0.567,
+          "y": 0.185
+        },
+        "confidence": "medium",
+        "explanation": "A pale rectangular island lies above the main repeated fields. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 right upper patterned panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.643,
+            "y": 0.275
+          },
+          {
+            "x": 0.946,
+            "y": 0.275
+          },
+          {
+            "x": 0.946,
+            "y": 0.397
+          },
+          {
+            "x": 0.643,
+            "y": 0.397
+          }
+        ],
+        "target": {
+          "x": 0.795,
+          "y": 0.335
+        },
+        "confidence": "medium",
+        "explanation": "A repeated panel combines blue grids with irregular orange islands. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 right lower patterned panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.643,
+            "y": 0.65
+          },
+          {
+            "x": 0.946,
+            "y": 0.65
+          },
+          {
+            "x": 0.946,
+            "y": 0.77
+          },
+          {
+            "x": 0.643,
+            "y": 0.77
+          }
+        ],
+        "target": {
+          "x": 0.795,
+          "y": 0.71
+        },
+        "confidence": "medium",
+        "explanation": "The lower repeated panel follows the same grid-and-island morphology. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_zen2_ccd",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left dark matrix",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.242,
+            "y": 0.015
+          },
+          {
+            "x": 0.486,
+            "y": 0.015
+          },
+          {
+            "x": 0.486,
+            "y": 0.209
+          },
+          {
+            "x": 0.242,
+            "y": 0.209
+          }
+        ],
+        "target": {
+          "x": 0.364,
+          "y": 0.12
+        },
+        "confidence": "medium",
+        "explanation": "A dark matrix is bounded by blue routing channels and narrow side grids. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-right dark matrix",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.511,
+            "y": 0.015
+          },
+          {
+            "x": 0.757,
+            "y": 0.015
+          },
+          {
+            "x": 0.757,
+            "y": 0.209
+          },
+          {
+            "x": 0.511,
+            "y": 0.209
+          }
+        ],
+        "target": {
+          "x": 0.634,
+          "y": 0.12
+        },
+        "confidence": "medium",
+        "explanation": "The right upper matrix mirrors the left matrix. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 second-left dark matrix",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.242,
+            "y": 0.24
+          },
+          {
+            "x": 0.486,
+            "y": 0.24
+          },
+          {
+            "x": 0.486,
+            "y": 0.433
+          },
+          {
+            "x": 0.242,
+            "y": 0.433
+          }
+        ],
+        "target": {
+          "x": 0.364,
+          "y": 0.337
+        },
+        "confidence": "medium",
+        "explanation": "A repeated matrix occupies the row below the first horizontal channel. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 bottom-left dark matrix",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.242,
+            "y": 0.793
+          },
+          {
+            "x": 0.486,
+            "y": 0.793
+          },
+          {
+            "x": 0.486,
+            "y": 0.982
+          },
+          {
+            "x": 0.242,
+            "y": 0.982
+          }
+        ],
+        "target": {
+          "x": 0.364,
+          "y": 0.88
+        },
+        "confidence": "medium",
+        "explanation": "The lowest left matrix is enclosed by a bottom edge and a horizontal channel. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "sony_ps5_oberon",
+    "reviewNote": "The top-metal photograph is dominated by a dense dot grid. Only broad peripheral texture panels can be estimated; central functional boundaries are obscured. All contours are low-confidence visual regions.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 left peripheral striped band",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.008,
+            "y": 0.015
+          },
+          {
+            "x": 0.138,
+            "y": 0.015
+          },
+          {
+            "x": 0.138,
+            "y": 0.98
+          },
+          {
+            "x": 0.008,
+            "y": 0.98
+          }
+        ],
+        "target": {
+          "x": 0.075,
+          "y": 0.5
+        },
+        "confidence": "low",
+        "explanation": "Long parallel stripes distinguish the left peripheral band from the dense central dot grid. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper-left outlined peripheral panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.143,
+            "y": 0.006
+          },
+          {
+            "x": 0.44,
+            "y": 0.006
+          },
+          {
+            "x": 0.44,
+            "y": 0.167
+          },
+          {
+            "x": 0.143,
+            "y": 0.167
+          }
+        ],
+        "target": {
+          "x": 0.29,
+          "y": 0.13
+        },
+        "confidence": "low",
+        "explanation": "A faint rectangular panel is visible along the upper edge through the dense dot pattern. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 upper-right outlined peripheral panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.56,
+            "y": 0.006
+          },
+          {
+            "x": 0.86,
+            "y": 0.006
+          },
+          {
+            "x": 0.86,
+            "y": 0.167
+          },
+          {
+            "x": 0.56,
+            "y": 0.167
+          }
+        ],
+        "target": {
+          "x": 0.71,
+          "y": 0.13
+        },
+        "confidence": "low",
+        "explanation": "A second faint peripheral panel repeats the upper-left outline. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-left outlined peripheral panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.143,
+            "y": 0.831
+          },
+          {
+            "x": 0.44,
+            "y": 0.831
+          },
+          {
+            "x": 0.44,
+            "y": 0.986
+          },
+          {
+            "x": 0.143,
+            "y": 0.986
+          }
+        ],
+        "target": {
+          "x": 0.29,
+          "y": 0.9
+        },
+        "confidence": "low",
+        "explanation": "A faint lower-edge panel is bounded by a visible rectangular outline. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_renoir",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left repeated panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.015,
+            "y": 0.16
+          },
+          {
+            "x": 0.234,
+            "y": 0.16
+          },
+          {
+            "x": 0.234,
+            "y": 0.39
+          },
+          {
+            "x": 0.015,
+            "y": 0.39
+          }
+        ],
+        "target": {
+          "x": 0.125,
+          "y": 0.275
+        },
+        "confidence": "medium",
+        "explanation": "A repeated pale pattern lies above a dense lower grid within this panel. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper second repeated panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.263,
+            "y": 0.16
+          },
+          {
+            "x": 0.484,
+            "y": 0.16
+          },
+          {
+            "x": 0.484,
+            "y": 0.39
+          },
+          {
+            "x": 0.263,
+            "y": 0.39
+          }
+        ],
+        "target": {
+          "x": 0.374,
+          "y": 0.275
+        },
+        "confidence": "medium",
+        "explanation": "An adjacent panel repeats the pale upper structures and fine lower grid. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower-left repeated panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.015,
+            "y": 0.425
+          },
+          {
+            "x": 0.234,
+            "y": 0.425
+          },
+          {
+            "x": 0.234,
+            "y": 0.65
+          },
+          {
+            "x": 0.015,
+            "y": 0.65
+          }
+        ],
+        "target": {
+          "x": 0.125,
+          "y": 0.538
+        },
+        "confidence": "medium",
+        "explanation": "A lower panel mirrors the upper one across a strong horizontal seam. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower second repeated panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.263,
+            "y": 0.425
+          },
+          {
+            "x": 0.484,
+            "y": 0.425
+          },
+          {
+            "x": 0.484,
+            "y": 0.65
+          },
+          {
+            "x": 0.263,
+            "y": 0.65
+          }
+        ],
+        "target": {
+          "x": 0.374,
+          "y": 0.538
+        },
+        "confidence": "medium",
+        "explanation": "This lower central panel repeats the same mirrored arrangement. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 right repeated stripe field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.49,
+            "y": 0.16
+          },
+          {
+            "x": 0.814,
+            "y": 0.16
+          },
+          {
+            "x": 0.814,
+            "y": 0.579
+          },
+          {
+            "x": 0.49,
+            "y": 0.579
+          }
+        ],
+        "target": {
+          "x": 0.65,
+          "y": 0.37
+        },
+        "confidence": "medium",
+        "explanation": "The right central field contains several rows of mottled, repeated stripe-like shapes. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_cezanne",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper first pale-pattern panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.519,
+            "y": 0.267
+          },
+          {
+            "x": 0.628,
+            "y": 0.267
+          },
+          {
+            "x": 0.628,
+            "y": 0.467
+          },
+          {
+            "x": 0.519,
+            "y": 0.467
+          }
+        ],
+        "target": {
+          "x": 0.573,
+          "y": 0.367
+        },
+        "confidence": "medium",
+        "explanation": "A tall upper panel contains a conspicuous pale stepped pattern. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper second pale-pattern panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.633,
+            "y": 0.267
+          },
+          {
+            "x": 0.739,
+            "y": 0.267
+          },
+          {
+            "x": 0.739,
+            "y": 0.467
+          },
+          {
+            "x": 0.633,
+            "y": 0.467
+          }
+        ],
+        "target": {
+          "x": 0.686,
+          "y": 0.367
+        },
+        "confidence": "medium",
+        "explanation": "A second panel repeats the stepped pattern beside the first. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower first pale-pattern panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.519,
+            "y": 0.698
+          },
+          {
+            "x": 0.628,
+            "y": 0.698
+          },
+          {
+            "x": 0.628,
+            "y": 0.898
+          },
+          {
+            "x": 0.519,
+            "y": 0.898
+          }
+        ],
+        "target": {
+          "x": 0.573,
+          "y": 0.798
+        },
+        "confidence": "medium",
+        "explanation": "The lower panel mirrors the upper stepped pattern. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 left repeated dark field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.185,
+            "y": 0.365
+          },
+          {
+            "x": 0.51,
+            "y": 0.365
+          },
+          {
+            "x": 0.51,
+            "y": 0.749
+          },
+          {
+            "x": 0.185,
+            "y": 0.749
+          }
+        ],
+        "target": {
+          "x": 0.35,
+          "y": 0.55
+        },
+        "confidence": "medium",
+        "explanation": "The left central field contains repeated dark rectangular shapes arranged in rows. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_rocketlake",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper first mixed panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.22,
+            "y": 0.013
+          },
+          {
+            "x": 0.34,
+            "y": 0.013
+          },
+          {
+            "x": 0.34,
+            "y": 0.337
+          },
+          {
+            "x": 0.22,
+            "y": 0.337
+          }
+        ],
+        "target": {
+          "x": 0.28,
+          "y": 0.18
+        },
+        "confidence": "medium",
+        "explanation": "A tall upper panel is separated from its neighbor by a bright straight seam. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper third mixed panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.47,
+            "y": 0.013
+          },
+          {
+            "x": 0.59,
+            "y": 0.013
+          },
+          {
+            "x": 0.59,
+            "y": 0.337
+          },
+          {
+            "x": 0.47,
+            "y": 0.337
+          }
+        ],
+        "target": {
+          "x": 0.53,
+          "y": 0.18
+        },
+        "confidence": "medium",
+        "explanation": "A third upper panel repeats the same small rectangular texture. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower second mixed panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.36,
+            "y": 0.62
+          },
+          {
+            "x": 0.478,
+            "y": 0.62
+          },
+          {
+            "x": 0.478,
+            "y": 0.94
+          },
+          {
+            "x": 0.36,
+            "y": 0.94
+          }
+        ],
+        "target": {
+          "x": 0.419,
+          "y": 0.78
+        },
+        "confidence": "medium",
+        "explanation": "A lower panel mirrors the upper panel texture beneath a fine-grid strip. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 left pale repeated field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.007,
+            "y": 0.023
+          },
+          {
+            "x": 0.208,
+            "y": 0.023
+          },
+          {
+            "x": 0.208,
+            "y": 0.98
+          },
+          {
+            "x": 0.007,
+            "y": 0.98
+          }
+        ],
+        "target": {
+          "x": 0.11,
+          "y": 0.5
+        },
+        "confidence": "medium",
+        "explanation": "A pale field along the left edge shows several repeated tiled patterns. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_alderlake_6p",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper first orange panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.309,
+            "y": 0.08
+          },
+          {
+            "x": 0.448,
+            "y": 0.08
+          },
+          {
+            "x": 0.448,
+            "y": 0.395
+          },
+          {
+            "x": 0.309,
+            "y": 0.395
+          }
+        ],
+        "target": {
+          "x": 0.378,
+          "y": 0.237
+        },
+        "confidence": "medium",
+        "explanation": "The first large upper panel contains a mixture of small rectangular islands. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper second orange panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.458,
+            "y": 0.08
+          },
+          {
+            "x": 0.595,
+            "y": 0.08
+          },
+          {
+            "x": 0.595,
+            "y": 0.395
+          },
+          {
+            "x": 0.458,
+            "y": 0.395
+          }
+        ],
+        "target": {
+          "x": 0.526,
+          "y": 0.237
+        },
+        "confidence": "medium",
+        "explanation": "An adjacent upper panel repeats the same mixed texture. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower second orange panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.458,
+            "y": 0.674
+          },
+          {
+            "x": 0.595,
+            "y": 0.674
+          },
+          {
+            "x": 0.595,
+            "y": 0.988
+          },
+          {
+            "x": 0.458,
+            "y": 0.988
+          }
+        ],
+        "target": {
+          "x": 0.526,
+          "y": 0.83
+        },
+        "confidence": "medium",
+        "explanation": "The lower panel mirrors an upper panel across a pair of dark horizontal grids. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 right dark mosaic field",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.765,
+            "y": 0.09
+          },
+          {
+            "x": 0.994,
+            "y": 0.09
+          },
+          {
+            "x": 0.994,
+            "y": 0.986
+          },
+          {
+            "x": 0.765,
+            "y": 0.986
+          }
+        ],
+        "target": {
+          "x": 0.88,
+          "y": 0.54
+        },
+        "confidence": "medium",
+        "explanation": "The tall right-hand field contains a heterogeneous mosaic separated by dark seams. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "intel_raptorlake",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper first fine-textured panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.201,
+            "y": 0.069
+          },
+          {
+            "x": 0.296,
+            "y": 0.069
+          },
+          {
+            "x": 0.296,
+            "y": 0.385
+          },
+          {
+            "x": 0.201,
+            "y": 0.385
+          }
+        ],
+        "target": {
+          "x": 0.248,
+          "y": 0.227
+        },
+        "confidence": "medium",
+        "explanation": "The upper panel contains fine repeated islands with pale rectangular edges. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 upper second fine-textured panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.302,
+            "y": 0.069
+          },
+          {
+            "x": 0.393,
+            "y": 0.069
+          },
+          {
+            "x": 0.393,
+            "y": 0.385
+          },
+          {
+            "x": 0.302,
+            "y": 0.385
+          }
+        ],
+        "target": {
+          "x": 0.347,
+          "y": 0.227
+        },
+        "confidence": "medium",
+        "explanation": "A neighboring upper panel repeats the same overall pattern. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 lower first fine-textured panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.201,
+            "y": 0.677
+          },
+          {
+            "x": 0.296,
+            "y": 0.677
+          },
+          {
+            "x": 0.296,
+            "y": 0.986
+          },
+          {
+            "x": 0.201,
+            "y": 0.986
+          }
+        ],
+        "target": {
+          "x": 0.248,
+          "y": 0.83
+        },
+        "confidence": "medium",
+        "explanation": "A lower panel repeats the fine texture beneath the middle pale grid band. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 upper-right repeated mosaic",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.59,
+            "y": 0.148
+          },
+          {
+            "x": 0.841,
+            "y": 0.148
+          },
+          {
+            "x": 0.841,
+            "y": 0.393
+          },
+          {
+            "x": 0.59,
+            "y": 0.393
+          }
+        ],
+        "target": {
+          "x": 0.715,
+          "y": 0.27
+        },
+        "confidence": "medium",
+        "explanation": "The upper-right mosaic is bounded by a pale top strip and a horizontal seam. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-e",
+        "name": "Region E \u2014 lower-right repeated mosaic",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.59,
+            "y": 0.682
+          },
+          {
+            "x": 0.84,
+            "y": 0.682
+          },
+          {
+            "x": 0.84,
+            "y": 0.92
+          },
+          {
+            "x": 0.59,
+            "y": 0.92
+          }
+        ],
+        "target": {
+          "x": 0.715,
+          "y": 0.8
+        },
+        "confidence": "medium",
+        "explanation": "A lower mosaic mirrors the upper-right repeated structures. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_zen4_ccd",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left blue panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.014,
+            "y": 0.024
+          },
+          {
+            "x": 0.284,
+            "y": 0.024
+          },
+          {
+            "x": 0.284,
+            "y": 0.214
+          },
+          {
+            "x": 0.014,
+            "y": 0.214
+          }
+        ],
+        "target": {
+          "x": 0.15,
+          "y": 0.12
+        },
+        "confidence": "medium",
+        "explanation": "A blue panel encloses stepped clusters of pale repeated cells. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 second-left blue panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.014,
+            "y": 0.228
+          },
+          {
+            "x": 0.284,
+            "y": 0.228
+          },
+          {
+            "x": 0.284,
+            "y": 0.416
+          },
+          {
+            "x": 0.014,
+            "y": 0.416
+          }
+        ],
+        "target": {
+          "x": 0.15,
+          "y": 0.32
+        },
+        "confidence": "medium",
+        "explanation": "The next blue panel is divided from the first by a bright horizontal route. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central-left tall matrix",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.292,
+            "y": 0.024
+          },
+          {
+            "x": 0.488,
+            "y": 0.024
+          },
+          {
+            "x": 0.488,
+            "y": 0.819
+          },
+          {
+            "x": 0.292,
+            "y": 0.819
+          }
+        ],
+        "target": {
+          "x": 0.39,
+          "y": 0.42
+        },
+        "confidence": "medium",
+        "explanation": "A tall central bank of fine grids runs almost the full height of the repeated upper field. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right blue panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.716,
+            "y": 0.632
+          },
+          {
+            "x": 0.984,
+            "y": 0.632
+          },
+          {
+            "x": 0.984,
+            "y": 0.819
+          },
+          {
+            "x": 0.716,
+            "y": 0.819
+          }
+        ],
+        "target": {
+          "x": 0.85,
+          "y": 0.72
+        },
+        "confidence": "medium",
+        "explanation": "The lower-right blue panel mirrors the left-hand pale-cell clusters. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  },
+  {
+    "cpuId": "amd_zen5_ccd",
+    "reviewNote": "Visually inspected the full-frame photograph. Coordinates follow visible texture seams; no functional circuit identification is claimed.",
+    "regions": [
+      {
+        "id": "region-a",
+        "name": "Region A \u2014 upper-left blue panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.015,
+            "y": 0.02
+          },
+          {
+            "x": 0.355,
+            "y": 0.02
+          },
+          {
+            "x": 0.355,
+            "y": 0.214
+          },
+          {
+            "x": 0.015,
+            "y": 0.214
+          }
+        ],
+        "target": {
+          "x": 0.185,
+          "y": 0.12
+        },
+        "confidence": "medium",
+        "explanation": "A broad blue panel contains pale stepped clusters and a narrow fine grid on its right. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-b",
+        "name": "Region B \u2014 third-left blue panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.015,
+            "y": 0.427
+          },
+          {
+            "x": 0.355,
+            "y": 0.427
+          },
+          {
+            "x": 0.355,
+            "y": 0.619
+          },
+          {
+            "x": 0.015,
+            "y": 0.619
+          }
+        ],
+        "target": {
+          "x": 0.185,
+          "y": 0.52
+        },
+        "confidence": "medium",
+        "explanation": "The third left panel repeats the same morphology between bright horizontal seams. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-c",
+        "name": "Region C \u2014 central tall grid bank",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.36,
+            "y": 0.02
+          },
+          {
+            "x": 0.643,
+            "y": 0.02
+          },
+          {
+            "x": 0.643,
+            "y": 0.817
+          },
+          {
+            "x": 0.36,
+            "y": 0.817
+          }
+        ],
+        "target": {
+          "x": 0.5,
+          "y": 0.42
+        },
+        "confidence": "medium",
+        "explanation": "The central bank contains dense vertical grids interrupted by several dark-blue rectangular channels. Function unverified; contour estimated from visual appearance."
+      },
+      {
+        "id": "region-d",
+        "name": "Region D \u2014 lower-right blue panel",
+        "kind": "unclassified",
+        "polygon": [
+          {
+            "x": 0.648,
+            "y": 0.627
+          },
+          {
+            "x": 0.984,
+            "y": 0.627
+          },
+          {
+            "x": 0.984,
+            "y": 0.817
+          },
+          {
+            "x": 0.648,
+            "y": 0.817
+          }
+        ],
+        "target": {
+          "x": 0.82,
+          "y": 0.72
+        },
+        "confidence": "medium",
+        "explanation": "The lowest right panel mirrors the large blue left-hand panels. Function unverified; contour estimated from visual appearance."
+      }
+    ]
+  }
+]

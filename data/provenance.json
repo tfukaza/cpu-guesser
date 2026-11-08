@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "intel_8008",
+    "downloadUrl": "https://happytrees.org/sites/dieshots-mediawiki-1.35.4/images/3/30/Intel-8008-die-adjusted.jpg",
+    "source": {
+      "title": "Ken Shirriff — original die photograph",
+      "url": "https://happytrees.org/dieshots/File:Intel-8008-die-adjusted.jpg",
+      "kind": "article"
+    },
+    "photographer": "Ken Shirriff",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "width": 3565,
+    "height": 2549,
+    "sha256": "0edf4dde3e12bedfeaf50d41303f44d6330c097dc252099994ee9623d2736bb6",
+    "modifications": "Converted to grayscale, contrast normalized (1st–99th percentiles), cropped into question neighborhoods, and tiled for CPU Guesser. Schematic atlas drawn separately; boundaries approximate."
+  },
+  {
+    "id": "moto_6800",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Motorola_mc6800p_mcmaster_mz_vm1-10x.jpg",
+    "source": {
+      "title": "John McMaster — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Motorola_mc6800p_mcmaster_mz_vm1-10x.jpg",
+      "kind": "article"
+    },
+    "photographer": "John McMaster",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "width": 10880,
+    "height": 10560,
+    "sha256": "4d60d8f55fc8d895c091fab4aac5e39c3037df07b65c873aab5ce11ef6bb6e93",
+    "modifications": "Converted to grayscale, contrast normalized (1st–99th percentiles), cropped into question neighborhoods, and tiled for CPU Guesser. Schematic atlas drawn separately; boundaries approximate."
+  },
+  {
+    "id": "mos_6502",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mos_6502d-2_mcmaster_mz_mit20x.jpg",
+    "source": {
+      "title": "John McMaster — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Mos_6502d-2_mcmaster_mz_mit20x.jpg",
+      "kind": "article"
+    },
+    "photographer": "John McMaster",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "width": 10874,
+    "height": 9910,
+    "sha256": "6f4b246585f47524dec0e5f2fc5f12c628cb8bbf0b0fb48fbedf264456250263",
+    "modifications": "Converted to grayscale, contrast normalized (1st–99th percentiles), cropped into question neighborhoods, and tiled for CPU Guesser. Schematic atlas drawn separately; boundaries approximate."
+  },
+  {
+    "id": "zilog_z80",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Z80-Z0840004PSC-HD.jpg",
+    "source": {
+      "title": "ZeptoBars — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Z80-Z0840004PSC-HD.jpg",
+      "kind": "article"
+    },
+    "photographer": "ZeptoBars",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "width": 8430,
+    "height": 7997,
+    "sha256": "93ecdc4a75a8a6f050500eebfe87fde9ee1fbaff730dea87d033440a2b4b77db",
+    "modifications": "Converted to grayscale, contrast normalized (1st–99th percentiles), cropped into question neighborhoods, and tiled for CPU Guesser. Schematic atlas drawn separately; boundaries approximate."
+  },
+  {
+    "id": "moto_68000",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Motorola_68000_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Motorola_68000_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "width": 3651,
+    "height": 3228,
+    "sha256": "b71c84353306bf2cdb4d49272286095a2e13b8380453b1be7d43b77170ebe343",
+    "modifications": "Converted to grayscale, contrast normalized (1st–99th percentiles), cropped into question neighborhoods, and tiled for CPU Guesser. Schematic atlas drawn separately; boundaries approximate."
+  },
+  {
+    "id": "hp_nanoprocessor",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/HP_Nanoprocessor_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:HP_Nanoprocessor_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3000,
+    "height": 2504,
+    "sha256": "55dfe5e1932ae16ed56024997c02cb787d03076bccac59dfaa0163455f263187",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_8085",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Intel_8085A_die.jpg",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel_8085A_die.jpg",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3599,
+    "height": 2646,
+    "sha256": "d10e6a4c873f26ae72cdc1813139e91786595544f866b2de30421da54e59456d",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "moto_6809",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Motorola_6809_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Motorola_6809_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3212,
+    "height": 3194,
+    "sha256": "a73b6cd554f5b3b063a56e1234daac6706141f815ac1842e9c5c5b56956b9504",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "zilog_z8000",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zilog_Z8002_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Zilog_Z8002_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3434,
+    "height": 3180,
+    "sha256": "793bfbeb5cf8e2437837abdae81ead57479ff0ef6b8a00cc384c939c84226e44",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_80186",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Intel_80186_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel_80186_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3660,
+    "height": 3270,
+    "sha256": "25cb14e995a2fa860b96458f44f4263cffb14cda5c70ab02a6cb16aee07a1dd4",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_80286",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Intel_80286_die2.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel_80286_die2.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3359,
+    "height": 3312,
+    "sha256": "7995cf2e0ef28f16718f3cbd52dad10cabe725bef9529c05f645740ddfb8865d",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "wdc_65c02",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Rockwell_r65c02p2_mcmaster_mz_ns50xu.jpg/3840px-Rockwell_r65c02p2_mcmaster_mz_ns50xu.jpg",
+    "source": {
+      "title": "John McMaster — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Rockwell_r65c02p2_mcmaster_mz_ns50xu.jpg",
+      "kind": "article"
+    },
+    "photographer": "John McMaster",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "width": 3840,
+    "height": 4878,
+    "sha256": "b18865789d45dc6a45d571a1ef8d708a06e329053563b5a85f477600aba66d61",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "moto_68020",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Motorola_68020_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Motorola_68020_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3362,
+    "height": 3280,
+    "sha256": "fed8f7ca89d410ba25fc21d1f566a7ed168c501d962db3f839aad9a29f402a79",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nec_v60",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/NEC_V60_die.jpg",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:NEC_V60_die.jpg",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3280,
+    "height": 3263,
+    "sha256": "3b372b59cb70b9fbac915e345071b88e4fce89ddfcb9d55b6cc2405bd402dbf5",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "cbm_65ce02",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Cbm_65ce02-r2_mcmaster_etch1-13_mit20x.jpg/3840px-Cbm_65ce02-r2_mcmaster_etch1-13_mit20x.jpg",
+    "source": {
+      "title": "John McMaster — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Cbm_65ce02-r2_mcmaster_etch1-13_mit20x.jpg",
+      "kind": "article"
+    },
+    "photographer": "John McMaster",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "width": 3840,
+    "height": 3309,
+    "sha256": "eba6a0336aa38d7813b157354f471df765405d22e4fe35c47c3c110257c5bd25",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "mips_r3000",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/MIPS_R3000A_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:MIPS_R3000A_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3798,
+    "height": 3270,
+    "sha256": "1e744736361f25072e04b5375baf999ba35b1102771ff2c7aed54bee9f0e474d",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_i960ca",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Intel_80960CA_die.JPG/3840px-Intel_80960CA_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel_80960CA_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3840,
+    "height": 2501,
+    "sha256": "49c911b55cf975949caf7c29a2dcb36a49d2483061f517a2a7434b339dea7f3b",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "ibm_386",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/IBM_51F1784ESD_die.jpg/3840px-IBM_51F1784ESD_die.jpg",
+    "source": {
+      "title": "Mister rf — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:IBM_51F1784ESD_die.jpg",
+      "kind": "article"
+    },
+    "photographer": "Mister rf",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 3840,
+    "height": 3518,
+    "sha256": "d4810ee8dec88b9ae2dee67a8fc07677f5a4b6932e9d8b606dcfc54c5fd8cbc7",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "moto_68040",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Motorola_68040_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Motorola_68040_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3336,
+    "height": 3100,
+    "sha256": "b686de80350f3246b42a783fd3aee2e5b24214fbb7e2108eed11ca5b6107dbef",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "hp_pa7000",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/HP_PA-7000_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:HP_PA-7000_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3260,
+    "height": 3260,
+    "sha256": "e059a3743aafdbde6824760385d14c9ba66486c9853de59b6560e287f364710d",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "idt_r3051",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/IDT79R3052Ed.jpg/3840px-IDT79R3052Ed.jpg",
+    "source": {
+      "title": "Antoinebercovici — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:IDT79R3052Ed.jpg",
+      "kind": "article"
+    },
+    "photographer": "Antoinebercovici",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 3840,
+    "height": 2943,
+    "sha256": "dfa4f08cc3e6e4d9592ebc21506aac91ef4aad8baa5f10794409ad0e3326516d",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "mips_r4000",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/MIPS_R4000_die.JPG/3840px-MIPS_R4000_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:MIPS_R4000_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3840,
+    "height": 2937,
+    "sha256": "74f5081164f567ba4b84eb1d1db2d1883cdf910de8c89dce04453dbab115f286",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_80486dx2",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Intel_80486_DX2_P24S_die.JPG/3840px-Intel_80486_DX2_P24S_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel_80486_DX2_P24S_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3840,
+    "height": 2198,
+    "sha256": "dfd2598b6020949c3bce91ec6fcc282e10f2e7da635ff7b5e0e96d131c34c96c",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_i960cf",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Intel_80960CF_die.jpg/3840px-Intel_80960CF_die.jpg",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel_80960CF_die.jpg",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3840,
+    "height": 2796,
+    "sha256": "302fc532646f6633424b6f0f178c49f19ef55de76363968f43c5d807a8988af8",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "dec_21064",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Alpha_EV45_die.JPG/3840px-Alpha_EV45_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Alpha_EV45_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3840,
+    "height": 2770,
+    "sha256": "42e9e2ecdcf7dd724c19bf92fd33658c4d2c0966f2a5c6ec3db7df9aa625ef61",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "moto_68060",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Motorola_68LC060_die.jpg/3840px-Motorola_68LC060_die.jpg",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Motorola_68LC060_die.jpg",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3840,
+    "height": 3207,
+    "sha256": "46a82d67688999878c9e2ae07b5225c259254db23a44123eefbb315dd4334d17",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nexgen_nx586",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/NexGen%40440nm%40RISC86%40Nx586_DSCx11_poly%405xExt.jpg/3840px-NexGen%40440nm%40RISC86%40Nx586_DSCx11_poly%405xExt.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:NexGen@440nm@RISC86@Nx586_DSCx11_poly@5xExt.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3925,
+    "sha256": "7b756f772e20904ef8d29b12977f59d1bf6f9ebbb8154906fa2dc46b0b22fcd2",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "sony_cxd8530",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Ps1-cpu-si-HD.jpg/3840px-Ps1-cpu-si-HD.jpg",
+    "source": {
+      "title": "ZeptoBars — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Ps1-cpu-si-HD.jpg",
+      "kind": "article"
+    },
+    "photographer": "ZeptoBars",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3840,
+    "height": 3853,
+    "sha256": "85caa1f2c58269e892e64e894154fca678e29f3461c9ef30e2847d4cbfc2b4eb",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "moto_ppc603",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Motorola_PowerPC_603_die.JPG/3840px-Motorola_PowerPC_603_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Motorola_PowerPC_603_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3840,
+    "height": 2373,
+    "sha256": "8feb2218ce31551790792258b739846e27edaafd9751b952abd3bf9c82404ea1",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "idt_r4650",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/IDT_R4650_die.JPG/3840px-IDT_R4650_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:IDT_R4650_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3840,
+    "height": 2530,
+    "sha256": "e59a17ef5bff0349ba4d17d8b04f427971d7ad355ec9e1ca342660f143f6fe1a",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "moto_ppc603e",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Motorola_PowerPC_603e_die.JPG/3840px-Motorola_PowerPC_603e_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Motorola_PowerPC_603e_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3840,
+    "height": 2649,
+    "sha256": "8d5c3e75d022754f3de92f231eac4780507b40358e027d47f2bb41715fa86e7b",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_k5",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/AMD%400.35%C2%B5m%40SSA5%405k86%28Model_1%29%40AMD-K5%40_DSCx07_poly%405xDF.jpg/3840px-AMD%400.35%C2%B5m%40SSA5%405k86%28Model_1%29%40AMD-K5%40_DSCx07_poly%405xDF.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@0.35%C2%B5m@SSA5@5k86(Model_1)@AMD-K5@_DSCx07_poly@5xDF.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2454,
+    "sha256": "a81a58d890910207f133cb535bb25c7c5a44533fc4fcea42294caec9d2dcd4df",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_k6",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/AMD%40350nm%40K6%40Model6_-_%28cpuid562%29%40AMD-K6-233APR%403.3V_CORE_C9743EJFW_1997_AMD_DSCx6_polysilicon%405x.jpg/3840px-AMD%40350nm%40K6%40Model6_-_%28cpuid562%29%40AMD-K6-233APR%403.3V_CORE_C9743EJFW_1997_AMD_DSCx6_polysilicon%405x.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@350nm@K6@Model6_-_(cpuid562)@AMD-K6-233APR@3.3V_CORE_C9743EJFW_1997_AMD_DSCx6_polysilicon@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2521,
+    "sha256": "a591b4195f01f7711a2bbb7f40ba58d8eb81ef3369663d2c91c0ca6fc39e4c7b",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_deschutes",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Intel%40250nm%40P6%40Deschutes%40Pentium_II%40flipchip_PB_713539-001_DSCx1_polysilicon_microscope_stitched%405x_%2838025161182%29.jpg/3840px-Intel%40250nm%40P6%40Deschutes%40Pentium_II%40flipchip_PB_713539-001_DSCx1_polysilicon_microscope_stitched%405x_%2838025161182%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@250nm@P6@Deschutes@Pentium_II@flipchip_PB_713539-001_DSCx1_polysilicon_microscope_stitched@5x_(38025161182).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 4247,
+    "sha256": "27c8dd4667f99fa204dd5d5fdf756c121b21dbe1d7ae60bb72f94cb524ec57aa",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_pluto",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/AMD%40180nm%40K7%40Pluto%28Model2_CPUID621%29%40AMD_Athlon_K7700MTR51B_A_DSCx08_poly%405xBF.jpg/3840px-AMD%40180nm%40K7%40Pluto%28Model2_CPUID621%29%40AMD_Athlon_K7700MTR51B_A_DSCx08_poly%405xBF.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@180nm@K7@Pluto(Model2_CPUID621)@AMD_Athlon_K7700MTR51B_A_DSCx08_poly@5xBF.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3041,
+    "sha256": "a4da634058f0481b4621d73c97faf8abcd70cc3e67b142988db14a4b52fc6101",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_argon",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/AMD%40250nm%40K7%40Argon%28Model1_CPUID612%29%40AMD_Athlon_K7500MTR51B_C_DSCx06_poly%405xBF.jpg/3840px-AMD%40250nm%40K7%40Argon%28Model1_CPUID612%29%40AMD_Athlon_K7500MTR51B_C_DSCx06_poly%405xBF.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@250nm@K7@Argon(Model1_CPUID612)@AMD_Athlon_K7500MTR51B_C_DSCx06_poly@5xBF.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2981,
+    "sha256": "5888804bcdc3bf679a6202e3503ae637bb0664104587d9defd8e25de71bc9d99",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_coppermine",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Intel%40180nm%40P6%40Coppermine%40Pentium_III%40unknow_Slot1_DSCx1_polysilicon_microscope_stitched%405x_%2838025178422%29.jpg/3840px-Intel%40180nm%40P6%40Coppermine%40Pentium_III%40unknow_Slot1_DSCx1_polysilicon_microscope_stitched%405x_%2838025178422%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@180nm@P6@Coppermine@Pentium_III@unknow_Slot1_DSCx1_polysilicon_microscope_stitched@5x_(38025178422).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3172,
+    "sha256": "84ec9e5ebebb43b26d7733374fa237da62fa0e398e018b60b86a6db33e69ea9f",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_katmai",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Intel%40250nm%40P6%40Katmai%40Pentium_III%40SL35D_DSCx1_polysilicon_microscope_stitched%405x_%2838241648116%29.jpg/3840px-Intel%40250nm%40P6%40Katmai%40Pentium_III%40SL35D_DSCx1_polysilicon_microscope_stitched%405x_%2838241648116%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@250nm@P6@Katmai@Pentium_III@SL35D_DSCx1_polysilicon_microscope_stitched@5x_(38241648116).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 4564,
+    "sha256": "75bf33892d3bbb0b0f654f5dd2594e65a7d87f7a2d8050ccf914b39354f779da",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_thunderbird",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/AMD%40180nm%40K7%40Thunderbird%28Model4_CPUID642%29%40AMD_Athlon_A0800MPR24B_A_DSCx07_poly%405xBF.jpg/3840px-AMD%40180nm%40K7%40Thunderbird%28Model4_CPUID642%29%40AMD_Athlon_A0800MPR24B_A_DSCx07_poly%405xBF.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@180nm@K7@Thunderbird(Model4_CPUID642)@AMD_Athlon_A0800MPR24B_A_DSCx07_poly@5xBF.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2655,
+    "sha256": "d973ca049ea430d1ae4040bb94c0dcec116d86c1663ad0e30f5ca9a9b507fb1a",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_spitfire",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/AMD%40180nm%40K7%40Spitfire%28Model3_%286308%29_CPUID630%29%40AMD_Duron_D700AUT1B_AKBA_0040RPHW_DSCx06_poly%405xBF.jpg/3840px-AMD%40180nm%40K7%40Spitfire%28Model3_%286308%29_CPUID630%29%40AMD_Duron_D700AUT1B_AKBA_0040RPHW_DSCx06_poly%405xBF.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@180nm@K7@Spitfire(Model3_(6308)_CPUID630)@AMD_Duron_D700AUT1B_AKBA_0040RPHW_DSCx06_poly@5xBF.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3086,
+    "sha256": "6371d7c65ba37e9efd2e10f2fe063c00459224aca6d3bb52cea03bffa3bd9ae7",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "fsl_mpc8245",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Freescale_MPC8245_-_high_resolution_-_49817053817.jpg/3840px-Freescale_MPC8245_-_high_resolution_-_49817053817.jpg",
+    "source": {
+      "title": "Martijn Boer — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Freescale_MPC8245_-_high_resolution_-_49817053817.jpg",
+      "kind": "article"
+    },
+    "photographer": "Martijn Boer",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "width": 3840,
+    "height": 2776,
+    "sha256": "553d50ab55cda03bed13fccdc9bd2348569d90b3b6d061401b52410ea2fe0066",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_cascades",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Intel%40180nm%40P6%40Cascades%40Pentium_III_Xeon%40SL4XW_DSCx1_polysilicon_microscope_stitched%405x_%2824203772488%29.jpg/3840px-Intel%40180nm%40P6%40Cascades%40Pentium_III_Xeon%40SL4XW_DSCx1_polysilicon_microscope_stitched%405x_%2824203772488%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@180nm@P6@Cascades@Pentium_III_Xeon@SL4XW_DSCx1_polysilicon_microscope_stitched@5x_(24203772488).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3135,
+    "sha256": "d3ea54204a42be75ca315005e50a0ec124ec1290416f85be71bab89d8bd98368",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_palomino",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/AMD%40180nm%40K7%40Palomino%28Model6_%287320%29_CPUID662%29%40AMD_Athlon_AX1700DMT3C_AGOGA_0208UPAW_DSCx07_poly%405xEXT.jpg/3840px-AMD%40180nm%40K7%40Palomino%28Model6_%287320%29_CPUID662%29%40AMD_Athlon_AX1700DMT3C_AGOGA_0208UPAW_DSCx07_poly%405xEXT.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@180nm@K7@Palomino(Model6_(7320)_CPUID662)@AMD_Athlon_AX1700DMT3C_AGOGA_0208UPAW_DSCx07_poly@5xEXT.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3633,
+    "sha256": "9a32127f7d4f24e07d107c6e5e2639f9e7fef879cd05622028855fe9f9e64603",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_morgan",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/AMD%40180nm%40K7%40Morgan%28Model7_%286330%29_CPUID671%29%40AMD_Duron_DHD1300AMT1B_AHLDA_0234APFW_DSCx06_poly%405xBF.jpg/3840px-AMD%40180nm%40K7%40Morgan%28Model7_%286330%29_CPUID671%29%40AMD_Duron_DHD1300AMT1B_AHLDA_0234APFW_DSCx06_poly%405xBF.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@180nm@K7@Morgan(Model7_(6330)_CPUID671)@AMD_Duron_DHD1300AMT1B_AHLDA_0234APFW_DSCx06_poly@5xBF.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2965,
+    "sha256": "bc62705ab5aaa0377cf52db5ed321a9c0ada9dbeabbd8aa652d31cd2ea623077",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "hp_pa8700",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/HP_PA-8700_die_shot_-_etched_-_high_resolution_%28stitched%29.jpg/3840px-HP_PA-8700_die_shot_-_etched_-_high_resolution_%28stitched%29.jpg",
+    "source": {
+      "title": "Martijn Boer — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:HP_PA-8700_die_shot_-_etched_-_high_resolution_(stitched).jpg",
+      "kind": "article"
+    },
+    "photographer": "Martijn Boer",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "width": 3840,
+    "height": 4568,
+    "sha256": "d6f07de765a00ff1e7e0ffa346a963e156d10d0d4be770b3f69237d3f109002d",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_tualatin",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Intel%40130nm%40P6%40Tualatin%40Pentium_III%40SL5CG_DSCx1_polysilicon_microscope_stitched%405x_%2838002693566%29.jpg/3840px-Intel%40130nm%40P6%40Tualatin%40Pentium_III%40SL5CG_DSCx1_polysilicon_microscope_stitched%405x_%2838002693566%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@130nm@P6@Tualatin@Pentium_III@SL5CG_DSCx1_polysilicon_microscope_stitched@5x_(38002693566).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2461,
+    "sha256": "10cbb1f40c7640e8e62dc6e5d39dac6b4eddd81af31035b9f4c6be275417d673",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_barton",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/AMD_Barton_die_shot_-_high_resolution_-_stitched.jpg/3840px-AMD_Barton_die_shot_-_high_resolution_-_stitched.jpg",
+    "source": {
+      "title": "Martijn Boer — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD_Barton_die_shot_-_high_resolution_-_stitched.jpg",
+      "kind": "article"
+    },
+    "photographer": "Martijn Boer",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "width": 3840,
+    "height": 2102,
+    "sha256": "ece623e422d7fe7dc0fcef46e23e2c3202d9617aa25bfa384b3ad864506ec619",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_prescott",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Intel_Prescott-1M_die_shot_-_high_res_-_stitched_-_external_light.jpg/3840px-Intel_Prescott-1M_die_shot_-_high_res_-_stitched_-_external_light.jpg",
+    "source": {
+      "title": "Martijn Boer — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel_Prescott-1M_die_shot_-_high_res_-_stitched_-_external_light.jpg",
+      "kind": "article"
+    },
+    "photographer": "Martijn Boer",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "width": 3840,
+    "height": 4000,
+    "sha256": "e30233a1a2208a53e99466993cc4358948c8550b2ba859b1b5af94f71dcba2db",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "sun_ultrasparc_iv",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/US_IV_DSC00492_%2835505069245%29.jpg/3840px-US_IV_DSC00492_%2835505069245%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:US_IV_DSC00492_(35505069245).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2871,
+    "sha256": "01d3ec6cbc5c6e62aec74e3afed7ea052e94f19d1aa7ac14ce5ac3a6be97028e",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "sun_ultrasparc_ivplus",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/US_IV%2B_Stack-DSC01144-DSC01180_-_ZS-retouched_%2835465698786%29.jpg/3840px-US_IV%2B_Stack-DSC01144-DSC01180_-_ZS-retouched_%2835465698786%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:US_IV%2B_Stack-DSC01144-DSC01180_-_ZS-retouched_(35465698786).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2655,
+    "sha256": "dd7447b6b2516ca430353f48fedc3a7335e6ce455dbefdba740466eb72ffaaae",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_wolfdale",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Intel_Wolfdale_die_shot_%28E8400%29_etched_-_high_resolution_-_stitched.jpg/3840px-Intel_Wolfdale_die_shot_%28E8400%29_etched_-_high_resolution_-_stitched.jpg",
+    "source": {
+      "title": "Martijn Boer — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel_Wolfdale_die_shot_(E8400)_etched_-_high_resolution_-_stitched.jpg",
+      "kind": "article"
+    },
+    "photographer": "Martijn Boer",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "width": 3840,
+    "height": 2681,
+    "sha256": "8844eed23b20322765925a3ba74211064a127638d598c0e44b82cc17810ca4dd",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_sandybridge_2",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Intel_Sandy_Bridge_2C-GT1_die_shot_-_top_metal_removed_-_high_resolution_-_stitched.jpg/3840px-Intel_Sandy_Bridge_2C-GT1_die_shot_-_top_metal_removed_-_high_resolution_-_stitched.jpg",
+    "source": {
+      "title": "Martijn Boer — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel_Sandy_Bridge_2C-GT1_die_shot_-_top_metal_removed_-_high_resolution_-_stitched.jpg",
+      "kind": "article"
+    },
+    "photographer": "Martijn Boer",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "width": 3840,
+    "height": 2619,
+    "sha256": "e6bde4f788645bb27daea1e674c81b4e7638c68b1aced9d245079f3a81df535c",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_westmere_ex",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Intel_Xeon_E7-2850_Die_Shot_%28Westmere-EX%29.jpg/3840px-Intel_Xeon_E7-2850_Die_Shot_%28Westmere-EX%29.jpg",
+    "source": {
+      "title": "cole8888 — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel_Xeon_E7-2850_Die_Shot_(Westmere-EX).jpg",
+      "kind": "article"
+    },
+    "photographer": "cole8888",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 3840,
+    "height": 3111,
+    "sha256": "2b4ecb25be05a119b63bd3cd0022af614f6e688f0d77a66c7521fc4122868f7f",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "ms_durango",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/AMD%4028nm%40Jaguar%40Durango%40XBox_One%40X877045_001_DG3000FEG84HR_1334PGS_WC18980H30343_microscope_stitched%4010x.jpg/3840px-AMD%4028nm%40Jaguar%40Durango%40XBox_One%40X877045_001_DG3000FEG84HR_1334PGS_WC18980H30343_microscope_stitched%4010x.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@28nm@Jaguar@Durango@XBox_One@X877045_001_DG3000FEG84HR_1334PGS_WC18980H30343_microscope_stitched@10x.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2965,
+    "sha256": "c722ba4373117f6e83af459b6bc53d08b713cbc8dd390c5b7abc51043f7718ee",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "sony_ps4pro_neo",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/AMD%4016nm%40Jaguar_Polaris%40Neo%40Playstation_4_Pro%40CXD90044GB_DSCx1_polysilicon_microscope_stitched%405x_%2824915482017%29.jpg/3840px-AMD%4016nm%40Jaguar_Polaris%40Neo%40Playstation_4_Pro%40CXD90044GB_DSCx1_polysilicon_microscope_stitched%405x_%2824915482017%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@16nm@Jaguar_Polaris@Neo@Playstation_4_Pro@CXD90044GB_DSCx1_polysilicon_microscope_stitched@5x_(24915482017).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2447,
+    "sha256": "f483a7c5a6fbb836a41ade84154e27b17763450d3c36c343e162066d185bf135",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_knl",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Intel%4014nm%40Xeon_Phi%40Knights_Landing%40Xeon%28ES%29%40QHL6_DSCx7%405x.jpg/3840px-Intel%4014nm%40Xeon_Phi%40Knights_Landing%40Xeon%28ES%29%40QHL6_DSCx7%405x.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@14nm@Xeon_Phi@Knights_Landing@Xeon(ES)@QHL6_DSCx7@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2531,
+    "sha256": "a3605acc3d1c89ccdae1edcc0221e59dda47dc7a292fd150b865a5afce53c54c",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_coffeelake_6",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Intel%4014nm%2B%2B%40CoffeeLake%40Coffee_Lake-S%40i7-8700K%40SR3QR_DSCx07_poly%405x.jpg/3840px-Intel%4014nm%2B%2B%40CoffeeLake%40Coffee_Lake-S%40i7-8700K%40SR3QR_DSCx07_poly%405x.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@14nm%2B%2B@CoffeeLake@Coffee_Lake-S@i7-8700K@SR3QR_DSCx07_poly@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2104,
+    "sha256": "c3bdbc4a7fcb395c387e213e6925ada80ff149174c254a66d4f2a4fa6c08914d",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_kabylake_2",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Intel%4014nm%2B%40Skylake%40Kabylake-S%28DualCore%29%40Celeron_G3930%40SR35K_DSCxDifference_polysilicon_microscope_stitched%405x.jpg/3840px-Intel%4014nm%2B%40Skylake%40Kabylake-S%28DualCore%29%40Celeron_G3930%40SR35K_DSCxDifference_polysilicon_microscope_stitched%405x.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@14nm%2B@Skylake@Kabylake-S(DualCore)@Celeron_G3930@SR35K_DSCxDifference_polysilicon_microscope_stitched@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3212,
+    "sha256": "98abf6f8f02a9efa47784bddb60caf381ecfd865bbe68c9f0cdb5e1a80f31132",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_skylake_x_lcc",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Intel%4014nm%40%40Skylake%40Skylake-X%28LCC%29%40i7-7820X%40SR3L5_DSCx1_polysilicon_microscope_stitched%405x.jpg/3840px-Intel%4014nm%40%40Skylake%40Skylake-X%28LCC%29%40i7-7820X%40SR3L5_DSCx1_polysilicon_microscope_stitched%405x.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@14nm@@Skylake@Skylake-X(LCC)@i7-7820X@SR3L5_DSCx1_polysilicon_microscope_stitched@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2470,
+    "sha256": "69d50772eb04e53aa031f9ea8a55000de95b8d0c92a026327514ccc73cae2255",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "ms_scorpio",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/AMD%4016nm%40Jaguar_Polaris_APU%40Scorpio%40XBoxOneX%40DG5700GDA87IE_1721SUT_9GW3448T70061_DSCx4_poly%405xEXT.jpg/3840px-AMD%4016nm%40Jaguar_Polaris_APU%40Scorpio%40XBoxOneX%40DG5700GDA87IE_1721SUT_9GW3448T70061_DSCx4_poly%405xEXT.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@16nm@Jaguar_Polaris_APU@Scorpio@XBoxOneX@DG5700GDA87IE_1721SUT_9GW3448T70061_DSCx4_poly@5xEXT.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2598,
+    "sha256": "7e0c3dabf92cbbe61b8038b48d988ed0127c87f6c0bce41bb6f662c982729a83",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_coffeelake_8",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Intel%4014nm%2B%2B%40CoffeeLake%40Coffee_Lake-R%40i9-9900K%40SRG19_DSCx03_poly%405x.jpg/3840px-Intel%4014nm%2B%2B%40CoffeeLake%40Coffee_Lake-R%40i9-9900K%40SRG19_DSCx03_poly%405x.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@14nm%2B%2B@CoffeeLake@Coffee_Lake-R@i9-9900K@SRG19_DSCx03_poly@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 1795,
+    "sha256": "e67acb8d18ab1f6641612df443cbc340c85c1199f44b822601ebf603973092cb",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_pinnacle_ridge",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/AMD%4012nm%40Zen%2B%40Pinnalce_Ridge%40Ryzen_5_2600%40YD2600BBM6IAF_UA_1841PGT_9HIO968W80588_DSCx3_polysilicon%405x.jpg/3840px-AMD%4012nm%40Zen%2B%40Pinnalce_Ridge%40Ryzen_5_2600%40YD2600BBM6IAF_UA_1841PGT_9HIO968W80588_DSCx3_polysilicon%405x.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@12nm@Zen%2B@Pinnalce_Ridge@Ryzen_5_2600@YD2600BBM6IAF_UA_1841PGT_9HIO968W80588_DSCx3_polysilicon@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 1688,
+    "sha256": "95e2aa6fd46d2165774f94e4cc5b77da91c823b15fed8a98cf2265886561b288",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_dali",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/AMD%4014nm%40Zen%40Dali%40Athlon_3000G%40YD3000C6M20FH_A0_2002PGT_DSCx7_poly%405xbrightfield_%2850210073616%29.jpg/3840px-AMD%4014nm%40Zen%40Dali%40Athlon_3000G%40YD3000C6M20FH_A0_2002PGT_DSCx7_poly%405xbrightfield_%2850210073616%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@14nm@Zen@Dali@Athlon_3000G@YD3000C6M20FH_A0_2002PGT_DSCx7_poly@5xbrightfield_(50210073616).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3485,
+    "sha256": "fec8ce01b46e04013058752503183ad341e6121a863a2015b4cedfe7e3b0694f",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "via_cha",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Via%4016nm%40Centaur_Technology%40CHA_SoC%40CNS_NCORE_DSCx13_poly%405xExt.jpg/3840px-Via%4016nm%40Centaur_Technology%40CHA_SoC%40CNS_NCORE_DSCx13_poly%405xExt.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Via@16nm@Centaur_Technology@CHA_SoC@CNS_NCORE_DSCx13_poly@5xExt.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3600,
+    "sha256": "0699aa57bcd4e1b35022f4f078220145f3b0c0a02040e84e20489da496d1e22d",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_zen2_ccd",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/AMD%407nm%2812nmIOD%29%40Zen2%40Matisse%40Ryzen_5_3600%40100-000000031_BF_1923SUT_9HM6935R90062_DSCx11_CCD_polysilicon%405x.jpg/3840px-AMD%407nm%2812nmIOD%29%40Zen2%40Matisse%40Ryzen_5_3600%40100-000000031_BF_1923SUT_9HM6935R90062_DSCx11_CCD_polysilicon%405x.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@7nm(12nmIOD)@Zen2@Matisse@Ryzen_5_3600@100-000000031_BF_1923SUT_9HM6935R90062_DSCx11_CCD_polysilicon@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2728,
+    "sha256": "db8ba520c417f461a70013bdb344852e02b649da257d73081f050834a1413b51",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "sony_ps5_oberon",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/AMD%407nm%40Zen2_RDNA_APU%40Oberon%40PlayStation5%40CXD90060GG_100-000000189_WM33440U00089_S_DSCx4_topmetal%405xBF.jpg/3840px-AMD%407nm%40Zen2_RDNA_APU%40Oberon%40PlayStation5%40CXD90060GG_100-000000189_WM33440U00089_S_DSCx4_topmetal%405xBF.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@7nm@Zen2_RDNA_APU@Oberon@PlayStation5@CXD90060GG_100-000000189_WM33440U00089_S_DSCx4_topmetal@5xBF.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2138,
+    "sha256": "278baf5d4787c02b6a49821bcaf1929733aabb9b76b9b9681f937acb0121f5ad",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_renoir",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/AMD%407nm%40Zen2%40Renoir%40Ryzen_3_4300U%40100-000000085_9JB4977P00253_DSCx3%40Infrared.jpg/3840px-AMD%407nm%40Zen2%40Renoir%40Ryzen_3_4300U%40100-000000085_9JB4977P00253_DSCx3%40Infrared.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@7nm@Zen2@Renoir@Ryzen_3_4300U@100-000000085_9JB4977P00253_DSCx3@Infrared.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3046,
+    "sha256": "a0aa8786220f24e88744d558351b6f26d6aa0279afb1b7fba6fe928fb264b5de",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_cezanne",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/AMD%407nm%40Zen3%40Cezanne%40Ryzen_5_5600G%40100-000000252_EF_2127SUS_9JP9827S10002_DSCx3%40swir.jpg/3840px-AMD%407nm%40Zen3%40Cezanne%40Ryzen_5_5600G%40100-000000252_EF_2127SUS_9JP9827S10002_DSCx3%40swir.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@7nm@Zen3@Cezanne@Ryzen_5_5600G@100-000000252_EF_2127SUS_9JP9827S10002_DSCx3@swir.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3563,
+    "sha256": "abdd8d7ac52e521b0a9134456ee04087890afffbe06c86e7ae62a57a0eb2390c",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_rocketlake",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Intel%4014nm%40Cypress_Cove%40Rocket_Lake-S%40Core_i5-11400%40SRKP0_DSCx08_poly%405xDICLA.jpg/3840px-Intel%4014nm%40Cypress_Cove%40Rocket_Lake-S%40Core_i5-11400%40SRKP0_DSCx08_poly%405xDICLA.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@14nm@Cypress_Cove@Rocket_Lake-S@Core_i5-11400@SRKP0_DSCx08_poly@5xDICLA.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "width": 3840,
+    "height": 1858,
+    "sha256": "ca987a8edba12692eb95cd4280c716bce01526dc022504f38fc97424fd9c8c3b",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_alderlake_6p",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Intel%40intel7%2810nmESF%29%40AlderLake%40ADL-S%286P%2B0E%29%40i5-12400F%40SRL5Z_DSCx08_poly%405xExt.jpg/3840px-Intel%40intel7%2810nmESF%29%40AlderLake%40ADL-S%286P%2B0E%29%40i5-12400F%40SRL5Z_DSCx08_poly%405xExt.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@intel7(10nmESF)@AlderLake@ADL-S(6P%2B0E)@i5-12400F@SRL5Z_DSCx08_poly@5xExt.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2530,
+    "sha256": "02862cfa8f864e1173f8ee7c0a84afed195118b17ecd3cd5bbc1eaa094130d76",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_raptorlake",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Intel%40intel7%2810nmESF%29%40RaptorLake%40RPL%288P%2B16E%29%40i9-13900K%40ES_DSCx06_poly%405xDIC_Lambda.jpg/3840px-Intel%40intel7%2810nmESF%29%40RaptorLake%40RPL%288P%2B16E%29%40i9-13900K%40ES_DSCx06_poly%405xDIC_Lambda.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Intel@intel7(10nmESF)@RaptorLake@RPL(8P%2B16E)@i9-13900K@ES_DSCx06_poly@5xDIC_Lambda.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 1767,
+    "sha256": "113a61441e2952816956409fb117cee6e73e354d209ee7116efa7942e36cce2b",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_zen4_ccd",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/AMD%405nmCCD%286nmIOD%29%40Zen4%40Raphael%40Ryzen_5_7600%40100-000001015_BQ_2246SUY_9LS4795W20142_DSCx13_CCD_poly%405xExt.jpg/3840px-AMD%405nmCCD%286nmIOD%29%40Zen4%40Raphael%40Ryzen_5_7600%40100-000001015_BQ_2246SUY_9LS4795W20142_DSCx13_CCD_poly%405xExt.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@5nmCCD(6nmIOD)@Zen4@Raphael@Ryzen_5_7600@100-000001015_BQ_2246SUY_9LS4795W20142_DSCx13_CCD_poly@5xExt.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2487,
+    "sha256": "506eaeec8c58064224c444edd1a15be0f08ebf45e66eedbf620c56e95768634c",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_zen5_ccd",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/AMD%404nmCCD%286nmIOD%29%40Zen5%40Granite_Ridge%40Ryzen_5_9600X%40100-000001405_BY_2429SUY_9AEQ579S40073_DSCx14_CCD_poly%405xExt.jpg/3840px-AMD%404nmCCD%286nmIOD%29%40Zen5%40Granite_Ridge%40Ryzen_5_9600X%40100-000001405_BY_2429SUY_9AEQ579S40073_DSCx14_CCD_poly%405xExt.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:AMD@4nmCCD(6nmIOD)@Zen5@Granite_Ridge@Ryzen_5_9600X@100-000001405_BY_2429SUY_9AEQ579S40073_DSCx14_CCD_poly@5xExt.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3296,
+    "sha256": "792c9e32174c7d0a0a9f7fa662db1c979224fab2eb2865761697b55cb1d59971",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "hp_pa7100",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/HP-HP9000-PARISC-PA7100-CPU-Chip.jpg",
+    "source": {
+      "title": "Thomas Schanz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:HP-HP9000-PARISC-PA7100-CPU-Chip.jpg",
+      "kind": "article"
+    },
+    "photographer": "Thomas Schanz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 3000,
+    "height": 2986,
+    "sha256": "5e5301e95e81cb6d024e3001c1960aed50c3f775d2a73d1c1781517befd822db",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "hp_pa7100lc",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HP_PA-7100LC_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:HP_PA-7100LC_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3280,
+    "height": 3280,
+    "sha256": "bdb08fa3942ebcf3c2ad95a92d98a96071fa536b5f372bd7b1193539bae8a0f1",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "idt_r4600",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/IDT_R4600_die.jpg",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:IDT_R4600_die.jpg",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3632,
+    "height": 2742,
+    "sha256": "606017bedfb9b508204218b7a225157f6326876c57266b5c2d091f5b2d7a112e",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "ti_microsparc2",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sun_microSPARC_II_die2.jpg",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Sun_microSPARC_II_die2.jpg",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3403,
+    "height": 3287,
+    "sha256": "55e95e90f440afb3daa656391ca25188c45b293b781019dfd063a2030ce4ea1a",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "dec_21164_ev5",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Alpha_EV5_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Alpha_EV5_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3398,
+    "height": 3086,
+    "sha256": "5693b00ddf635848f82804897d1c4676f2bb787fd6ad6c5aa4212fff249b6978",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "hp_pa7300lc",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/HP_PA-7300LC_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:HP_PA-7300LC_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3598,
+    "height": 3274,
+    "sha256": "6928bf3f743307b3f596b170d42d217f04475fcd3bfeadc982976df68ad94b2d",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "mips_r5000",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/NEC_VR5000_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:NEC_VR5000_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3282,
+    "height": 3135,
+    "sha256": "f16baec7057334546f4efd1cc5bf7152423abb0ab7cbc298a8ca16168436d4a5",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "hp_pa8500",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/HP_PA-8500_DSC00523_%2835119492890%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:HP_PA-8500_DSC00523_(35119492890).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3702,
+    "height": 3588,
+    "sha256": "0b8deb01089bf1748e916400db726e6f9a2c05a9346692b8989f1a68b2701ea2",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "qed_rm7000",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/QED_RM7000_die.JPG",
+    "source": {
+      "title": "Pauli Rautakorpi — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:QED_RM7000_die.JPG",
+      "kind": "article"
+    },
+    "photographer": "Pauli Rautakorpi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "width": 3606,
+    "height": 3262,
+    "sha256": "a08bebd652c0ccd11e6046f0f52c93e6728f73070ebc07d5a99b778bbd871821",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_k6_littlefoot",
+    "downloadUrl": "https://live.staticflickr.com/65535/48010599568_9727a61183_4k.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://www.flickr.com/photos/130561288@N04/48010599568/",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "width": 4096,
+    "height": 2632,
+    "sha256": "494469a392755c5c3c46baf7ec8f734cb4ee757430d6a9d4baef77b37c950b02",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_skylake_sp_xcc",
+    "downloadUrl": "https://live.staticflickr.com/65535/50129523578_bf46df39d4_3k.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://www.flickr.com/photos/130561288@N04/50129523578/",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "width": 3071,
+    "height": 2056,
+    "sha256": "734480728e67d21ca85e75faf8c3520d921d893e08d4554004b33d88780c9826",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_cannonlake",
+    "downloadUrl": "https://live.staticflickr.com/65535/52464622122_296aa28b69_3k.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://www.flickr.com/photos/130561288@N04/52464622122/",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "width": 2938,
+    "height": 3072,
+    "sha256": "63956a4949265629de31b2ed155851abe02f48404b53eee352d52a65b2aed55c",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_raven_ridge",
+    "downloadUrl": "https://live.staticflickr.com/4722/39716562275_ed2f08eba6_4k.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://www.flickr.com/photos/130561288@N04/39716562275/",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "width": 4096,
+    "height": 2328,
+    "sha256": "9fa5da768c71e548612c3dbdc478f6c9944b670ceceae68667c987d4decca0f6",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "amd_vangogh",
+    "downloadUrl": "https://live.staticflickr.com/65535/53420912468_d22a7faab3_3k.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://www.flickr.com/photos/130561288@N04/53420912468/",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "width": 3072,
+    "height": 2805,
+    "sha256": "1cb8a7959012159557cf14b607a60c25acb0cc07087371ec8a98cee4929d0848",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "intel_northwood",
+    "downloadUrl": "https://live.staticflickr.com/472/32847415126_9a20ced184_3k.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://www.flickr.com/photos/130561288@N04/32847415126/",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "width": 2714,
+    "height": 2812,
+    "sha256": "99309b6e6978dec24668c1ee5d420905d9c823459b0d530a41951abcb15dcf5c",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "sun_ultrasparc_t2",
+    "downloadUrl": "https://live.staticflickr.com/4289/35338042542_2af310deba_3k.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://www.flickr.com/photos/130561288@N04/35338042542/",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "width": 3072,
+    "height": 2702,
+    "sha256": "c61b6bf315544282a01801d09e01c02b0af07f0c5a4bf69902985a3ed09a06c7",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "apple_m1",
+    "downloadUrl": "https://live.staticflickr.com/65535/55302205348_9593fec5be_6k.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — Apple M1 polysilicon die photograph / Flickr",
+      "url": "https://www.flickr.com/photos/130561288@N04/55302205348/",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "width": 6144,
+    "height": 5879,
+    "sha256": "bb253d6d656e527c77e180c3babdf623bcd3ea0baf2e93107dfb1e969901535b",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_nv3",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/NVIDIA%40350nm%40Fixed-pipeline%40NV3_ZX%40Riva_128ZX%40A22AL9828_MALTA_J822XFJ-A_DSCx8_polysilicon%40makrolens.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:NVIDIA@350nm@Fixed-pipeline@NV3_ZX@Riva_128ZX@A22AL9828_MALTA_J822XFJ-A_DSCx8_polysilicon@makrolens.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 2597,
+    "height": 2744,
+    "sha256": "b95582ab61a707421fd481d3179b65e33bbcffcb5fef1ac3045098eb53676751",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_g80",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Nvidia_G80_die_shot_-_high_resolution_%28stitched%29.jpg/3840px-Nvidia_G80_die_shot_-_high_resolution_%28stitched%29.jpg",
+    "source": {
+      "title": "Martijn Boer — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Nvidia_G80_die_shot_-_high_resolution_(stitched).jpg",
+      "kind": "article"
+    },
+    "photographer": "Martijn Boer",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "width": 3840,
+    "height": 3701,
+    "sha256": "550b548e1ea6c25fd23eb0cb576aad35dc292f6e4d6a699bfa41447997e576cf",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_gt200",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/NVIDIA%4065nm%40Tesla%40GT200%40GeForce_GTX_280%4018054233_0817A2_S_TAIWAN_NH1888.M01_G200-300-A2_DSCx11_polysilicon_microscope_stitched%402.5x.jpg/3840px-NVIDIA%4065nm%40Tesla%40GT200%40GeForce_GTX_280%4018054233_0817A2_S_TAIWAN_NH1888.M01_G200-300-A2_DSCx11_polysilicon_microscope_stitched%402.5x.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:NVIDIA@65nm@Tesla@GT200@GeForce_GTX_280@18054233_0817A2_S_TAIWAN_NH1888.M01_G200-300-A2_DSCx11_polysilicon_microscope_stitched@2.5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3874,
+    "sha256": "29089c5f0e96383d0415d9b8116d5a2daad643c6cb0b1e3f641cd230d0c54f69",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_gf100",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Nvidia%4040nm%40Fermi%40GF100%40GeForce_GTX_470%40UA05B195_1019A3_S_TAIWAN_NN1291.000_GF100-275-A3_DSCx4_polysilicon%405x.jpg/3840px-Nvidia%4040nm%40Fermi%40GF100%40GeForce_GTX_470%40UA05B195_1019A3_S_TAIWAN_NN1291.000_GF100-275-A3_DSCx4_polysilicon%405x.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Nvidia@40nm@Fermi@GF100@GeForce_GTX_470@UA05B195_1019A3_S_TAIWAN_NN1291.000_GF100-275-A3_DSCx4_polysilicon@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3829,
+    "sha256": "7968b448688288ce1e8cd6490d4c085176bb01643732774876c67e0ad625a682",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_gf110",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Nvidia%4040nm%40Fermi%40GF110%40GeForce_GTX_580%40UA10B338_1041A1_N2Y540.000_GF110-375-A1_DSCx2_polysilicon%405x.jpg/3840px-Nvidia%4040nm%40Fermi%40GF110%40GeForce_GTX_580%40UA10B338_1041A1_N2Y540.000_GF110-375-A1_DSCx2_polysilicon%405x.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Nvidia@40nm@Fermi@GF110@GeForce_GTX_580@UA10B338_1041A1_N2Y540.000_GF110-375-A1_DSCx2_polysilicon@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3829,
+    "sha256": "f35a2d68930eff0cb917b26d8f06090a37b7ac88125e4d57054e3b80ccdda22d",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_gm200",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nvidia%4028nm%40Maxwell%40GM200%40GeForce_GTX_980_Ti%40A_TAIWAN_1542A1_TFH800.COW_GM200-310-A1_DSCx3_polysilicon%405x.jpg/3840px-Nvidia%4028nm%40Maxwell%40GM200%40GeForce_GTX_980_Ti%40A_TAIWAN_1542A1_TFH800.COW_GM200-310-A1_DSCx3_polysilicon%405x.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Nvidia@28nm@Maxwell@GM200@GeForce_GTX_980_Ti@A_TAIWAN_1542A1_TFH800.COW_GM200-310-A1_DSCx3_polysilicon@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3866,
+    "sha256": "39de486a5e748fcaaccc8927d41eeb0b1dae244bb21e56def76890d03f1b9d8b",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_gp100",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Nvidia%4016nm%40Pascal%40GP100%40Tesla_P100%40T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSCx05_poly%405x.jpg/3840px-Nvidia%4016nm%40Pascal%40GP100%40Tesla_P100%40T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSCx05_poly%405x.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSCx05_poly@5x.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3146,
+    "sha256": "8105d58894098e82036e9b9943011ca3a82c380845508b9bc91ecb2828f47773",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_tu102",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Nvidia%4012nm%40Turing%40TU102%40GeForce_RTX_2080_Ti%40S_TAIWAN_1834A1_PKVA94.002_TU102-300A-K1-A1_DSCx2_polysilicon%40IR_Macro.jpg/3840px-Nvidia%4012nm%40Turing%40TU102%40GeForce_RTX_2080_Ti%40S_TAIWAN_1834A1_PKVA94.002_TU102-300A-K1-A1_DSCx2_polysilicon%40IR_Macro.jpg",
+    "source": {
+      "title": "FritzchensFritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Nvidia@12nm@Turing@TU102@GeForce_RTX_2080_Ti@S_TAIWAN_1834A1_PKVA94.002_TU102-300A-K1-A1_DSCx2_polysilicon@IR_Macro.jpg",
+      "kind": "article"
+    },
+    "photographer": "FritzchensFritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 4819,
+    "sha256": "66820c024bafbed953425e9eaab09577e0e71d22a77e8ef38a215775345b5fe8",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_tu104",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Nvidia%4012nm%40Turing%40TU104%40GeForce_RTX_2080%40S_TAIWAN_1841A1_PKYN44.000_TU104-400-A1_DSCx7_poly%405xExt.jpg/3840px-Nvidia%4012nm%40Turing%40TU104%40GeForce_RTX_2080%40S_TAIWAN_1841A1_PKYN44.000_TU104-400-A1_DSCx7_poly%405xExt.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Nvidia@12nm@Turing@TU104@GeForce_RTX_2080@S_TAIWAN_1841A1_PKYN44.000_TU104-400-A1_DSCx7_poly@5xExt.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 3554,
+    "sha256": "942efa8a209f72b466e537d59d18962607c55b1d8c5591d952d74cee2f65ef33",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_tu106",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Nvidia%4012nm%40Turing%40TU106%40GeForce_RTX_2060%40S_TAIWAN_1844A1_PM4F79.000_TU106-200A-KA-A1_DSCx5_poly%405xExt.jpg/3840px-Nvidia%4012nm%40Turing%40TU106%40GeForce_RTX_2060%40S_TAIWAN_1844A1_PM4F79.000_TU106-200A-KA-A1_DSCx5_poly%405xExt.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Nvidia@12nm@Turing@TU106@GeForce_RTX_2060@S_TAIWAN_1844A1_PM4F79.000_TU106-200A-KA-A1_DSCx5_poly@5xExt.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 2930,
+    "sha256": "bf287913c72c9daa43ddb30674c482cd326841cc00ef71d7f3897a6b11aea637",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_ga102",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Nvidia%408nm%40Ampere%40GA102%40GeForce_RTX_3090%40S_TW_2032A1_SNNB9W.000_GA102-300-A1_DSCx2%40IR_%2850715462966%29.jpg/3840px-Nvidia%408nm%40Ampere%40GA102%40GeForce_RTX_3090%40S_TW_2032A1_SNNB9W.000_GA102-300-A1_DSCx2%40IR_%2850715462966%29.jpg",
+    "source": {
+      "title": "Fritzchens Fritz from Berlin — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Nvidia@8nm@Ampere@GA102@GeForce_RTX_3090@S_TW_2032A1_SNNB9W.000_GA102-300-A1_DSCx2@IR_(50715462966).jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz from Berlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 4395,
+    "sha256": "8dbb698be6de04a57886096e0a66807713e9b21a9aa4b6c1986de2fa8c568c66",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  },
+  {
+    "id": "nv_ad102",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Nvidia%405nm%40AdaLovelace%40AD102%40GeForce_RTX_4090%40S_TW_2324A1_U2F028.MOW_AD102-301-A1_DSCx6%40IR.jpg/3840px-Nvidia%405nm%40AdaLovelace%40AD102%40GeForce_RTX_4090%40S_TW_2324A1_U2F028.MOW_AD102-301-A1_DSCx6%40IR.jpg",
+    "source": {
+      "title": "Fritzchens Fritz — original die photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Nvidia@5nm@AdaLovelace@AD102@GeForce_RTX_4090@S_TW_2324A1_U2F028.MOW_AD102-301-A1_DSCx6@IR.jpg",
+      "kind": "article"
+    },
+    "photographer": "Fritzchens Fritz",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 3840,
+    "height": 4342,
+    "sha256": "dc12175c849b2230a5c1cb4bada969fea5eb82d503385263882530cb9e2c34cb",
+    "modifications": "Downsampled where necessary, converted to grayscale, contrast normalized (1st–99th percentiles), cropped and tiled for CPU Guesser. Vector region contours estimated visually by language models; functions unverified. Derivative photographs and photo-derived contours retain the linked original license."
+  }
+]
