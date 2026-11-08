@@ -106,3 +106,5 @@ Dataset work should follow [skills/cpu-dataset-curation/SKILL.md](skills/cpu-dat
 Source lives at [tfukaza/cpu-guesser](https://github.com/tfukaza/cpu-guesser). Vercel builds the `main` branch with `npm ci` and `npm run build:vercel`, serving the static `out/` directory. The app has no required runtime secrets, API server, or database.
 
 Use the GitHub integration for deployments: the full-resolution image pyramids exceed Vercel CLI source upload limits. Keep `public/tiles`, the catalog and attribution files together in commits. Tiles use a one-day cache lifetime. The regular `npm run dev` and `npm run build` commands retain the local Vinext/Sites workflow.
+
+Link previews use the original monochrome artwork in `public/social-preview.png`, with Open Graph and Twitter large-image metadata. Regenerate the 1200 × 630 image and editable SVG with `node scripts/generate-social-card.mjs`; it uses the bundled Geist Mono font and no third-party photographs.

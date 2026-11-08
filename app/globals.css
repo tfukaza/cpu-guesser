@@ -485,7 +485,7 @@ button svg {
 }
 .die-outline {
   fill: #303030;
-  stroke: var(--company-color, #aaa);
+  stroke: #aaa;
   stroke-width: 3;
 }
 .unmapped-block {
@@ -1499,8 +1499,8 @@ button svg {
 
 /* Photo-specific outlines with unverified circuit function. */
 .circuit-unclassified {
-  fill: #668d9b24;
-  stroke: #6a9daa;
+  fill: #88888824;
+  stroke: #999;
   stroke-width: 3;
 }
 .completion-time { display: flex; align-items: baseline; justify-content: center; gap: 14px; margin: 14px 0 22px; }
