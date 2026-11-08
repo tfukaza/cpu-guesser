@@ -169,9 +169,24 @@ export default function Game({ catalog }: { catalog: Catalog }) {
   return (
     <main className="game-shell">
       <header className="site-header">
-        <a href="/" className="brand" aria-label="CPU Guesser home">
-          CPU Guesser
-        </a>
+        <div className="header-brand">
+          <a href="/" className="brand" aria-label="CPU Guesser home">
+            CPU Guesser
+          </a>
+          <div className="creator-credit">
+            <span>Made with 🤖 by Tomoki Fukazawa</span>
+            <a href="https://x.com/TomokiFukazawa" target="_blank" rel="noopener noreferrer" aria-label="Tomoki Fukazawa on Twitter / X" title="Twitter / X">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M18.9 2H22l-6.8 7.8L23.2 22h-6.3L12 14.6 5.5 22H2.3l7.9-9L.8 2h6.5l4.5 6.7L18.9 2Zm-1.1 18h1.7L6.4 3.9H4.6L17.8 20Z" />
+              </svg>
+            </a>
+            <a href="https://github.com/tfukaza" target="_blank" rel="noopener noreferrer" aria-label="Tomoki Fukazawa on GitHub" title="GitHub">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M12 .9a11.1 11.1 0 0 0-3.5 21.6c.6.1.8-.2.8-.5v-2.1c-3.2.7-3.9-1.4-3.9-1.4-.5-1.3-1.3-1.6-1.3-1.6-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.2 1.8 1.2 1.1 1.8 2.7 1.3 3.3 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.2 1.2a11 11 0 0 1 5.8 0C17.3 4.5 18.3 4.8 18.3 4.8c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.1V22c0 .3.2.6.8.5A11.1 11.1 0 0 0 12 .9Z" />
+              </svg>
+            </a>
+          </div>
+        </div>
         <div className="round-status">
           <span>Round {(session?.index ?? 0) + 1} of 5</span>
           <span className="session-score">
